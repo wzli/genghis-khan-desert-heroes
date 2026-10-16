@@ -25,3 +25,4 @@ assets/game/*
 *.jpg
 *.jpeg
 !assets/icon.png
+!docs/screenshots/*.png
