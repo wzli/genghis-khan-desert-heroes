@@ -1,0 +1,465 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Khwarazm lay along the lower Amu
+Darya, the supreme power of
+Central Asia. With Liao aid,
+Shah Muhammad expanded across
+Afghanistan, ruling the Islamic
+world. Later he joined Kuchlug
+to topple the Gurkhan, reaching
+the height of his glory.
+Khwarazm enjoyed thriving trade.
+Steppe nomads needed
+manufactured goods and cloth,
+and merchants traded between the
+two empires.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Villager
+Our herds are plump;
+they will fetch fine
+prices!
+#
+#
+#
+#003//Villager
+I love the silks and
+cosmetics of %3Khwarazm%%!
+#
+#
+#
+#004//Villager
+These herds will buy
+wagonloads of goods!
+Let us depart!
+#
+#
+#
+#005
+A grand caravan set out
+for the bazaar of
+%3Otrar%%.
+#
+#
+#
+#006
+We are a Mongol trading
+caravan!
+#
+#
+#
+#007
+Pass through!
+#
+#
+#
+#008
+Trading at %3Otrar%%
+square, the caravan
+loaded six wagons of
+wares.
+#
+#
+#
+#009
+Homeward bound!
+#
+#
+#
+#010//Inalchuq
+Did those Mongol
+traders pay duties?
+#
+#
+#
+#011
+Yes, my lord.
+#
+#
+#
+#012
+I have just taken
+office; do they know no
+manners? Seize those
+goods as tribute to me!
+#
+#
+#
+#013
+Surrender your goods as
+tribute to %3Inalchuq%%!
+#
+#
+#
+#014
+But we paid all taxes
+in full!
+#
+#
+#
+#015
+Silence! Leave the
+goods and begone!
+#
+#
+#
+#016
+Let us go! (We must
+report this to Genghis
+Khan!)
+#
+#
+#
+#017//Bandit
+Hahaha! We cut this
+pass and planted these
+trees! Leave toll or
+die!!
+#
+#
+#
+#018
+Bandits! %2Flee back to
+safety!!%%
+#
+#
+#
+#019
+None shall escape! Cut
+them down!
+#
+#
+#
+#020//Defeat
+None survived to report
+the tragedy.
+#
+#
+#
+#021//Villager
+Bandits are murdering
+our folk! Help!
+#
+#
+#
+#022
+A survivor recounted
+%3Inalchuq's%% crimes to
+%3Genghis Khan%%. The
+Khagan was furious, yet
+wished to preserve
+peace between the
+realms.
+#
+#
+#
+#023
+Dispatch an envoy to
+demand return of our
+goods from %3Inalchuq%%!
+#
+#
+#
+#024
+By your command,
+Khagan!
+#
+#
+#
+#025//Envoy
+%3Inalchuq%%, our monarchs
+agreed to fair trade.
+Return our seized goods
+to preserve peace!
+#
+#
+#
+#026
+Mongol spy! Slay him!
+#
+#
+#
+#027
+%3Inalchuq%% murdered our
+envoy! Hearing this,
+%3Genghis Khan%% wept and
+prayed to Heaven: 'I am
+not the cause of this
+bloodshed; grant me
+strength for
+vengeance!' %3Genghis
+Khan%% prepared war
+against %3Khwarazm%%, while
+Shah %3Muhammad II%%
+sneered in supreme
+arrogance.
+#
+#
+#
+#028//Inalchuq
+%3Genghis Khan%% marches
+upon us! Fight for your
+lives!
+#
+#
+#
+#029//Officer
+We captured %3Inalchuq%%!!
+#
+#
+#
+#030
+Brought before %3Genghis
+Khan%%, molten silver was
+poured into %3Inalchuq's%%
+ears and eyes as
+punishment for his
+greed!
+#
+#
+#
+#031//Genghis Khan
+%2Within 3 months, raze
+Otrar's buildings%% and
+dig out all the
+plundered treasures!
+#
+#
+#
+#032
+Three months expired;
+homes remain.
+#
+#
+#
+#033//Khwarazmian
+Raid the Mongol border
+and butcher their
+herdsmen!
+#
+#
+#
+#034//Villager
+Aaargh! Help!!
+#
+#
+#
+#035//Genghis Khan
+You butchered my
+people; your folk shall
+pay in blood! Break
+their borders and
+%2capture Bukhara!!%%
+#
+#
+#
+#036//Townsfolk
+Mercy! Spare us!
+Aaargh...!
+#
+#
+#
+#037//Genghis Khan
+%2Slay all resistance
+within 5 months to
+avenge our fallen kin!%%
+#
+#
+#
+#038
+Five months expired;
+resistance left.
+#
+#
+#
+#039
+Sacking %3Bukhara%%,
+Mongols spared children
+shorter than a whip,
+enslaved women, and
+pressed youth into the
+'%3Hashar%%' vanguard.
+#
+#
+#
+#040
+Beware!! An ambush!
+#
+#
+#
+#041
+#
+#
+#
+#042
+#
+#
+#
+#043
+#
+#
+#
+#044
+#
+#
+#
+#045
+#
+#
+#
+#046
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Villagers lead 8
+oxen, 8 steeds, 10 sheep to
+Otrar square Defeat: All trading
+villagers slain Time Limit: 5
+Years (End of 1223)
+#
+#
+#
+#201
+Objective: At least 1 villager
+returns home; destroy bandits
+Defeat: All trading villagers
+slain Time Limit: 5 Years (End
+of 1223)
+#
+#
+#
+#202
+Objective: Envoy
+reaches blue flag at
+Otrar gate to negotiate
+Defeat: All forces
+wiped out Time Limit: 5
+Years (End of 1223)
+#
+#
+#
+#203
+Objective: Capture
+Otrar City Defeat: All
+forces wiped out Time
+Limit: 5 Years (End of
+1223)
+#
+#
+#
+#204
+Objective: Raze all
+Otrar houses within 3
+months Defeat: Houses
+remain after 3 months
+or all forces wiped out
+Time Limit: 5 Years
+(End of 1223)
+#
+#
+#
+#205
+Objective: Crush
+Khwarazmian raid;
+capture Bukhara City
+Defeat: All forces
+wiped out Time Limit: 5
+Years (End of 1223)
+#
+#
+#
+#206
+Objective: Eliminate
+Bukhara foes within 5
+months Defeat: Enemies
+remain after 5 months
+or all forces wiped out
+Time Limit: 5 Years
+(End of 1223)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

@@ -1,0 +1,27 @@
+# System & Archive directories
+archive/
+staging/
+*.7z
+*.zip
+*.rar
+*.tar.*
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Game media & binary assets (distributed via GitHub Releases & Archive.org)
+assets/music/
+assets/fonts/
+assets/game/*
+!assets/game/ddraw.ini
+!assets/game/stage_en.ini
+!assets/game/stage_zh.ini
+!assets/game/text_en/
+!assets/game/text_zh/
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+!assets/icon.png

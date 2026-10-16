@@ -1,0 +1,41 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002
+Congratulations! You
+have unified the entire
+East Asian mainland.
+#
+#
+#
+#200
+Objective: Crush all nations and
+unify the East Asian mainland
+Defeat: Our forces are wiped out
+Time Limit: 100 Years (End of
+1303 AD)
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

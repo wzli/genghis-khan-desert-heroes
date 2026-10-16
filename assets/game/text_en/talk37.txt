@@ -1,0 +1,647 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Before moving to Samarkand,
+Urgench was the capital of
+Khwarazm, ruled by Queen Terken
+Khatun. Fiercely ambitious, she
+promoted Qangli nobles, named
+Oslakh heir, and backed Inalchuq
+of Otrar. When Samarkand fell,
+Jalal al-Din fled to Urgench,
+pursued by Jochi and Chagatai.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Chagatai
+I shall take %3Urgench%%
+within four months and
+present this grand
+triumph to Father!
+#
+#
+#
+#003//Jochi
+%3Chagatai%% scorns orders!
+Once %3Urgench%% falls, I
+shall report his
+defiance to Father!
+#
+#
+#
+#004
+%3Jochi%% and %3Chagatai%%
+fought their own
+separate campaigns.
+#
+#
+#
+#005//Jochi
+My strength is spent...
+I can no more...!
+#
+#
+#
+#006//Enemy
+Aaaargh...!
+#
+#
+#
+#007
+%3Rukn al-Din%% has fallen
+in battle!
+#
+#
+#
+#008
+%3Khan Malik%% has fallen
+in battle!
+#
+#
+#
+#009
+%3Faridun%% has fallen in
+battle!
+#
+#
+#
+#010
+%3Oslakh%% has fallen in
+battle!
+#
+#
+#
+#011
+My son...!! I shall
+have vengeance for
+this!
+#
+#
+#
+#012
+Brotherly feud stalled
+the siege and cost
+heavy losses. Hearing
+this, %3Genghis Khan%% sent
+%3Ogedei%% as supreme
+commander!
+#
+#
+#
+#013//Ogedei
+%2Rescue Jochi and
+Chagatai and bring them
+back to camp!%%
+#
+#
+#
+#014//Enemy
+Haha! The pup walks
+into the snare!
+#
+#
+#
+#015//Enemy
+Only these few Mongols?
+Cut them down!!
+#
+#
+#
+#016
+Failed to take %3Urgench%%
+in 4 months! Mission
+Failed!
+#
+#
+#
+#017
+Rest well. Father
+wishes us to unite our
+strength to storm
+%3Urgench%%!
+#
+#
+#
+#018
+Word of Shah %3Muhammad
+II's%% death reached
+%3Urgench%%.
+#
+#
+#
+#019//Terken Khatun
+%3Muhammad II%% is gone,
+leaving a dying
+realm... Crown %3Oslakh%%
+at once!
+#
+#
+#
+#020
+Mother, our father
+changed his will on his
+deathbed; I am the true
+heir!
+#
+#
+#
+#021
+No! %3Oslakh%% shall rule!
+Any who disobey shall
+be executed!
+#
+#
+#
+#022
+%3Jalal al-Din%% withdrew
+to avoid strife. Yet
+his supporters clashed
+with %3Terken Khatun's%%
+guard, bathing the city
+in blood!
+#
+#
+#
+#023//Ogedei
+The garrison is far
+larger than
+anticipated...!
+#
+#
+#
+#024//Terken Khatun
+Seize the sons of
+Genghis Khan!!
+#
+#
+#
+#025
+%3Jochi%%, %3Chagatai%%, and
+%3Ogedei%% were all
+captured!
+#
+#
+#
+#026//Defender
+Bloodthirsty Mongols,
+burn in hell! Retreat!
+#
+#
+#
+#027//Jochi
+Your Allah sent us as
+scourge upon you!
+Behold the doom of
+%3Khwarazm%%!
+#
+#
+#
+#028
+Mongols sacked %3Urgench%%,
+and %3Jochi%% diverted
+river waters to
+submerge the city in
+ruin!
+#
+#
+#
+#029
+A warrior stood upon a
+peak, gazing at his
+fallen home...
+#
+#
+#
+#030//Jalal al-Din
+'In war's cruel flame a
+hundred towns despair,
+scarce one in ten
+survives the bitter
+air!'
+#
+#
+#
+#031//Jochi
+It is %3Jalal al-Din%%!
+Come down and duel me
+hand to hand!
+#
+#
+#
+#032
+A duel? Come, all three
+brothers!
+#
+#
+#
+#033
+Let us face %3Jalal
+al-Din%%!
+#
+#
+#
+#034
+We are here; why do you
+hesitate?
+#
+#
+#
+#035
+%3Jalal al-Din%% leaped
+from a twenty-foot
+cliff! The brothers
+stood stunned by his
+fearless leap!
+#
+#
+#
+#036
+Who steps forward
+first?
+#
+#
+#
+#037//Chagatai
+Let me strike!
+#
+#
+#
+#038
+Suddenly Queen %3Terken
+Khatun%% rode forth with
+an ambush!
+#
+#
+#
+#039
+Seize the three Mongol
+princes and %3Jalal
+al-Din%% together!!
+#
+#
+#
+#040
+Mother, you...?!
+
+No time for
+duels--farewell!!
+#
+#
+#
+#041
+He escaped again! Slay
+the rest!
+#
+#
+#
+#042
+The queen's ambush is
+fierce! %2One of us must
+break through to report
+to Father!%%
+#
+#
+#
+#043//Narration
+Learning of Muhammad's
+death and the ambush,
+%3Genghis Khan%% rode
+straight to %3Urgench%%.
+#
+#
+#
+#044
+This queen's ambition
+knows no bounds...
+Khwarazm must be wiped
+from the earth!
+#
+#
+#
+#045
+We captured %3Terken
+Khatun%%!
+#
+#
+#
+#046
+Put me to the sword and
+let me follow %3Muhammad
+II%%!
+#
+#
+#
+#047
+Queen %3Terken Khatun%% and
+the royal women were
+captured. Genghis Khan
+had the young princes
+slain and gave the
+princesses to his sons.
+Terken Khatun was taken
+to %3Karakorum%%, dying in
+exile 13 years later.
+#
+#
+#
+#048//Genghis Khan
+%3Ghazni%% in the south is
+their last bastion!
+Full speed ahead!
+#
+#
+#
+#049
+Who built these river
+watchtowers barring our
+advance?!
+#
+#
+#
+#050//Jalal al-Din
+General %3Temur Malik%%,
+the Mongols breach our
+lines! Stand shoulder
+to shoulder!
+#
+#
+#
+#051
+My honored Shah, I
+follow you unto death!
+#
+#
+#
+#052
+The redoubt is taken!
+#
+#
+#
+#053
+While breath remains in
+me, I shall fight for
+our homeland!
+#
+#
+#
+#054
+Unceasing struggle!
+Charge!!
+#
+#
+#
+#055
+I am wounded! Fall
+back!
+#
+#
+#
+#056
+%3Jalal al-Din%% and %3Temur
+Malik%% withdrew; Genghis
+Khan ordered the
+pursuit to continue.
+#
+#
+#
+#057//Soldier
+The Mongols land! Repel
+them!
+#
+#
+#
+#058
+The demons are at the
+gate! O Allah, have
+mercy...!
+#
+#
+#
+#059
+Drive cattle forth as
+sacrifice to the demons
+to spare us!
+#
+#
+#
+#060
+A herd of cattle
+stampeded out of the
+gate...!
+#
+#
+#
+#061
+The demons enter the
+city...!
+#
+#
+#
+#062
+Curse my weakness,
+unable to protect my
+people...!
+#
+#
+#
+#063//Narration
+Mongols took %3Ghazni%%.
+%3Temur Malik%% was
+captured and executed
+with honor. %3Jalal
+al-Din%% fled wounded.
+#
+#
+#
+#064
+%3Jalal al-Din%% is
+wounded--hunt him down!
+#
+#
+#
+#065
+There he is! Do not let
+him escape!
+#
+#
+#
+#066
+Hah! You pursue like
+shadows!
+#
+#
+#
+#067
+You have nowhere to
+run! Surrender!
+#
+#
+#
+#068
+Is that so?!
+#
+#
+#
+#069
+Defying his wounds,
+%3Jalal al-Din%% spurred
+his steed and plunged
+down the twenty-foot
+gorge into the raging
+%3Indus River%%!
+#
+#
+#
+#070
+Farewell, warriors!
+#
+#
+#
+#071
+%3Jalal al-Din%% vanished
+into the %3Indus River%%.
+Reaching the shore,
+%3Genghis Khan%% spoke to
+his sons...
+#
+#
+#
+#072
+'A son like this every
+father should pray for!
+In all my campaigns,
+never have I seen such
+valor! Though %3Muhammad
+II%% is dead, this youth
+remains our fiercest
+foe!'
+#
+#
+#
+#073
+%3Genghis Khan%% sent
+twenty thousand cavalry
+across the %3Indus River%%,
+yet no trace of %3Jalal
+al-Din%% was ever found.
+#
+#
+#
+#074
+Charge!!
+#
+#
+#
+#075
+Retreat!
+#
+#
+#
+#076
+He slipped away! Pull
+back!
+#
+#
+#
+#200
+Objective: Capture Urgench
+within 4 months Defeat: All
+forces wiped out Time Limit: 5
+Years (End of 1225)
+#
+#
+#
+#201
+Objective: Rescue Jochi and
+Chagatai to camp; crush Urgench
+foes Defeat: Jochi, Chagatai,
+Ogedei all fallen in battle Time
+Limit: 5 Years (End of 1225)
+#
+#
+#
+#202
+Objective: Jochi,
+Chagatai, Ogedei reach
+flag beside Jalal
+al-Din Defeat: Jochi,
+Chagatai, Ogedei all
+fallen in battle Time
+Limit: 5 Years (End of
+1225)
+#
+#
+#
+#203
+Objective: One brother
+escapes to friendly
+camp Defeat: Jochi,
+Chagatai, Ogedei all
+fallen in battle Time
+Limit: 5 Years (End of
+1225)
+#
+#
+#
+#204
+Objective: Capture
+Terken Khatun's
+stronghold Defeat: All
+forces wiped out Time
+Limit: 5 Years (End of
+1225)
+#
+#
+#
+#205
+Objective: Breach
+Ghazni City Defeat: All
+forces wiped out Time
+Limit: 5 Years (End of
+1225)
+#
+#
+#
+#206
+Objective: Pursue Jalal
+al-Din Defeat: All
+forces wiped out Time
+Limit: 5 Years (End of
+1225)
+#
+#
+#
+#207
+Objective: Rescue Jochi
+and Chagatai back to
+camp Defeat: All forces
+wiped out Time Limit: 5
+Years (End of 1225)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

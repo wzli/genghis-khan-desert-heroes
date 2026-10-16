@@ -1,0 +1,522 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+At the Battle of Yehuling, Jin
+generals abandoned their men and
+fled, while Mongol warriors grew
+fiercer with every clash. The
+greatest shield of the Central
+Plains was the Great Wall.
+Through the ages, northern
+incursions were halted by its
+mighty ramparts. Yet against the
+unyielding will of the Mongols
+and the faint hearts of Jin
+commanders, could stone walls
+hold back destiny?
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Genghis Khan
+Since ancient times,
+the Central Plains have
+overflowed with goods
+and folk. Our north has
+endless plains and
+herds, yet lacks silk,
+gold, silver, and iron.
+
+Only by taking their
+wealth can our Mongol
+realm flourish!
+#
+#
+#
+#003
+All roared in one
+voice: 'Hoorah!'
+#
+#
+#
+#004//Genghis Khan
+The %3Great Wall%% is long,
+yet our spirits soar
+higher than the sky! We
+shall breach it and
+strike terror into
+Jurchen hearts! Ride
+forth!
+#
+#
+#
+#005//Narration
+%3Genghis Khan%% breached
+the northern ramparts
+of the %3Great Wall%%.
+Panic gripped the Jin
+people!
+#
+#
+#
+#006//Wanyan Yongji
+The Mongols draw near!
+Beg %3Western Xia%% for
+military aid at once!
+#
+#
+#
+#007//Wanyan Fuxing
+Your Majesty, when
+%3Western Xia%% pleaded for
+aid against Mongols,
+you refused them. The
+two realms are now
+bitter foes!
+#
+#
+#
+#008
+Alas! What is to be
+done...?!
+#
+#
+#
+#009//Soldier
+%3Xuande%% has fallen!
+Flee!
+#
+#
+#
+#010//Soldier
+The treasury of %3Dexing%%
+holds vast wealth!
+#
+#
+#
+#011//Genghis Khan
+Seize it all!
+#
+#
+#
+#012//Hushahu
+The Mongols took %3Dexing%%
+and march upon %3Datong%%!
+#
+#
+#
+#013//Soldier
+General Hu, %3Datong%% has
+stout walls and many
+men; we can surely hold
+against them!
+#
+#
+#
+#014
+Hold fast!
+
+(Open the treasury,
+take weapons and
+silver, and flee! If I
+do not take them,
+Mongols will!)
+#
+#
+#
+#015//Soldier
+General Hu abandoned
+the city and fled! All
+hope is lost!
+#
+#
+#
+#016//Officer
+%3Hushahu%% looted the
+treasury and deserted!
+The Emperor must punish
+his treason!
+#
+#
+#
+#017
+I withdrew only to
+preserve our fighting
+strength! Grant me
+mercy, Your Majesty!
+#
+#
+#
+#018//Wanyan Yongji
+Woe! What if the
+Mongols march straight
+to our gates?!
+#
+#
+#
+#019//Zhuhu Gaoqi
+Fear not, Your Majesty.
+%3Juyong Pass%% is manned
+by elite %3artillery
+gunners%%. Mongols will
+be blown to ash!
+#
+#
+#
+#020
+Khagan, the treasury of
+%3Datong%% was picked
+clean.
+#
+#
+#
+#021
+%3Datong%% was the Western
+Capital of Jin; they
+fled in haste. Press
+south!
+#
+#
+#
+#022
+Khagan, southward lies
+the stone barrier of
+the %3Great Wall%%. %3Juyong
+Pass%% is a deadly choke
+point!
+#
+#
+#
+#023//Genghis Khan
+Northern hosts have
+often broken upon
+%3Juyong Pass%%. We must
+not be reckless.
+%2Advance to the pass,
+then feign retreat to
+lure the enemy out into
+the open!%%
+#
+#
+#
+#024//Jin Gunner
+Aim cannons at the
+Mongols! Blast them to
+pieces!
+#
+#
+#
+#025//Zhuhu Gaoqi
+%3Beikou%% is lost! Fall
+back to %3Yanjing%%!
+#
+#
+#
+#026//Hushahu
+%3Zhuhu Gaoqi%% lost the
+northern gate of %3Juyong
+Pass%%! Hold fast, or the
+empire falls!
+#
+#
+#
+#027//Hushahu
+Your Majesty, the
+Mongols took %3Juyong
+Pass%%!
+#
+#
+#
+#028//Wanyan Yongji
+Useless fools! What
+shall I do?!
+#
+#
+#
+#029
+With %3Juyong Pass%%
+breached, the way to
+%3Yanjing%% lies open!
+Rally before %3Yanjing%% to
+negotiate with %3Wanyan
+Yongji%%!
+#
+#
+#
+#030//Officer
+%3Yanjing%% lies before us!
+Let us storm it now!
+#
+#
+#
+#031//Genghis Khan
+We campaign to seize
+wealth. %3Yanjing%% has
+high walls and many
+troops; a siege will
+drag on. Leave this
+isolated city to wither
+on its own!
+#
+#
+#
+#032
+%3Genghis Khan%% sent %3Yelu
+Ahai%% as envoy into
+%3Yanjing%%.
+#
+#
+#
+#033//Yelu Ahai
+Your Majesty, %3Genghis
+Khan%% declares: 'Hebei
+is conquered. If you
+reward my army, we
+shall withdraw north.'
+#
+#
+#
+#034//Wanyan Yongji
+Ministers, what counsel
+do you offer?
+#
+#
+#
+#035//Zhuhu Gaoqi
+The Mongols are weary;
+let us ride out and
+strike them now!
+#
+#
+#
+#036
+What do the others say?
+#
+#
+#
+#037
+Our levies yearn for
+home. If defeated, they
+scatter; even if
+victorious, they desert
+to see kin. We must
+make peace, wait for
+them to leave, and plan
+anew.
+#
+#
+#
+#038
+Agreed. We offer peace
+to %3Genghis Khan%%! Name
+your terms!
+#
+#
+#
+#040
+Surrender a Jin
+princess to wed %3Genghis
+Khan%%, alongside 100,000
+silver, one million
+grain, and 5,000
+warhorses!
+#
+#
+#
+#041
+Yes, yes! We grant all
+in full!
+#
+#
+#
+#042
+The Jin delivered all
+in full. We withdraw
+with the spoils!
+#
+#
+#
+#043
+%3Genghis Khan%% kept his
+word and withdrew.
+Brief peace descended
+between Mongol and Jin.
+#
+#
+#
+#044
+Tear these Mongols
+apart!
+#
+#
+#
+#045
+%2Escort bridal carriage,
+10 supply wagons, 5
+warhorses, and 21
+generals beyond the
+Great Wall into the 4
+red flags.%%
+#
+#
+#
+#046
+Look! Is that a robe of
+sable fur?
+#
+#
+#
+#047
+Let me inspect it!
+#
+#
+#
+#048
+Astounding! Light as
+feathers... Wolf fur?!
+Could it be the "%3Blue
+Wolf Robe%%"?
+#
+#
+#
+#049
+Indeed, it matches the
+sacred "%3Blue Wolf
+Robe%%"! To think our
+ancestral treasure lay
+forgotten in these
+ruins!
+#
+#
+#
+#050
+%3Beikou%% of %3Juyong Pass%%
+has been breached by
+our troops!
+#
+#
+#
+#051
+Great Wall bastion
+%3Juyong Pass%% has fallen
+to our troops!
+#
+#
+#
+#052
+When Jin raided our
+lands, they enslaved
+our folk and looted our
+ancient treasures.
+#
+#
+#
+#053
+Foster-father %3Ong Khan%%
+spoke of the "%3Blue Wolf
+Robe%%" held in Jin
+lands. We must recover
+it!
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Capture two forts on
+northern Great Wall Defeat: All
+forces wiped out Time Limit: 7
+Years (End of 1219)
+#
+#
+#
+#201
+Objective: Capture Xuande,
+Dexing, and Datong Defeat: All
+forces wiped out Time Limit: 7
+Years (End of 1219)
+#
+#
+#
+#202
+Objective: Capture
+Beikou and Juyong Pass
+Defeat: All forces
+wiped out Time Limit: 7
+Years (End of 1219)
+#
+#
+#
+#203
+Objective: Capture 5
+camps outside Yanjing;
+Genghis Khan reaches
+blue flag for talks
+Defeat: All forces
+wiped out Time Limit: 7
+Years (End of 1219)
+#
+#
+#
+#204
+Objective: Escort
+Bridal Carriage, 10
+wagons, 5 steeds, and
+21 generals past Great
+Wall to flags Defeat:
+All forces wiped out
+Time Limit: 7 Years
+(End of 1219)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

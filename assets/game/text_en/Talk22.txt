@@ -1,0 +1,567 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+The feud between Mongols and
+Tatars stained the pages of
+steppe history with blood. When
+the Tatars submitted to the Jin
+Dynasty, they acted as wolves
+for the Jurchen masters, hunting
+down Mongol heroes. Generation
+after generation of Kiyad chiefs
+poured their blood onto the
+earth. Yet in a recent campaign,
+the Tatars seized plundered
+tribute for themselves, angering
+the Jin court. The Jin sought an
+alliance with the Mongols to
+crush their unruly vassals.
+Guided by the principle that
+'the enemy of my enemy is my
+friend', Temujin agreed to a
+temporary pact with Jin. It was
+a golden chance for the Mongols
+to wash away generations of
+blood vengeance.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Deployment
+%3Temujin's%% host stands
+ready. The hour agreed
+upon with the %3Jin
+Dynasty%% approaches.
+#
+#
+#
+#003//Muqali
+Khan %3Temujin%%, on behalf
+of the %3Kereit clan%%, I
+bring a detachment of
+reinforcements to place
+at your command.
+#
+#
+#
+#004//Bo'orchu
+Given %3Ong Khan's%% mighty
+host, are these meager
+numbers all he could
+spare?
+#
+#
+#
+#005//Muqali
+This...
+#
+#
+#
+#006//Temujin
+(Khan Father %3Ong Khan%%
+may have his own
+concerns.) %3Muqali%%, my
+thanks to you for
+always aiding me with
+such steadfast
+devotion. Ready the
+host! Cross the river
+ahead and join the %3Jin
+Dynasty%% armies to
+pincer the %3Tatars%%!
+#
+#
+#
+#007//Jin Soldier
+Slay them all...!
+#
+#
+#
+#008//Jin Commander
+Mission complete!
+Withdraw!
+#
+#
+#
+#009//Tatar Vanguard Crushed
+%3Temujin%% joined hands
+with the %3Jin Dynasty%% to
+encircle the %3Tatars%%.
+Unable to withstand
+both fronts, the Tatar
+vanguard was crushed.
+The Jin Grand
+Chancellor rejoiced at
+the news, wiping away
+old animosities and
+showering the Mongols
+with royal titles and
+gifts.
+#
+#
+#
+#010//Temujin
+The %3Tatars%% have
+suffered grievous
+wounds. I intend to
+press our advantage and
+subjugate the entire
+%3Tatar clan%%!
+#
+#
+#
+#011//Altan
+Aye! The %3Tatars%% have
+oppressed our %3Mongols%%
+for too long! It is
+time for vengeance!
+#
+#
+#
+#012//Khuchar
+Aye! Let us annihilate
+the %3Tatars%% in a single
+blow!
+#
+#
+#
+#013//Temujin
+The gateways to the
+%3Tatar clan%% are heavily
+fortified; breaking
+through the Maple
+Redoubt and Pine
+Redoubt will be no easy
+task. Our battle plan
+is this: first destroy
+the arrow towers atop
+the high cliffs. Using
+the terrain, %3Qasar%% and
+%3Jebe%% shall lead archers
+into ambush positions.
+#
+#
+#
+#014//Qasar and Jebe
+Understood! Deploying
+atop the high cliffs at
+once!
+#
+#
+#
+#015//Temujin
+%2Do not charge the enemy
+redoubts directly! Lure
+the garrison out toward
+the red banner%%, and
+%3Qasar%% and %3Jebe%% will
+rain arrows upon them!
+Begin!
+#
+#
+#
+#016//Tatar Chief
+%3Temujin%% attacks!
+Charge, men of the
+steppe!
+#
+#
+#
+#017//Jebe
+Loose arrows!
+#
+#
+#
+#018//Tatar Chief
+Mercy! I was only
+following orders; spare
+an old man's life!
+#
+#
+#
+#019//Temujin
+Take him captive.
+#
+#
+#
+#020//Megujin-Se'ultu
+%3Temujin%%! You Mongols
+are like weeds on the
+prairie--burn you as we
+may, you sprout back
+with the spring wind!
+Always dreaming of
+revenge! Your ancestors
+died by our hands
+because they were fools
+who overreached, and
+you shall never conquer
+%3Tatar%% soil!
+#
+#
+#
+#021//Temujin
+Avenge my father and
+grandfathers...!
+#
+#
+#
+#022//Tatar Subjugated
+The %3Tatar clan%% is
+conquered! Centuries of
+blood debt are finally
+settled. %3Temujin%% issued
+a stern decree: execute
+every male taller than
+a cart linchpin, and
+distribute all captured
+livestock and treasure
+under strict imperial
+discipline!
+#
+#
+#
+#023//Megujin-Se'ultu
+%3Temujin%%, I beg you, do
+not...!
+#
+#
+#
+#024//Temujin
+Spirits of my fathers
+and ancestors in
+Heaven, %3Temujin%% avenges
+you today with his own
+blade! Yaaah!
+#
+#
+#
+#025//Villager
+Run for your lives!
+#
+#
+#
+#026//Shigi Qutuqu
+Waaah...!
+#
+#
+#
+#027//Temujin
+A young boy... He has
+bright, intelligent
+eyes. Bring him to the
+main camp as a foster
+son for Mother.
+#
+#
+#
+#028//Temujin
+What an ethereal,
+enchanting beauty...
+Fair maiden, what is
+your name?
+#
+#
+#
+#029//Yesugen
+My name is %3Yesugen%%,
+daughter of %3Yeke Ceren%%.
+I beg the great Khan to
+spare my father! I will
+do anything you ask!
+#
+#
+#
+#030//Temujin
+Truly? I will spare
+your father. Come with
+me to our camp and
+become my noble
+consort.
+#
+#
+#
+#031//Yesugen
+My deepest gratitude,
+my Khan! I have an
+elder sister named
+%3Yesui%%. She is
+exceedingly
+beautiful--far more
+worthy of a great Khan
+than I! Yet she has
+gone missing in the
+chaos. I pray the Khan
+will find my sister!
+#
+#
+#
+#032//Sentry
+Hide quickly, do not
+let those Mongols
+discover you!
+#
+#
+#
+#033//Yesui
+Oh no! I have been
+discovered!
+#
+#
+#
+#034//Temujin
+Heavens... what
+peerless beauty! Your
+sister %3Yesugen%% sent me
+to find you. Come back
+to our camp with me.
+#
+#
+#
+#035//Imperial Marriage
+%3Temujin%% proclaimed
+%3Yesui%% as his %3Second
+Khatun%% and %3Yesugen%% as
+his %3Third Khatun%%,
+bestowing great honors
+upon their father %3Yeke
+Ceren%%.
+#
+#
+#
+#036//Bo'orchu
+Report, my Khan! %3Altan%%
+and %3Khuchar%% have
+pocketed captured
+plunder for themselves
+and refuse to yield it
+to common distribution!
+#
+#
+#
+#037//Temujin
+For years they have
+acted on selfish whim!
+While warriors fought
+and bled, they cared
+only for looting,
+ignoring military
+discipline. To uphold
+the law, I order all
+their spoils
+confiscated!
+#
+#
+#
+#038//Altan
+These are the spoils I
+won in battle! Give
+them back! %3Temujin%% has
+gone too far!
+#
+#
+#
+#039//Khuchar
+Outrageous! %3Altan%%, let
+us leave %3Temujin%% and
+defect to %3Ong Khan%%!
+#
+#
+#
+#040//Nobles Defect
+In bitter anger, %3Altan%%
+and %3Khuchar%% deserted
+%3Temujin%% to seek refuge
+with %3Ong Khan%%. Around
+the same time, %3Ong Khan%%
+had taken in %3Jamukha%%,
+growing ever more
+powerful. Yet
+comforting to Temujin's
+heart was %3Muqali%%, who
+recognized %3Temujin%% as a
+lord worthy of eternal
+loyalty, choosing to
+leave %3Ong Khan%% and
+swear his life to
+%3Temujin%%.
+#
+#
+#
+#041//Megujin Slain
+%3Megujin-Se'ultu%% of the
+%3Tatars%% has been
+beheaded.
+#
+#
+#
+#042//Warrior
+%2(Fall back and draw the
+enemy toward the red
+banner!)%%
+#
+#
+#
+#043//Scream
+Help! Mercy...!
+#
+#
+#
+#044
+%3Chagatai%%, second son of
+%3Temujin%%, has reached
+manhood.
+#
+#
+#
+#045
+%3Borte%%, these two
+sisters whom I brought
+back from the %3Tatars%%
+are %3Yesui%% and %3Yesugen%%.
+#
+#
+#
+#046
+The Khan carries heavy
+burdens of state, and I
+cannot manage every
+household duty alone.
+Having two sweet
+sisters to help care
+for you is a blessing!
+#
+#
+#
+#047
+Elder Sister!
+#
+#
+#
+#048
+Hahaha! You are all so
+thoughtful and
+understanding! My heart
+rejoices! Hahaha!
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Join forces with Jin
+to defeat the Tatar main host
+Defeat: All friendly forces
+defeated Time Limit: 3 Years
+(End of 1203 AD)
+#
+#
+#
+#201
+Objective: Seize 3 camps and
+defeat the redoubt garrison
+Defeat: All friendly forces
+defeated Time Limit: 3 Years
+(End of 1203 AD)
+#
+#
+#
+#202
+Objective: Search each
+camp and subjugate all
+enemy warriors Defeat:
+All friendly forces
+defeated Time Limit: 3
+Years (End of 1203 AD)
+#
+#
+#
+#203
+Objective: Find the
+missing Yesui within
+the camps Defeat: All
+friendly forces
+defeated Time Limit: 3
+Years (End of 1203 AD)
+#
+#
+#
+#204
+Objective: Escort Yesui
+and Yesugen safely into
+the main camp Defeat:
+All friendly forces
+defeated Time Limit: 3
+Years (End of 1203 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

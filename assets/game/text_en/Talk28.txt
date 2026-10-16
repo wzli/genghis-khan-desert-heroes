@@ -1,0 +1,554 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+The Kingdom of %3Qocho%% was founded
+by the Uyghurs in the Turpan
+basin. Its ruler, %3Idi-qut%%, was
+once vassal to the %3Western Liao%%,
+yet broke his ties and rode in
+person to swear fealty and offer
+tribute to %3Genghis Khan%%.
+
+The %3Qarluq%% Turks were also
+subject to %3Western Liao%% rule.
+Two rulers governed the %3Qarluq%%:
+%3Arslan Khan%% of %3Kayaliq%%, and
+%3Buzar Khan%% of %3Almaliq%%. Both
+groaned under cruel overseers,
+their folk silenced in dread.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Bo'orchu
+Sire! The %3Idi-qut%% of
+%3Qocho%% arrives to seek
+an audience!
+#
+#
+#
+#003//Idi-qut
+Your fame echoes to the
+horizon, Khagan! I
+offer submission that
+%3Mongol%% and %3Qocho%% become
+lord and vassal. I
+shall serve you as son
+and servant with all my
+heart!
+#
+#
+#
+#004//Genghis Khan
+%3Idi-qut%%, you broke away
+from the %3Western Liao%%
+to join me. I shall
+nurture your people and
+guard the peace of your
+realm!
+#
+#
+#
+#005//Idi-qut
+My humble gratitude,
+Khagan! I take my
+leave.
+#
+#
+#
+#006//Muqali
+Sire, %3Buzar Khan%% of the
+%3Qarluq%% has arrived to
+pay homage!
+#
+#
+#
+#007//Buzar
+We were vassals of
+%3Western Liao%%, yet long
+admired your majesty.
+Enduring Liao tyranny,
+we now turn to you to
+stand against their
+oppression!
+#
+#
+#
+#008//Genghis Khan
+Since you pledge fealty
+in truth, I shall
+uphold justice and
+peace.
+
+I hear the %3Naiman%%
+prince %3Kuchlug%% fled to
+%3Western Liao%%. Have you
+word of him?
+#
+#
+#
+#009//Buzar
+%3Kuchlug%% wed the Liao
+princess and raids our
+frontiers, insulting
+our people and our
+faith of %3Islam%%!
+#
+#
+#
+#010//Genghis Khan
+He is deceitful and
+venomous. Bordering his
+domain, you must remain
+watchful and on guard!
+#
+#
+#
+#011//Buzar
+My thanks, Khagan! I
+take leave.
+#
+#
+#
+#012//Genghis Khan
+The southern realms
+have mighty walls.
+Breaching them costs us
+far too many brave
+warriors.
+#
+#
+#
+#013//Bo'orchu
+Legends speak of an
+ancient siege engine
+relic. We may study it
+to construct catapults
+of war!
+#
+#
+#
+#014//Genghis Khan
+%2Lead men to recover the
+catapult relic and
+bring it to our tent!%%
+#
+#
+#
+#015//Guard
+The catapult relic has
+arrived inside the
+command tent!
+#
+#
+#
+#016//Genghis Khan
+%3Muster six catapult
+units and bring them
+before me for review!%%
+#
+#
+#
+#017//Narration
+Armed with firepowder,
+the %3Heavy Catapult%%
+shatters stone. %3Genghis
+Khan%% nodded in praise.
+#
+#
+#
+#018//Torito
+%3Torito%% and his sons
+seek an audience with
+King %3Idi-qut%%!
+#
+#
+#
+#019//Idi-qut
+I have sworn fealty to
+%3Genghis Khan%%! What
+brings you here?
+#
+#
+#
+#020//Torito
+I bring urgent tidings!
+Open the gates and let
+me speak within!
+#
+#
+#
+#021//Narration
+%3Idi-qut%% opened the
+gates. Under pretense
+of counsel, %3Torito%% and
+his sons seized %3Idi-qut%%
+and minister %3Bilge%%,
+casting them into
+dungeons and usurping
+%3Qocho%%!
+#
+#
+#
+#022//Genghis Khan
+The treacherous %3Torito%%
+and sons stole my
+vassal and caged my
+men! Slay them on
+sight! Let none flee!
+#
+#
+#
+#023//Torito
+Spare me! Hear my
+words--Aaargh!
+#
+#
+#
+#024//Narration
+%3Torito%% was slain!
+#
+#
+#
+#025//Qodu
+Hold! Grant me a dying
+wish--Argh!
+#
+#
+#
+#026//Narration
+%3Qodu%% was slain!
+#
+#
+#
+#027//Chila'un
+I long revered %3Genghis
+Khan%%! Let me serve
+him--Aaaaargh!
+#
+#
+#
+#028//Narration
+%3Chila'un%% was slain!
+#
+#
+#
+#029//Genghis Khan
+Since %3Torito%% stole
+%3Borte%%, for twenty-eight
+years they pricked my
+flesh like thorns. At
+last, the thorn is
+plucked!
+
+Rescue %3Idi-qut%% and
+%3Bilge%% from the dungeon
+at once!
+#
+#
+#
+#030//Idi-qut
+My gratitude, Khagan,
+for saving my life and
+realm!
+#
+#
+#
+#031//Genghis Khan
+Why has %3Arslan Khan%% of
+the %3Qarluq%% not yet come
+to submit?
+#
+#
+#
+#032//Idi-qut
+Liao overseers built
+twin forts flanking
+%3Kayaliq%%, trapping
+%3Arslan Khan%% under their
+heel!
+#
+#
+#
+#033//Genghis Khan
+Advance upon %3Kayaliq%%!
+Liberate the %3Qarluq%%
+people!
+#
+#
+#
+#034//Muqali
+The Liao garrisons are
+routed!
+#
+#
+#
+#035//Narration
+%3Mahmud%% threw open the
+gates to welcome the
+host of %3Genghis Khan%%!
+#
+#
+#
+#036//Mahmud
+Hail, %3Genghis Khan%%! My
+father long wished to
+submit, yet the %3Western
+Liao%% murdered him... It
+was his dying vow.
+Today I lead all
+%3Kayaliq%% to surrender!
+#
+#
+#
+#037//Genghis Khan
+I see your loyalty.
+%3Kayaliq%% and its folk
+shall remain under your
+righteous rule!
+#
+#
+#
+#038//Narration
+At %3Almaliq%%, %3Buzar Khan%%
+rode forth to hunt...
+#
+#
+#
+#039//Kuchlug
+At last! Seize %3Buzar%%!
+#
+#
+#
+#040//Buzar
+Aaargh! Coward,
+striking from the
+shadows!
+#
+#
+#
+#041//Kuchlug
+Silence, captive worm!
+Order the gates open,
+or your throat is cut!
+#
+#
+#
+#042//Buzar
+You torment my folk and
+persecute our faith! I
+submitted to %3Genghis
+Khan%%; he will grant no
+mercy!
+#
+#
+#
+#043//Kuchlug
+He is far in %3Mongol%%
+lands! I grant you two
+months to ponder.
+Submit or die!
+#
+#
+#
+#044//Kuchlug
+Two months have passed!
+Slay %3Buzar%% and storm
+%3Almaliq%%!
+#
+#
+#
+#045//Kuchlug
+What?! The Mongols
+approach! Storm %3Almaliq%%
+and slaughter %3Buzar%%
+now!
+#
+#
+#
+#046//Buzar
+Aaaargh...!
+#
+#
+#
+#047//Kuchlug
+%3Kuchlug%% captured
+%3Almaliq%%! Mission
+Failed!
+#
+#
+#
+#048//Genghis Khan
+%3Kuchlug%% seeks to seize
+%3Almaliq%%! We shall not
+suffer it! Ride swiftly
+and lift the siege of
+%3Almaliq%%!
+#
+#
+#
+#049//Kuchlug
+My reinforcements draw
+near! Who slays whom is
+yet undecided! Retreat!
+#
+#
+#
+#050//Narration
+The troops of %3Genghis
+Khan%% broke the Liao
+host, saving %3Almaliq%%.
+
+Though %3Buzar Khan%% fell,
+his son %3Chaganakh%%
+inherited his mantle
+with the Khagan's
+favor, ruling %3Almaliq%%
+for generations.
+#
+#
+#
+#051//Narration
+Within the realm of
+Qocho...
+#
+#
+#
+#052
+Storming %3Kayaliq%%
+directly provoked the
+wrath and sorrow of its
+people!
+#
+#
+#
+#053
+%3Genghis Khan%% received
+word...
+#
+#
+#
+#054
+Entering %3Qocho%%, the
+Mongols found %3Torito%%
+and his sons in hiding!
+#
+#
+#
+#055
+This is the %3Catapult
+Relic%%! Transport it
+back to camp!
+#
+#
+#
+#056
+%2Open the Artifacts
+window, equip the
+Catapult Relic as town
+treasure, then train
+Heavy Catapult units!%%
+#
+#
+#
+#057//Narration
+%3Arslan Khan%% of %3Kayaliq%%
+plotted to slay the
+Liao overseer, but the
+scheme failed and he
+was murdered.
+#
+#
+#
+#058
+Aaargh...!
+#
+#
+#
+#059
+Father...!
+#
+#
+#
+#060
+Upon Arslan's death,
+his son %3Mahmud%% took the
+throne. The %3Western
+Liao%% built twin forts
+to monitor Kayaliq
+city.
+#
+#
+#
+#200
+Objective: Recover catapult
+relic and deliver it to
+Karakorum Defeat: All forces
+wiped out Time Limit: 5 Years
+(End of 1212)
+#
+#
+#
+#201
+Objective: Construct 6 catapults
+and present them to Genghis Khan
+Defeat: All forces wiped out
+Time Limit: 5 Years (End of
+1212)
+#
+#
+#
+#202
+Objective: Slay Torito
+and sons; free Idi-qut
+and Bilge from dungeon
+Defeat: All forces
+wiped out Time Limit: 5
+Years (End of 1212)
+#
+#
+#
+#203
+Objective: Capture twin
+forts flanking Kayaliq
+Defeat: Assaulting
+Kayaliq or all forces
+wiped out Time Limit: 5
+Years (End of 1212)
+#
+#
+#
+#204
+Objective: Relieve
+Almaliq and annihilate
+Kuchlug's army Defeat:
+Almaliq falls to
+Kuchlug Time Limit: 5
+Years (End of 1212)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

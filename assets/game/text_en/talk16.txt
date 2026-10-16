@@ -1,0 +1,460 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+As Temujin and his brothers grew
+day by day, nature's hardships
+lessened. Along the Onon River,
+they herded, hunted, and fished,
+and their fortunes improved. In
+1179 AD, Temujin turned sixteen,
+and his brothers Qasar and
+Belgutei had grown into sturdy
+youths. The footsteps of spring
+drew near...
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Mother
+How swiftly time
+passes. Both %3Belgutei%%
+and %3Qasar%% have grown
+into men.
+#
+#
+#
+#003//Temujin
+%3Belgutei%% is burly and
+mighty; %3Qasar%% is a
+master of the bow. Both
+are fine brothers to
+me!
+#
+#
+#
+#004//Qasar
+I want to be a true
+warrior like my elder
+brother!
+#
+#
+#
+#043//Belgutei
+I want to be a warrior
+too!
+#
+#
+#
+#005//Mother
+Haha... You are both
+valiant sons of our
+%3Kiyad clan%%! %3Temujin%%,
+take %3Belgutei%% and %3Qasar%%
+out to pasture herds!
+#
+#
+#
+#006//Temujin
+Hark! I hear horses
+whinnying! Hurry to the
+lower corral!
+#
+#
+#
+#007//Temujin
+What do you think
+you're doing?!
+#
+#
+#
+#008//Bandit Chief
+Your horses are sturdy
+indeed!
+
+Pin them down and seize
+all the steeds!
+#
+#
+#
+#009//Bandit Chief
+We have them! Fall back
+swiftly!
+#
+#
+#
+#010//Temujin
+The horses have been
+stolen! Vile thieves!
+Those were our father's
+legacy--%2we must win
+them back!%% Give chase!
+#
+#
+#
+#011//Bandit
+They pursue us! Block
+them!
+#
+#
+#
+#012//Jelme
+Halt! Return my brother
+and my cattle!
+#
+#
+#
+#013//Temujin
+?! Your brother and
+cattle?
+#
+#
+#
+#014//Jelme
+Feigning ignorance, you
+thieving raiders...?!
+#
+#
+#
+#015//Temujin
+Are you unharmed?
+#
+#
+#
+#016//Jelme
+Ouch! I've been bested
+by you, why do you show
+me concern?
+#
+#
+#
+#017//Temujin
+You misunderstand. We
+are not raiders; our
+horses were just
+stolen, and we are
+pursuing the thieves.
+#
+#
+#
+#018//Jelme
+It must be the same
+band! A few days ago,
+my brother %3Subutai%% was
+herding when our cattle
+and he vanished without
+a trace. I was rallying
+men to search.
+#
+#
+#
+#019//Temujin
+In that case, let us
+ride together!
+#
+#
+#
+#020//Jelme
+Agreed! I will return
+to the village to rally
+more hands.
+#
+#
+#
+#021//Temujin
+The thieves' lair!
+Attack!
+#
+#
+#
+#022//Temujin
+Your brother %3Subutai%%
+and the livestock are
+not here.
+#
+#
+#
+#023//Jelme
+I heard these thieves
+hold many dens. Let us
+search further!
+#
+#
+#
+#024//Temujin
+I am %3Temujin%%. Have you
+seen any sign of horse
+thieves?
+#
+#
+#
+#025//Bo'orchu
+Thieves... %3Temujin%%?!
+You are %3Temujin%%?!
+
+I heard how you broke
+free from the
+%3Taichi'ut%%! You are
+truly a young hero of
+the steppe!
+#
+#
+#
+#026//Temujin
+I did not know I was
+held in such regard,
+but your words give me
+great heart. May we be
+friends?
+#
+#
+#
+#027//Bo'orchu
+My name is %3Bo'orchu%%. My
+father and %3Yesugei%% were
+distant kin; we are
+brothers of the same
+blood!
+#
+#
+#
+#028//Bandit
+Raid this place!
+Plunder booty to
+present to the chief!
+#
+#
+#
+#029//Temujin
+These bandits have no
+shame, preying on the
+sweat of others!
+#
+#
+#
+#030//Bo'orchu
+Thank you for helping
+our clan through this
+crisis.
+#
+#
+#
+#031//Temujin
+%4Rest in the village to
+restore our strength%%,
+then %2seek out the
+thieves' main lair!%%
+#
+#
+#
+#032//Temujin
+Search further ahead!
+#
+#
+#
+#033//Qasar
+I hear them! It is the
+whinny of our own
+horses!
+#
+#
+#
+#034//Bandit
+Halt! These belong to
+us now! We just dealt
+with one brat, and here
+comes a whole troop!
+#
+#
+#
+#035//Jelme
+What? My brother...! I
+will tear you to
+pieces!
+#
+#
+#
+#036//Temujin
+All horses have been
+recovered!
+#
+#
+#
+#037//Subutai
+Brother, I was
+reckless. I should not
+have pursued them
+alone; I nearly lost my
+life!
+#
+#
+#
+#038//Jelme
+As long as you are
+safe! %3Temujin%% saved
+us--he united us all to
+vanquish the bandits!
+#
+#
+#
+#039//Bo'orchu
+Ever since %3Yesugei%%
+died, the clans
+fractured, giving
+thieves free rein
+across the steppe.
+#
+#
+#
+#040//Jelme
+Let us follow %3Temujin%%!
+#
+#
+#
+#041//Temujin
+I am wounded. Help me
+back to camp to rest.
+#
+#
+#
+#042//Bandit Chief
+Curse you, %3Temujin%%!
+Mark my words! Flee!
+#
+#
+#
+#044
+Captured by bandits,
+Temujin was slain upon
+the spot.
+#
+#
+#
+#045
+#
+#
+#
+#046
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Pasture and guard the
+horses Defeat: Friendly forces
+wiped out Time Limit: 2 Years
+(End of 1180 AD)
+#
+#
+#
+#201
+Objective: Pursue the horse
+thieves Defeat: Friendly forces
+wiped out Time Limit: 2 Years
+(End of 1180 AD)
+#
+#
+#
+#202
+Objective: Pursue horse
+thieves; defeat Jelme
+Defeat: Friendly forces
+wiped out Time Limit: 2
+Years (End of 1180 AD)
+#
+#
+#
+#203
+Objective: Bo'orchu
+joins; crush horse
+thieves, rescue Subutai
+and livestock Defeat:
+Friendly forces wiped
+out Time Limit: 2 Years
+(End of 1180 AD)
+#
+#
+#
+#204
+Objective: Defeat: Time
+Limit:
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

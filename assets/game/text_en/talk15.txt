@@ -1,0 +1,487 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Targhutai, chieftain of the
+Taichi'ut, prepared a banquet to
+celebrate capturing Temujin.
+Temujin was locked in camp under
+strict guard. Though some pitied
+his plight, none dared release
+him, terrified of Targhutai's
+ruthless wrath.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Guwen
+Lord %3Targhutai%% said to
+watch %3Temujin%% closely.
+No mistakes allowed!
+#
+#
+#
+#003//Temujin
+Brave %3Guwen%%, bound
+fast, I cannot fly. Are
+they preparing to slay
+me?
+#
+#
+#
+#004//Guwen
+My lord holds a banquet
+tonight, and because of
+guarding you, I miss
+out on rich kumis...
+#
+#
+#
+#005//Temujin
+A bitter trial for you!
+Bound fast and without
+a blade, with guards
+all around--not even a
+mouse could escape, let
+alone a captive!
+#
+#
+#
+#006//Guwen
+Hmph... (Sneaking a few
+bowls should do no
+harm...) I will return
+shortly. Try no tricks!
+#
+#
+#
+#007
+With the guard gone,
+%3Temujin%% strained
+fiercely against his
+bonds. Enduring the
+agony of torn flesh,
+%3Temujin%% finally
+wrenched off the wooden
+cangue!
+#
+#
+#
+#008//Temujin
+(Agony...! Flee now,
+while the chance
+remains!)
+#
+#
+#
+#009//Targhutai
+Brothers! Drink to the
+capture of the whelp
+%3Temujin%%! Drink!
+#
+#
+#
+#010//Soldiers
+Drink!! Drink!! Drink!!
+#
+#
+#
+#011//Temujin
+(Heaven preserve me! %2I
+must not be spotted...%%
+Search for an unguarded
+way out.)
+#
+#
+#
+#012//Temujin
+(That is my steed's
+neigh! %2I must find my
+horse first.%%)
+#
+#
+#
+#013//Temujin
+Shh... (Find a way out
+of here.)
+#
+#
+#
+#014//Guwen
+Disaster! %3Temujin%% has
+escaped!
+#
+#
+#
+#015//Targhutai
+What?! Incompetent
+fools! Bring %3Temujin%%
+back at once!!!
+#
+#
+#
+#016//Temujin
+(Curse it, spotted!
+Enemy camps lie
+ahead--%2flee toward the
+forest!%%)
+#
+#
+#
+#017//Soldiers
+Hurry! Search over
+there!
+#
+#
+#
+#018//Temujin
+%2Take shelter in the
+camp first.%%
+#
+#
+#
+#019//Chilaun
+%3Temujin%%! Weren't you
+captured? You broke
+free! I am %3Chilaun%%; we
+played together as
+boys!
+#
+#
+#
+#020//Temujin
+The %3Taichi'ut%% hunt me
+down. Please, help
+me...!
+#
+#
+#
+#021//Chilaun
+I will help you without
+fail! Hide here for a
+few days...
+#
+#
+#
+#022//Targhutai
+Have you seen %3Temujin%%?
+He could not have fled
+far! Search every
+yurt...!
+#
+#
+#
+#023//Chilaun
+You have searched many
+times; he is not among
+us...
+#
+#
+#
+#024//Targhutai
+If anyone harbors him,
+I will sacrifice them
+to the banner! Search
+elsewhere!
+#
+#
+#
+#025//Chilaun
+%3Targhutai%% has just
+left. Flee now while
+you have the chance!
+#
+#
+#
+#026//Temujin
+You saved my life. How
+can I ever repay you?
+#
+#
+#
+#027//Chilaun
+You are still on
+%3Taichi'ut%% soil and do
+not know the path.
+Treacherous thin ice
+lies north; without my
+guidance you cannot
+cross. I shall ride
+with you!
+#
+#
+#
+#028//Temujin
+%3Chilaun%%, your kindness
+is a debt I can never
+repay!
+#
+#
+#
+#029//Chilaun
+%2Never tread on smooth
+snow! Follow the muddy
+tracks across the
+frozen ground.%%
+#
+#
+#
+#030//Chilaun
+Phew, I crossed safely.
+#
+#
+#
+#031//Temujin
+The %3Taichi'ut%%! There
+are few of them--%2slay
+them before they raise
+the alarm!%%
+#
+#
+#
+#032//Temujin
+Mother, I have
+returned!
+#
+#
+#
+#033//Mother
+My ears do not deceive
+me--my son has
+returned! Sob... Mother
+feared she would never
+see you again. Look at
+your wounds... How you
+have suffered!
+#
+#
+#
+#034//Temujin
+Mother, I am unharmed.
+Henceforth our family
+shall never be torn
+asunder again!
+#
+#
+#
+#035//Targhutai
+Curse him! I should
+have slit his throat at
+once! %3Temujin%%... He and
+his brothers will
+return for blood one
+day...
+#
+#
+#
+#036
+%3Chilaun%% has fallen in
+battle.
+#
+#
+#
+#037//Soldier
+It is %3Temujin%%! Seize
+him!
+#
+#
+#
+#038//Soldier
+%3Temujin%% is found! Slay
+him!
+#
+#
+#
+#039//Temujin
+We are safe, %3Chilaun%%,
+all thanks to your
+courage!
+#
+#
+#
+#040//Chilaun
+The %3Taichi'ut%% are
+wicked!
+
+%3Temujin%%, if ever you
+face adversity, call
+upon me; I will come to
+your aid. Return home
+swiftly! Farewell!
+#
+#
+#
+#041//Temujin
+Thank you! You saved my
+life and stood by my
+side. I will never
+forget you. Farewell!
+#
+#
+#
+#042
+%3Temujin%% plunged through
+the thin ice and
+perished.
+#
+#
+#
+#043
+%3Chilaun%% plunged through
+the thin ice and
+perished.
+#
+#
+#
+#044//Enemy Soldier
+%3Temujin%% is spotted!!
+#
+#
+#
+#045
+Disaster!!
+#
+#
+#
+#046//Qubilai
+Fear not! I shall hold
+them off! Flee quickly!
+#
+#
+#
+#047//Chilaun
+%3Qubilai%%, a true friend!
+You arrived right on
+time!
+
+I will lead %3Temujin%%
+away; leave the
+pursuers to you!
+#
+#
+#
+#048//Qubilai
+Leave them to me! Ride
+swift!
+#
+#
+#
+#049//Temujin
+Aye! Take great care as
+well!
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Temujin escapes from
+captivity Defeat: Temujin falls
+in battle Time Limit: 2 Years
+(End of 1178 AD)
+#
+#
+#
+#201
+Objective: Temujin retrieves his
+horse and dons equipment Defeat:
+Temujin falls in battle Time
+Limit: 2 Years (End of 1178 AD)
+#
+#
+#
+#202
+Objective: Temujin
+flees from the
+Taichi'ut territory
+Defeat: Temujin falls
+in battle Time Limit: 2
+Years (End of 1178 AD)
+#
+#
+#
+#203
+Objective: Temujin and
+Chilaun cross the thin
+ice safely Defeat:
+Either Temujin or
+Chilaun falls through
+thin ice Time Limit: 2
+Years (End of 1178 AD)
+#
+#
+#
+#204
+Objective: Slay
+pursuers and reach home
+safely Defeat: Temujin
+falls in battle Time
+Limit: 2 Years (End of
+1178 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

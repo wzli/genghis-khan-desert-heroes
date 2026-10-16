@@ -1,0 +1,277 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Across the northern steppe of
+the Gobi, rival tribes stood
+divided: the Mongols, Tatars,
+Naimans, Kereits, and Merkits.
+Pastures, herds, captives, and
+iron became trophies of
+ceaseless feuds. Blood vengeance
+and tribal warfare raged across
+the boundless plains.
+
+In the autumn of 1162, a child
+was born to Yesugei Baghatur,
+chief of the Borjigin clan,
+freshly triumphant over the
+Tatars. Yesugei named his
+newborn son 'Temujin', after his
+captured rival, praying that he
+would grow as resilient and
+unyielding as tempered steel.
+
+Raised amidst nomadic hunting,
+Temujin enjoyed a spirited
+childhood. This year, Temujin
+turned eleven years old...
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Brother
+Elder brother! Where
+are you sneaking off
+to?
+#
+#
+#
+#003//Temujin
+(Ah! I've been
+spotted...) Shh! Quiet
+down! I'm just slipping
+out for a hunt. You
+little ones stay close
+to the yurts and don't
+wander off. Watch out
+for the grey wolves...
+Awoo!
+#
+#
+#
+#004//Mother
+%3Temujin%%, stop making
+faces to frighten your
+little brothers. Your
+father is away, and you
+take every chance to
+slip outside. What if
+you encounter a hungry
+wolf pack?
+#
+#
+#
+#005//Temujin
+Mother, I am grown now.
+I need to hone my bow
+and tracking skills. I
+won't wander too far
+into the wilderness!
+#
+#
+#
+#006//Mother
+Be cautious. %4If your
+strength falters,
+return to the yurt to
+rest.%%
+#
+#
+#
+#007//Temujin
+Understood, Mother! I
+shall stay sharp and
+watch my step.
+#
+#
+#
+#008//Temujin
+Hark! That sounds like
+combat in the distance!
+Let me investigate!
+#
+#
+#
+#009//Temujin
+Wolves! Hold on,
+brother, I am coming to
+your aid!
+#
+#
+#
+#010//Jamukha
+Phew! That was a close
+call!
+#
+#
+#
+#011//Temujin
+My name is %3Temujin%%. Are
+you unharmed?
+#
+#
+#
+#012//Jamukha
+I am %3Jamukha%% of the
+Jadaran! My gratitude
+for your aid. (Though
+truth be told, I could
+have handled them
+myself!)
+#
+#
+#
+#013//Temujin
+You wield a formidable
+recurve bow! Even
+without my help, your
+archery would have
+driven them off.
+#
+#
+#
+#014//Jamukha
+Haha! You are truly the
+bravest youth on these
+plains! By the way,
+%2there is a rocky cavern
+to the west%% crawling
+with wolves. Shall we
+ride together and clear
+their den?
+#
+#
+#
+#015//Temujin
+Aye! Let us strike down
+the wolves' lair
+together!
+#
+#
+#
+#016//Jamukha
+Look yonder! That is
+the cavern! Forward!
+#
+#
+#
+#017//Temujin
+The wolves are
+scattered and the den
+has collapsed! What a
+battle!
+#
+#
+#
+#018//Jamukha
+Indeed! From this day
+forth, whenever wolves
+catch our scent, they
+shall tuck their tails
+and flee across the
+steppes! Hahaha!
+#
+#
+#
+#019//Temujin
+Hahaha!
+#
+#
+#
+#020//Jamukha
+Here, take this
+auspicious token.
+%3Temujin%%, let us swear
+to become %3Anda%%!
+#
+#
+#
+#021//Temujin
+Splendid! Sworn Anda
+brothers for life,
+standing shoulder to
+shoulder!
+#
+#
+#
+#022//
+%3Temujin%% and %3Jamukha%%
+exchanged %3Amethyst
+Crystals%% as their
+sacred pledge. Under
+the eternal Blue Sky,
+the two youths swore
+brotherhood as Anda:
+
+"Though we were not
+born on the same day,
+we vow to stand
+together through life
+and death. Joy we shall
+share, hardship we
+shall bear, never to
+abandon nor betray one
+another!"
+#
+#
+#
+#023
+Look! A gleaming
+%3Amethyst Crystal%% rests
+upon the ground!
+#
+#
+#
+#024
+Temujin gains 50
+Experience Points.
+#
+#
+#
+#200
+Objective: Scout the plains Time
+Limit: 2 Years (End of 1174 AD)
+#
+#
+#
+#201
+Objective: Slay the wolves and
+meet Jamukha Defeat: Temujin
+falls in battle Time Limit: 2
+Years (End of 1174 AD)
+#
+#
+#
+#202
+Objective: Destroy the
+wolf cavern with
+Jamukha Defeat: Temujin
+falls in battle Time
+Limit: 2 Years (End of
+1174 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

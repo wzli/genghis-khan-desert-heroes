@@ -1,0 +1,569 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+The Mongol clan under Temujin
+grew steadily stronger, though
+troubles never ceased. To the
+north, the Taichi'ut raided
+Mongol pastures constantly,
+while Sacha Beki's Jurchin
+stirred up dissent from within.
+A gathering storm was about to
+break.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Bo'orchu
+Beyond the northern
+banks of the %3Onon River%%
+lies the land of the
+%3Taichi'ut%%. Tread with
+caution!
+#
+#
+#
+#003//Temujin
+%2There is unusual
+movement to the north.
+I shall scout near the
+banner.%%
+#
+#
+#
+#004//Jebe
+Aim for %3Temujin%%...
+Loose!
+#
+#
+#
+#005//Temujin
+Agh!
+#
+#
+#
+#006//Jelme
+Disaster! Khan %3Temujin%%
+has been struck by an
+arrow!
+#
+#
+#
+#007//Subutai
+Strike down the archers
+on the cliffs!
+#
+#
+#
+#008//Jebe
+Fall back! Make haste!
+#
+#
+#
+#009//Jelme
+An ambush from the
+%3Taichi'ut%%! Khan %3Temujin%%
+is wounded; fall back
+to camp at once!
+#
+#
+#
+#010//Jelme
+The Khan's wound is
+severe; he must rest
+and recover.
+#
+#
+#
+#011//Sacha Beki
+%3Temujin%% is grievously
+wounded! Seize this
+chance to slay him!
+Move now!
+#
+#
+#
+#012//Belgutei
+%3Sacha Beki%% of the
+%3Jurchin%% has rebelled!
+We must not let him
+succeed!
+#
+#
+#
+#013//Qasar
+%3Sacha Beki%% rebels while
+my brother is hurt!
+Such treacherous
+ambition must be
+crushed!
+#
+#
+#
+#014//Temujin
+Indeed! If I cannot
+subdue the %3Jurchin%%, how
+can I lead the Mongols?
+Launch the attack
+against %3Sacha Beki%%
+immediately!
+#
+#
+#
+#015//Temujin
+%3Sacha Beki%%, wherein
+have I wronged you or
+slighted your honor?
+Why do you plot treason
+instead of pulling
+together in our shared
+boat?
+#
+#
+#
+#016//Sacha Beki
+Bah! I will never
+submit to you! I am
+leading the %3Jurchin%%
+away from your camp!
+#
+#
+#
+#017//Temujin
+You shall not!
+#
+#
+#
+#018//Sacha Beki
+No! Mercy! Spare my
+life, I beg of you!
+#
+#
+#
+#019//Temujin
+(He is the head of the
+Jurchin; mercy now
+would spell future
+ruin.) It is too
+late...
+#
+#
+#
+#020//Execution
+%3Sacha Beki%% has been
+executed!
+#
+#
+#
+#021//Temujin
+People of the %3Jurchin%%!
+%3Sacha Beki%% plotted
+rebellion and has been
+put to death! Does
+anyone else defy my
+rule?
+#
+#
+#
+#022//Buri Boke
+I do!
+#
+#
+#
+#023//Temujin
+%3Buri Boke%%, renowned
+champion and wrestler
+of the %3Jurchin%%! I
+arrange a duel between
+you and my brother
+%3Belgutei%%. How say you?
+#
+#
+#
+#024//Buri Boke
+He is no match for my
+grip! Victory is
+assured, and I shall
+claim justice for the
+%3Jurchin%%!
+#
+#
+#
+#025//Temujin
+%2Belgutei, whether the
+Mongol realm stands
+united rests entirely
+upon your shoulders!%%
+#
+#
+#
+#026//Belgutei
+Let the bout begin!
+#
+#
+#
+#027//Belgutei Defeated
+%3Belgutei%% was defeated
+in the wrestling duel.
+#
+#
+#
+#028//Buri Boke Slain
+%3Buri Boke%% was broken
+and slain by %3Belgutei%%!
+This shattered the
+arrogance of the
+%3Jurchin%%, and no noble
+dared defy the Khan
+again.
+#
+#
+#
+#029//Temujin
+%3Belgutei's%% strength and
+martial skill are truly
+exceptional. %2Let us
+visit the Jurchin camp
+and comfort their
+warriors.%%
+#
+#
+#
+#030//Temujin
+Well! What a lovely
+young lad. What is your
+name, boy?
+#
+#
+#
+#031//Borokhula
+My name is %3Borokhula%%. I
+am so hungry...
+#
+#
+#
+#032//Temujin
+(An orphaned child...)
+%2I shall bring you back
+with me.%% (I will give
+him to Mother as an
+adopted son; she will
+love this boy.)
+#
+#
+#
+#033//Temujin
+This child was found in
+the %3Jurchin%% camp, a
+gift for Mother.
+%3Borokhula%%, greet your
+new mother.
+#
+#
+#
+#034//Borokhula
+...Mother, I am hungry.
+#
+#
+#
+#035//Hoelun
+Haha... What an
+adorable little boy! I
+gladly take him as my
+foster son!
+#
+#
+#
+#036//Temujin
+Twenty years ago, the
+%3Taichi'ut%% drove my
+family into exile. I
+was nearly put to
+death, escaping only
+through the noble aid
+of %3Chilaun%%. Recently
+they ambushed me again
+with an arrow. The hour
+of vengeance has
+arrived! %2We shall wipe
+out the Taichi'ut!%%
+#
+#
+#
+#037//Qasar
+Aye! Annihilate the
+%3Taichi'ut%%, seize their
+pastures, and take
+their herds!
+#
+#
+#
+#038//Guwen
+%3Temujin's%% horde
+approaches! Stand fast
+and block them!
+#
+#
+#
+#039//Temujin
+Giant, we meet once
+more! Yield without
+struggle!
+#
+#
+#
+#040//Guwen
+Aaaargh...!
+#
+#
+#
+#041//Guwen Slain
+%3Guwen%% has fallen in
+battle!
+#
+#
+#
+#042//Belgutei
+Forward, warriors!
+Advance!
+#
+#
+#
+#043//Orbei
+Te... mu... jin...
+you... arrrgh!
+#
+#
+#
+#044//Orbei Slain
+%3Orbei%% has fallen in
+battle!
+#
+#
+#
+#046//Chilaun
+Is that %3Jebe%%, master
+archer of the
+%3Taichi'ut%%?! Were you
+the one who shot the
+arrow from the
+mountain?
+#
+#
+#
+#045//Jebe
+I will fight to the
+very last breath!
+#
+#
+#
+#047//Jebe
+Indeed, it was my arrow
+that pierced the Khan's
+neck! Now that I am
+captured, take my life
+if you wish!
+#
+#
+#
+#048//Chilaun
+Khan %3Temujin%%, %3Jebe%% and
+I were both servants of
+the %3Taichi'ut%%; he
+merely obeyed his
+lords. Yet I know him
+to be a warrior of
+fearless valor and
+supreme loyalty. I
+beseech the Khan to
+grant him pardon!
+#
+#
+#
+#049//Temujin
+%3Jebe%%, I admire your
+honesty and courage!
+Henceforth, you shall
+be like my personal
+arrow, flying forth to
+pierce my mightiest
+foes!
+#
+#
+#
+#050//Jebe
+My life is yours, my
+Khan!
+#
+#
+#
+#051//Temujin
+%2Turn the earth itself
+upside down until
+Targhutai is found!%%
+#
+#
+#
+#052//Khuchar
+He is hiding here! Drag
+him out!
+#
+#
+#
+#053//Targhutai
+%3Temujin%%! How I regret
+not putting you to
+death when you were in
+my wooden cangue!
+Seeing you grow
+stronger by the year, I
+knew this day of blood
+would come... Before I
+die, let me take one of
+you with me!
+#
+#
+#
+#054//Temujin
+I shall take your
+people and herds under
+my protection. Go in
+peace to your
+ancestors!
+#
+#
+#
+#055//Targhutai Slain
+%3Targhutai%% has been
+slain!
+#
+#
+#
+#056//Targhutai
+%3Te... mu... jin...%%
+Aaaaargh...!
+#
+#
+#
+#057//Temujin Struck
+Ah! %3Temujin%% is wounded!
+#
+#
+#
+#058//Camp Burned
+%3Temujin%% orders the
+%3Taichi'ut%% yurts burned
+to ash.
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Temujin scouts the
+red banner to the north Defeat:
+All friendly forces defeated
+Time Limit: 4 Years (End of 1198
+AD)
+#
+#
+#
+#201
+Objective: Defeat the ambushers;
+Temujin and all allies enter the
+camp Defeat: All friendly forces
+defeated Time Limit: 4 Years
+(End of 1198 AD)
+#
+#
+#
+#202
+Objective: Quell the
+Jurchin revolt; slay
+Sacha Beki Defeat: All
+friendly forces
+defeated Time Limit: 4
+Years (End of 1198 AD)
+#
+#
+#
+#203
+Objective: Belgutei
+triumphs in the
+wrestling duel Defeat:
+Belgutei loses the duel
+Time Limit: 4 Years
+(End of 1198 AD)
+#
+#
+#
+#204
+Objective: Temujin
+comforts the Jurchin
+commoners Defeat: All
+friendly forces
+defeated Time Limit: 4
+Years (End of 1198 AD)
+#
+#
+#
+#205
+Objective: Temujin
+brings Borokhula to the
+red banner yurt Defeat:
+All friendly forces
+defeated Time Limit: 4
+Years (End of 1198 AD)
+#
+#
+#
+#206
+Objective: Defeat all
+Taichi'ut forces and
+seize their camp
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1198 AD)
+#
+#
+#
+#207
+Objective: Hunt down
+and slay Targhutai
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1198 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

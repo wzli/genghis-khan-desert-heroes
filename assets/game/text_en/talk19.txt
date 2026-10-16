@@ -1,0 +1,645 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+For over a year, Temujin and
+Jamukha camped and herded side
+by side in brotherly warmth. Yet
+the realities of power soon
+pulled them down separate paths.
+Seeing Temujin's strength and
+noble character, people from
+many clans flocked to his
+banner. Temujin saw hope dawn
+upon the steppe, yearning to
+revive the legacy of his father.
+Temujin broke camp to pitch his
+yurts apart from Jamukha,
+throwing off his dependence. An
+independent power was rising
+across the northern steppe.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Retreat
+Fall back! Retreat
+quickly!
+#
+#
+#
+#003//Rally Point
+First wing deployed
+into formation!
+#
+#
+#
+#004//Cart Evacuated
+One yurt wagon has
+safely reached the
+extraction point!
+#
+#
+#
+#005//Council
+%3Temujin%%, his brothers,
+and his trusted %3Nokod%%
+gather in council
+inside the main yurt.
+#
+#
+#
+#006//Temujin
+Ever since our victory
+over the %3Merkits%%, many
+clans and commoners
+have joined us. I wish
+to revive the glory of
+the %3Kiyad clan%%!
+#
+#
+#
+#007//Bo'orchu
+%3Temujin's%% fame spreads
+across the steppe. If
+we can win the support
+of the clan chieftains
+and be proclaimed Khan
+at a %3Kurultai%%, we can
+end the leaderless
+chaos that has plagued
+the %3Kiyad clan%% for
+years.
+#
+#
+#
+#008//Temujin
+%2I shall personally
+visit each clan
+chieftain%% to unite the
+strength of the %3Kiyad
+clan%%!
+#
+#
+#
+#009//Khuchar
+We are cousins by
+blood. After Uncle
+%3Yesugei%% passed, the
+%3Kiyad clan%% fell into
+decline. If you can
+best me in combat, I
+will support you as
+Khan at the %3Kurultai%%.
+#
+#
+#
+#010//Temujin
+Then pardon my offense!
+#
+#
+#
+#011//Khuchar
+%3Temujin%%, you possess
+both wisdom and valor!
+You have my full
+support.
+#
+#
+#
+#012//Sacha Beki
+I am %3Sacha Beki%% of the
+%3Jurchin clan%%! You wish
+to win me over? Do not
+even dream of it!
+#
+#
+#
+#013//Temujin
+Fists have no eyes; if
+I bruise you, pray
+forgive me!
+#
+#
+#
+#014//Sacha Beki
+Argh... formidable
+indeed! I shall
+certainly attend the
+%3Kurultai%%!
+#
+#
+#
+#015//Altan
+I am %3Altan%%, noble of
+the %3Kiyad clan%%! Spar
+with me first, and then
+I will decide whether
+to back you.
+#
+#
+#
+#016//Temujin
+(To unite the %3Kiyad
+clan%%, strong measures
+are required.) Let my
+fists sway your mind!
+#
+#
+#
+#017//Altan
+Argh... mercy! I yield,
+I will support you!
+#
+#
+#
+#018//Menglik
+%3Temujin%%, I watched you
+grow from a child. Your
+wisdom and bravery
+surpass even your
+father's. I know
+%3Yesugei%% Anda smiles
+down from the Blue Sky.
+In those bitter years I
+had my own burdens and
+could not shield you,
+but now I pledge my
+full strength to follow
+you forever!
+#
+#
+#
+#019//Temujin
+You were my father's
+sworn companion
+entrusted with our
+care, and you aided us
+in secret. From now on,
+I will treat you as my
+own kin.
+#
+#
+#
+#020//All Chieftains Visited
+All clan chieftains
+have been visited and
+pledged their support!
+#
+#
+#
+#021//Bo'orchu
+Another clan has
+arrived to join our
+cause, led by a seer
+and shaman named
+%3Qorchi%%.
+#
+#
+#
+#022//Temujin
+Our clan lacks a great
+shaman. If he can
+preside over the
+%3Kurultai%%, it will carry
+great spiritual
+authority.
+#
+#
+#
+#023//Jebe
+%2Let us go together to
+meet him!%%
+#
+#
+#
+#024//Qorchi
+Quick, help me! %2Horse
+thieves just stole my
+steeds and fled toward
+the rear!%% Please,
+retrieve them for me!
+#
+#
+#
+#025//Temujin
+Horse thieves again! I
+despise such bandits
+above all else. I shall
+bring you justice!
+#
+#
+#
+#026//Temujin
+It truly is you! When
+will you cease preying
+upon the labor of
+others?
+#
+#
+#
+#027//Bandit Chief
+What a stroke of cursed
+luck! Relying on your
+numbers? This chief
+fears no one!
+#
+#
+#
+#028//Temujin
+Hand over the stolen
+horses!
+#
+#
+#
+#029//Bandit Chief
+Bah! Your elder does
+not bow so easily! Call
+me father and I might
+release them; I can
+always rustle more
+anyway!
+#
+#
+#
+#030//Temujin
+Insolent dog!
+Unrepentant bandit, a
+plague upon the earth!
+Strike him down!
+#
+#
+#
+#031//Bandit Chief
+Aaargh! %3Temujin%%... you
+will regret this... My
+brother... will avenge
+me... Brother...!
+#
+#
+#
+#032//Temujin
+%2Lead the horses back to
+Qorchi.%%
+#
+#
+#
+#033//Qorchi
+My prized horses are
+back at last!
+#
+#
+#
+#034//Temujin
+Our clan is about to
+convene a great
+%3Kurultai%%. We wish to
+ask you to preside over
+the sacred assembly.
+#
+#
+#
+#035//Qorchi
+Trust in me! I can
+surely persuade the
+assembly to proclaim
+you Khan. Yet that is
+merely your first step!
+Your destiny stretches
+beyond measure. If one
+day you become ruler of
+the realm, how will you
+reward me?
+#
+#
+#
+#036//Temujin
+If it comes to pass as
+you say, and I become
+ruler of a nation, I
+shall appoint you
+leader of a
+Tumen--commander of ten
+thousand!
+#
+#
+#
+#037//Qorchi
+Commander of ten
+thousand? What joy is
+that? You must also
+grant me the right to
+choose the fairest
+maidens across the
+land, to take thirty
+wives!
+#
+#
+#
+#038//Temujin
+So be it! I grant your
+request.
+#
+#
+#
+#039//Kurultai Convenes
+The sacred %3Kurultai%% has
+assembled...!
+#
+#
+#
+#040//Qorchi
+Brave warriors! %3Jamukha%%
+and I share common
+blood, and by custom I
+should not have
+departed from his side.
+But a heavenly vision
+was revealed to me in a
+dream, bidding me to
+heed my true path!
+#
+#
+#
+#041//Assembly Murmurs
+The assembly murmurs in
+curiosity, eager to
+hear the prophecy.
+#
+#
+#
+#042//Qorchi
+In my vision, a silver
+cow circled with a
+yurt-cart upon the
+steppe. It turned
+toward %3Jamukha%%, then
+toward %3Temujin%%. At
+last, the silver cow
+harnessed the yurt-cart
+and followed
+steadfastly behind
+%3Temujin%%!
+#
+#
+#
+#043//Prophecy
+What does this omen
+foretell? The crowd
+ponders in wonder.
+#
+#
+#
+#044//Qorchi
+It is the will of the
+Eternal Sky! The cart
+borne by that sacred
+beast is an entire
+nation! Heaven itself
+decrees that we must
+follow %3Temujin%%!
+#
+#
+#
+#045//Crowning
+In 1182 AD, at the
+%3Kurultai%% of the %3Kiyad
+clan%%, %3Temujin%% was
+proclaimed Khan. The
+chieftains and nobles
+of the clan swore
+sacred oaths of
+allegiance to their new
+sovereign.
+#
+#
+#
+#046//Birth of Nation
+A Mongol realm was
+born. Like a tender
+sprout piercing the
+forest soil, it drew
+little notice from the
+world at large.
+#
+#
+#
+#047//Envoys
+%3Temujin%% dispatched
+envoys to notify %3Ong
+Khan%% and %3Jamukha%% of his
+enthronement. %3Ong Khan%%
+sent warm
+congratulations, yet
+%3Jamukha's%% reaction was
+starkly different.
+#
+#
+#
+#048//Jealousy
+Ever since the defeat
+of the %3Merkits%%,
+warriors from %3Jamukha's%%
+camp had steadily
+defected to %3Temujin%%.
+When %3Altan%%, %3Khuchar%%,
+and %3Qorchi%% openly
+raised %3Temujin%% to Khan,
+how could it not ignite
+%3Jamukha's%% bitter
+jealousy?
+#
+#
+#
+#049//The Spark
+The fuse was lit when
+%3Jamukha%% learned that
+his own younger brother
+had stolen a few horses
+and had been executed
+without mercy by the
+'ungrateful' %3Temujin%%.
+His fury could no
+longer be contained...!
+#
+#
+#
+#050//Thirteen Wings Form
+%3Jamukha%% rallied an
+alliance of thirteen
+tribes, numbering
+thirty thousand
+warriors, preparing to
+unleash an assault upon
+%3Temujin%%.
+#
+#
+#
+#051//Jamukha
+As the ancient saying
+goes: 'Two tigers
+cannot share one
+mountain.' %3Temujin%%,
+just you wait!
+#
+#
+#
+#052//Warning
+A warrior of the %3Chinos
+clan%% within %3Jamukha's%%
+host secretly sent word
+to %3Temujin%%. %3Jamukha%% was
+advancing in thirteen
+wings, striking
+directly toward
+%3Temujin's%% pastures...!
+#
+#
+#
+#053//Temujin
+That horse thief was
+%3Jamukha%% Anda's own
+brother?! Heavens! How
+did matters escalate to
+this...? (%3Temujin%%
+contemplates his
+strategy...)
+#
+#
+#
+#054//Deployment
+Assemble all warriors!
+%2Deploy our forces into
+thirteen wings at the
+thirteen red banners%%.
+Our aim is to check the
+enemy advance, buying
+precious time for our
+elders and carts to
+strike camp and
+withdraw. Begin
+deployment!
+#
+#
+#
+#055//Bo'orchu
+All thirteen wings are
+fully deployed!
+#
+#
+#
+#056//Villager
+The yurt-carts are
+packed and ready to
+roll!
+#
+#
+#
+#057//Temujin
+Time is short! Hear my
+command! %2First, six
+yurt-carts must
+immediately withdraw
+toward the red banner
+by the river. All
+wagons must reach
+safety!%% Second,
+front-line fighters
+must prioritize
+survival and fall back
+in good order!
+#
+#
+#
+#058//Jamukha
+All thirteen wings,
+charge! Crush their
+ranks!
+#
+#
+#
+#059//Wagons Safe
+All yurt-carts have
+successfully reached
+safety!
+#
+#
+#
+#060//Camp Guard
+Who dares trespass upon
+our camp?!
+#
+#
+#
+#200
+Objective: Temujin visits
+Khuchar, Sacha Beki, Altan, and
+Menglik to win their allegiance
+Defeat: Temujin falls in battle
+Time Limit: 3 Years (End of 1184
+AD)
+#
+#
+#
+#201
+Objective: Visit Qorchi Defeat:
+Temujin falls in battle Time
+Limit: 3 Years (End of 1184 AD)
+#
+#
+#
+#202
+Objective: Return the
+stolen horses to
+Qorchi's camp Defeat:
+Temujin falls in battle
+Time Limit: 3 Years
+(End of 1184 AD)
+#
+#
+#
+#203
+Objective: Deploy
+friendly forces at all
+13 red banners Defeat:
+Temujin falls in battle
+Time Limit: 3 Years
+(End of 1184 AD)
+#
+#
+#
+#204
+Objective: Safely
+escort 6 yurt-carts
+across the bridge to
+the southwest red
+banner Defeat: Any
+yurt-cart destroyed or
+all friendly forces
+defeated Time Limit: 3
+Years (End of 1184 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

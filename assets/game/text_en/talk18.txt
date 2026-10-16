@@ -1,0 +1,550 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+In the year 1181 AD, Temujin
+declared war upon the Merkits
+who had stolen his wife. A
+campaign spearheaded by the
+Kereit and Jadaran clans was
+about to erupt across the
+plains. This was Temujin's first
+great war on the steppe, and the
+opening chapter in his destiny
+to unite all of Mongolia.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Arrival of Kereits
+%3Ong Khan%% arrives at the
+rendezvous leading ten
+thousand warriors.
+%3Temujin%% warmly welcomes
+his comrades in arms.
+#
+#
+#
+#003//Temujin
+Khan Father, you have
+kept your pledge and
+arrived right on time!
+You are truly the most
+revered Khagan across
+all the steppe!
+#
+#
+#
+#004//Ong Khan
+Hahaha! I always honor
+my word and cherish
+brotherhood above all.
+I will certainly help
+you demand justice from
+the %3Merkits%%! Wait!
+Where is %3Jamukha%%? Why
+is he not yet in sight?
+#
+#
+#
+#005//Temujin
+%3Jamukha%% may have
+encountered delays
+along his march. Let us
+wait for him a few more
+days.
+#
+#
+#
+#006//Ong Khan
+My warriors are already
+assembled! Are we to
+linger here until they
+arrive before we
+attack? What if they
+never come at all? Will
+the battle simply be
+abandoned?
+#
+#
+#
+#007//Temujin
+This... Let me consider
+carefully. (Should we
+launch the attack right
+now or wait?)
+#
+#
+#
+#008//Ong Khan
+I await your decision.
+Do not tarry too long.
+#
+#
+#
+#009//Jamukha
+%3Ong Khan%%, %3Temujin%%, a
+fierce blizzard impeded
+our march on the way.
+We are later than
+promised. Forgive our
+delay!
+#
+#
+#
+#010//Ong Khan
+When a day is set, a
+man must keep it! We
+Mongols are bound by
+our sacred oaths. Let
+there be no such
+failure again!
+#
+#
+#
+#011//Jamukha
+Your rebuke is just. I
+accept your
+chastisement with
+humble grace.
+#
+#
+#
+#012//Temujin
+Now that our forces are
+united, we may begin
+our plan of battle.
+#
+#
+#
+#013//Ong Khan
+Let us ford the river
+directly with
+overwhelming might! The
+%3Merkits%% will have no
+time to mount a
+defense.
+#
+#
+#
+#014//Jamukha
+%3Torito%% is an
+ever-vigilant fox; he
+has surely posted
+sentries to probe for
+enemies. A direct
+assault will be easily
+detected. If we ride
+upstream along the
+river and circle down
+to attack from the
+north, %3Torito%% will
+never foresee foes from
+the south descending
+from the north. We
+shall catch them
+utterly off guard!
+#
+#
+#
+#015//Ong Khan
+Hmm, %3Jamukha%% speaks
+with sound counsel. We
+shall follow his
+strategy.
+#
+#
+#
+#016//Temujin
+Agreed! %2Advance
+upstream along the
+river and strike
+Torito's camp from the
+north!%%
+#
+#
+#
+#017//Jamukha
+We were delayed by
+blizzard winds on our
+march, but now we ride
+to reinforce you with
+all our might!
+#
+#
+#
+#018//Assault
+The main host of the
+%3Merkits%% approaches!
+Charge, warriors of the
+steppe!
+#
+#
+#
+#019//Camp Captured
+The main forces of the
+%3Merkits%% have been
+shattered! %3Torito's%%
+stronghold lies
+directly ahead.
+Forward!
+#
+#
+#
+#020//Merkit Scout
+Where did so many enemy
+warriors come from?!
+Make haste and sound
+the alarm!
+#
+#
+#
+#021//Torito
+What?! %3Temujin's%%
+coalition is already
+upon our gates?!
+#
+#
+#
+#022//Qodu
+Father, we must
+withdraw at once!
+#
+#
+#
+#023//Chilger
+%3Temujin%% has come solely
+to reclaim %3Borte%%! Flee
+while you can; I shall
+hold this ground! Keep
+%3Borte%% safe and guarded!
+#
+#
+#
+#024//Torito
+%3Chilger%%, we leave the
+defense in your hands!
+Father, let us flee!
+#
+#
+#
+#025//Chilger
+%3Temujin%%, %3Borte%% is
+already mine! You will
+never take her back
+from my grasp!
+#
+#
+#
+#026//Temujin
+Vile cur! Today I shall
+cleave your head from
+your shoulders!
+#
+#
+#
+#027//Chilger
+Aaaargh...!
+#
+#
+#
+#028//Chilger Slain
+%3Chilger%% has been slain!
+#
+#
+#
+#029//Temujin
+Curse them! %3Borte%% has
+already been dragged
+away...!
+#
+#
+#
+#030//Temujin
+%3Borte%%...! %3Borte%%...!
+Where are you, my
+love?!
+#
+#
+#
+#031//Merkit Tribesman
+Help us! %3Temujin%% is
+cutting his way
+through! Fight for your
+lives!
+#
+#
+#
+#032//Temujin
+Has anyone seen %3Borte%%?!
+%3Borte%%... answer me!
+#
+#
+#
+#033//Jamukha
+%3Torito%% is cunning as a
+mountain wolf. It seems
+we must turn this
+entire %3Merkit%% camp
+upside down!
+#
+#
+#
+#034//Torito
+%3Temujin%%, to reclaim a
+single woman, you
+slaughter so many of my
+kinsmen! How ruthless
+you are! Years ago,
+your father %3Yesugei%%
+snatched away my
+younger brother's
+bride! As chief of our
+clan, it was my sacred
+duty to avenge that
+grievance!
+#
+#
+#
+#035//Temujin
+Return %3Borte%% to me
+unharmed, and I shall
+halt my assault!
+#
+#
+#
+#036//Torito
+Hah! So many of my
+blood have fallen
+today. I will take your
+life to appease their
+spirits in the sky!
+Take %3Borte%% away into
+the wild, so %3Temujin%%
+may never set eyes upon
+her again!
+#
+#
+#
+#037//Borte
+%3Temujin%%...!
+#
+#
+#
+#038//Temujin
+%3Borte%%...!
+#
+#
+#
+#039//Torito
+Flee! Run for your
+lives!
+#
+#
+#
+#040//Temujin
+Leave this camp behind!
+%2Ride swiftly and
+recover Borte before it
+is too late!%%
+#
+#
+#
+#041//Borte Lost
+%3Borte%% was carried away
+into the wilderness by
+the %3Merkits%%, lost
+forever without a
+trace...
+#
+#
+#
+#042//Temujin
+%3Borte%%, at last I have
+found you!
+#
+#
+#
+#043//Borte
+%3Temujin%%! Oh, Temujin...
+I...
+#
+#
+#
+#044//Temujin
+Speak no more. It was
+my fault for failing to
+protect you, causing
+you such agony. From
+this day forward, I vow
+to cherish and protect
+you forever, never
+letting hardship touch
+you again.
+#
+#
+#
+#045//Temujin
+This is our agreed
+rendezvous ground. Let
+us await our comrades
+here!
+#
+#
+#
+#046//Camp Burned
+In his fury, %3Temujin%%
+put the %3Merkit%% tents
+and wagons to the
+torch...!
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#060//Reunion and Birth of Jochi
+%3Temujin%% held %3Borte%%
+tightly in his embrace.
+In that moment, all
+words were superfluous;
+sorrow melted away in
+their tears... Upon the
+return march, %3Borte%%
+gave birth to a healthy
+son, whom they named
+%3Jochi%%. In the Mongolian
+tongue, %3Jochi%% means
+'guest' or 'unexpected
+visitor'. Some
+whispered that the boy
+carried %3Merkit%% blood,
+while others maintained
+that %3Borte%% had spent
+less than nine months
+in the %3Merkit%% camp,
+making %3Jochi%% the
+trueborn seed of
+%3Temujin%%. Whatever the
+whispers, %3Temujin's%%
+devotion to %3Borte%%
+remained unshaken, and
+he poured deep fatherly
+love upon %3Jochi%%, living
+together in joyous
+harmony.
+#
+#
+#
+#200
+Objective: Destroy the Merkit
+clan Defeat: All friendly forces
+defeated Time Limit: 4 Years
+(End of 1184 AD)
+#
+#
+#
+#201
+Objective: Slay Chilger and
+seize the Merkit camp Defeat:
+All friendly forces defeated
+Time Limit: 4 Years (End of 1184
+AD)
+#
+#
+#
+#202
+Objective: Pursue and
+crush Torito Defeat:
+All friendly forces
+defeated Time Limit: 4
+Years (End of 1184 AD)
+#
+#
+#
+#203
+Objective: Recover
+Borte's cart Defeat:
+Borte is taken away and
+lost Time Limit: 4
+Years (End of 1184 AD)
+#
+#
+#
+#204
+Objective: Defeat: Time
+Limit:
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

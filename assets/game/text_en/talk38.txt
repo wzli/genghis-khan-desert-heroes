@@ -1,0 +1,623 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+The Mongols did not halt their
+stride, embarking upon a vast
+western expedition. Hearing
+Merkit fugitives fled north of
+the Caucasus mountains, Genghis
+Khan pursued them into lands of
+the Shirvan, Kipchak, and Alans.
+The Abbasid Caliph Al-Nasir
+ruled Baghdad; Genghis Khan rode
+to meet him to seek word of the
+fugitives...
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Genghis Khan
+Go meet King %3Al-Nasir%%.
+#
+#
+#
+#003//Bo'orchu
+By your command!
+#
+#
+#
+#004//Al-Nasir
+You are %3Genghis Khan%%,
+conqueror of %3Khwarazm%%!
+Meeting you is my
+highest honor.
+#
+#
+#
+#005
+Have you word of the
+%3Merkit%% fugitives?
+#
+#
+#
+#006
+Indeed I do!
+#
+#
+#
+#007
+Where are they? Deliver
+them up!
+#
+#
+#
+#008
+Look around you--are
+these not the ones?
+#
+#
+#
+#009//Bo'orchu
+Khagan! We are
+ambushed!
+#
+#
+#
+#010
+Hehehe... Slay %3Genghis
+Khan%%!
+#
+#
+#
+#019
+An arrow struck %3Genghis
+Khan%% from the shadows!
+#
+#
+#
+#011//Genghis Khan
+Cowardly ambush! You
+shall pay!
+
+%3Borokhula%%, let us ride!
+#
+#
+#
+#012//Borokhula
+Ride swift, Khagan! I
+shall hold them!!
+#
+#
+#
+#013//Genghis Khan
+%3Genghis Khan%% was slain
+in battle.
+#
+#
+#
+#014//Borokhula
+Aaargh... I...
+#
+#
+#
+#015//Genghis Khan
+%3Borokhula%%...!
+#
+#
+#
+#016//Borokhula
+Khagan... I can... no
+longer... guard... by
+your... side...!
+#
+#
+#
+#017
+%3Borokhula%%! %3Borokhula%%!!
+I shall avenge you
+before Heaven...!
+#
+#
+#
+#018
+The Khagan's sworn
+brother %3Borokhula%%,
+veteran of a hundred
+wars, fell under heavy
+odds. Grieving
+bitterly, %3Genghis Khan%%
+swore vengeance before
+the Blue Sky!
+#
+#
+#
+#072
+%3Genghis Khan%% returned
+to camp. Though
+wounded, he rallied his
+grand host to storm
+%3Baghdad%%!
+#
+#
+#
+#020
+Shielding the retreat,
+%3Borokhula%% charged into
+the horde, slaying
+scores before falling
+heroically.
+#
+#
+#
+#021
+Fall back inside the
+city walls!
+#
+#
+#
+#022
+Mongols stormed
+%3Baghdad%%, slaying
+%3Al-Nasir%% and avenging
+%3Borokhula%%!
+#
+#
+#
+#023//Jebe
+Townsfolk say vast
+treasures lie buried
+among the %3Shirvan%% north
+of the mountains!
+#
+#
+#
+#024//Genghis Khan
+Five years on this
+western war have
+expanded our realm. To
+leave wealth to
+posterity, press on!
+%2Advance upon the
+Shirvan!%%
+#
+#
+#
+#025
+The %3Kipchak%% spoke
+truth--Mongols are
+here! Fight for our
+lives!
+#
+#
+#
+#026
+Aaaargh...!
+#
+#
+#
+#027
+%3Ozbeg%%, chieftain of the
+%3Shirvan%%, was slain!
+#
+#
+#
+#028
+Gold is buried beneath
+the altar!
+#
+#
+#
+#029
+Dig it all up!
+#
+#
+#
+#030//Genghis Khan
+This gold is less than
+rumored.
+#
+#
+#
+#031//Yelu Chucai
+Northwest lie %3Kipchaks%%
+and north the %3Alans%%.
+Use this gold to divide
+them!
+#
+#
+#
+#032//Genghis Khan
+%3Kipchaks%% are Turkic
+kin. %2Take the gold to
+the red flags to buy
+their alliance!%%
+#
+#
+#
+#033//Genghis Khan
+We share Turkic blood;
+if you yield, this gold
+is yours!
+#
+#
+#
+#034//Akhraq
+Splendid! We are
+brothers now; I accept
+the gold!
+#
+#
+#
+#035
+Intruders! To arms!
+#
+#
+#
+#036//Kotyan Khan
+Mongols are here!
+Beware!
+#
+#
+#
+#037
+I ride to seek aid from
+the %3Rus Princes%%!
+#
+#
+#
+#038
+%3Kotyan Khan%% fled to his
+son-in-law, Prince
+%3Mstislav the Bold%%:
+'Today Mongols ravage
+our land; tomorrow they
+shall ravage yours!'
+#
+#
+#
+#039//Genghis Khan
+North lie the %3Rus
+Principalities%%. Summon
+our flank detachments
+at once!
+#
+#
+#
+#040
+%3Mstislav the Bold%% wrote
+to the princes: 'Better
+meet them abroad than
+on our own soil!' A
+coalition of Rus,
+Kipchak, and Crusader
+knights assembled.
+#
+#
+#
+#041//Subutai
+Flank forces arrived,
+awaiting orders!
+#
+#
+#
+#042//Genghis Khan
+Hold the five strategic
+outposts; none may
+fall!
+#
+#
+#
+#043//Mstislav
+Past the hour, yet many
+princes have not
+arrived!
+#
+#
+#
+#044//Dmitry
+Shall we still fight?
+#
+#
+#
+#045
+I shall fight to the
+end!
+#
+#
+#
+#046
+Sound the horns!
+#
+#
+#
+#047
+Horns sounded
+thrice--charge!! Bwooo!
+Bwooo! Bwooo!
+#
+#
+#
+#048
+Late! The battle has
+begun!
+#
+#
+#
+#049//Mstislav of Kiev
+What a pity! (Let them
+bleed; it benefits me!)
+#
+#
+#
+#050
+The march was long;
+forgive our delay!
+#
+#
+#
+#051
+I am %3Jalal al-Din%% of
+%3Khwarazm%%! I joined your
+host to drive Mongols
+back to their steppes!
+#
+#
+#
+#052//Yuri II
+We are archers, so we
+march slower! (The late
+bird wins!)
+#
+#
+#
+#053//Mstislav
+I am wounded! Fight on!
+#
+#
+#
+#054//Igor
+All is lost! Flee!
+#
+#
+#
+#055//Dmitry
+The Mongols are too
+fierce! Flee!
+#
+#
+#
+#056//Soldier
+Terrifying! Run for
+your lives!
+#
+#
+#
+#057//Roman
+I am wounded!
+#
+#
+#
+#058
+Escort the prince away!
+#
+#
+#
+#059//Yuri II
+Mongols are ferocious!
+Run faster!
+#
+#
+#
+#060//Mstislav of Kiev
+I surrender! Spare my
+life...!
+#
+#
+#
+#061//Swabian Knight
+I am down! Fight on!
+#
+#
+#
+#062//Prince
+Fight to the death!
+#
+#
+#
+#063//Volhynia
+The others arrived too
+late! (Slip away
+now...)
+#
+#
+#
+#064//Jalal al-Din
+Remember our homes!
+Fight to the last
+breath!
+#
+#
+#
+#065
+Duke %3Igor%% was slain
+during retreat!
+#
+#
+#
+#066
+%3Dmitry%% was slain during
+retreat!
+#
+#
+#
+#067
+%3Roman%% was slain during
+pursuit!
+#
+#
+#
+#068
+%3Yuri II%% was slain while
+fleeing!
+#
+#
+#
+#069
+%3Jalal al-Din%% escaped
+safely!
+#
+#
+#
+#070
+The %3Grand Prince of
+Kiev%% surrendered his
+army to the Mongols.
+#
+#
+#
+#071
+Divided in command, the
+eighty-thousand %3Rus
+Coalition%% was crushed!
+The captured %3Grand
+Prince of Kiev%% and
+nobles were bound
+beneath heavy planks.
+Mongol commanders
+celebrated their
+victory banquet atop
+them, crushing the
+captives under songs of
+triumph! Mongols swept
+to the %3Crimean
+peninsula%%!
+#
+#
+#
+#073
+Main camp captured!
+Mission Failed!
+#
+#
+#
+#074
+%3Baghdad%% captured!
+Mission Failed!
+#
+#
+#
+#075
+%3Shirvan%% captured!
+Mission Failed!
+#
+#
+#
+#076
+%3Kipchak%% captured!
+Mission Failed!
+#
+#
+#
+#077
+%3Alan%% captured! Mission
+Failed!
+#
+#
+#
+#078
+%3Borokhula%% was slain in
+battle!
+#
+#
+#
+#079
+Ambush! Beware!
+#
+#
+#
+#07
+#
+#
+#
+#200
+Objective: Genghis Khan and
+Borokhula reach the red flag
+Defeat: Genghis Khan slain Time
+Limit: 4 Years (End of 1225)
+#
+#
+#
+#201
+Objective: Genghis Khan escapes
+safely to camp Defeat: Genghis
+Khan slain Time Limit: 4 Years
+(End of 1225)
+#
+#
+#
+#202
+Objective: Capture
+Baghdad Defeat: All
+forces wiped out or
+camp captured Time
+Limit: 4 Years (End of
+1225)
+#
+#
+#
+#203
+Objective: Attack
+Shirvan clan Defeat:
+All forces wiped out or
+camp captured Time
+Limit: 4 Years (End of
+1225)
+#
+#
+#
+#204
+Objective: 8 gold
+wagons to red flag;
+occupy Kipchak and Alan
+Defeat: All forces
+wiped out or camp
+captured Time Limit: 4
+Years (End of 1225)
+#
+#
+#
+#205
+Objective: Repel Rus
+Coalition and hold 5
+outposts Defeat: Any
+outpost captured or all
+forces wiped out Time
+Limit: 4 Years (End of
+1225)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

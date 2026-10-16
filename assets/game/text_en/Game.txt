@@ -1,0 +1,760 @@
+33	49	111	397	110	59
+Feuds of the Steppe
+Fall of East Asia
+Scourge of Eurasia
+Young Temujin
+Tragic Fate
+Tribe's Desertion
+Pursuit of the Taichi'ut
+Escape from Death
+True Bond in Adversity
+The Abduction of Borte
+Rescue of Borte
+Battle of the 13 Wings
+Fall of the Taichi'ut
+Battle of Koiten
+Subjugation of Tatars
+Battle of Qalaqaljid
+Ambush on Ong Khan
+Fall of Tayang Khan
+The End of Jamukha
+Genghis Khan Crowned
+Qocho and the Qarluqs
+Western Xia Campaign
+Invasion of Jin Dynasty
+Battle of Yehuling
+Breaching Juyong Pass
+Conquest of Hebei
+Fall of Kuchlug
+Western Expedition
+Fate of Muhammad II
+Defiance of Jalal al-Din
+The Rus' Coalition
+Twilight Years (Finale)
+World Conqueror
+Mongol Clan
+Kereit Clan
+Naiman Clan
+Tatar Clan
+Taichi'ut Clan
+Merkit Clan
+Jadaran Clan
+Ongud Clan
+Bandits
+Mongolia
+Jin Empire
+Southern Song
+Western Xia
+Japan
+Qara Khitai
+Goryeo
+Ghurid Dynasty
+Neutral
+Khwarazm
+Ayyubid Sultanate
+Rus' Principality
+Holy Roman Empire
+Byzantine Empire
+Kiyad Clan
+Yesugei
+Onggirat Clan
+Kiyad Lineage
+Qongqotan Lineage
+Taichi'ut Lineage
+Temujin
+Borjigin Lineage
+Bandits
+New Faction
+Jurchin Lineage
+Bandit King
+Nirun Lineage
+Tatar
+Jin Empire
+Kereit
+Jadaran
+Naiman
+Tumad Clan
+Oirat Clan
+Qocho
+Qarluq
+Abbasid Caliphate
+Caucasus
+Russia
+First Emperor Tomb
+Onon River
+Karakorum
+West Khuree
+Sair Us
+Khovd
+Ulaangom
+Kemchik
+Altai Mountains
+Hailar
+Tamtsag
+Ulan-Ude
+Sainshand
+Kherlen River
+Uliastai
+Ancient Ruins
+Mountain Camp
+Cavern
+Yanjing
+Kaifeng
+Datong
+Fengxiang
+Dading
+Lin'an
+Quanzhou
+Guangzhou
+Xiangyang
+Chengdu
+Xingqing
+Dunhuang
+Pingquan
+Kamakura
+Balasagun
+Balkhash
+Kaesong
+Ghur
+Delhi
+Lhasa
+Qocho
+Almaliq
+Urgench
+Samarkand
+Bukhara
+Ghazni
+Nishapur
+Damascus
+Cairo
+Kyiv
+Moscow
+New Sarai
+Brandenburg
+Saxony
+Constantinople
+Venice
+Kipchak
+Alamut
+Baghdad
+Warsaw
+Pest
+Cave
+Military Camp
+Yurt
+Camp Pavilion
+Outlaw Den
+Namulen Ruins
+Merkit Clan
+Main Camp
+Maple Camp
+Pine Camp
+Sair Us
+Jinshan City
+Kayaliq
+Zhongxing
+Wulahai City
+Army Camp
+Lijili Camp
+Keyimen Pass
+Shuozhou
+Changzhou
+Huanzhou
+Xuande
+Dexing
+Beikou Pass
+Juyong Pass
+Taiyuan
+Daming
+Hejian
+Hotan
+Balasagun
+Otrar
+House
+House 15
+House 16
+House 19
+House 21
+House 23
+House 26
+House 29
+Nishapur
+Balkh
+Qazvin
+Mosque
+Suspicious Structure
+Ghazni
+Mountain Castle
+Shirvan Clan
+Kipchak Clan
+Alan Clan
+Sanctuary
+Ancient Tomb
+Tongguan Pass
+Fuzhou
+id Zero
+Temujin
+Temujin
+Genghis Khan
+Jochi
+Chagatai
+Ogedei
+Tolui
+Belgutei
+Borokhula
+Chilaun
+Qasar
+Qachiun
+Jelme
+Qubilai
+Temuge
+Subutai
+Bo'orchu
+Borte
+Jamukha
+Jamukha
+Jurchidei
+Tayang Khan
+Kuchlug
+Jebe
+Taoyunge
+Muqali
+Ulisube
+Kokechu
+Jokhunan
+Buyruk Khan
+Toghrul
+Jakha Gambu
+Altan
+Altun
+Senggum
+Khuchar
+Sehan Toduan
+Chilger
+Torito
+Qodu
+Chila'un
+Khokhuchu
+Targhutai
+Orbei
+Guwen
+Qon'atai
+Kushluk
+Sacha Beki
+Buri Boke
+Qadagidai
+Todoyan Gir
+Qutu
+Botokhuidai
+Yedi'ina
+Khutukha
+Torbi Tash
+Qorchi
+Alaq-ush
+Muqur
+Wanyan Yongji
+Wanyan Husha
+Wanyan Zhizhong
+Wanyan Wannu
+Yin Qing
+Yelu Ahai
+Yelu Chucai
+Bakshi
+Sangchen
+Qianjianu
+Wanyan Xun
+Wanyan Shouzhong
+Qiu Chuji
+Wanyan Fuxing
+Zhuhu Gaoqi
+Li Ying
+Wanyan Menxi
+Chen Heshang
+Shi Tianze
+Pucha Qijin
+Hushahu
+Moran Jinzhong
+Sun Xiulin
+Myeongjong
+Hyosim
+Choe Chung-heon
+Yi Gyu-bo
+Kim Gyeong-son
+Han Tuozhou
+Lu Xiufu
+Emperor Ningzong
+Zhao Dun
+Shi Miyuan
+Li Zhi
+Cheng Dachang
+Zhu Xi
+Lu Xiangshan
+Zhen Dexiu
+Wen Tianxiang
+Lu Jiuyuan
+Taghai
+Li Renyou
+Asha Gambu
+Li Dewang
+Li Anquan
+Li Chengzhen
+Gao Yi
+Eda
+Li Zunxiang
+Souming Linggong
+Saqi Apan
+Tokpabek
+Sangju
+Yelu Linggong
+Li Xian
+Minamoto Yoritomo
+Hojo Tokimasa
+Kumagai Naozane
+Oe no Hiromoto
+Minamoto Noriyori
+Hojo Yoshitoki
+Hatakeyama
+Nasu no Yoichi
+Hojo Yasutoki
+Fujiwara Yasuhira
+Fujiwara Kunihira
+Benkei
+Minamoto Yoshitsune
+Empty
+Terken Khatun
+Ulaq
+Sarsikh
+Baris
+Oslakh
+Tukhai Khan
+Albar
+Muhammad II
+Faridun
+Inalchuq
+Temur Malik
+Qarachar
+Jalal al-Din
+Rukn al-Din
+Tusi
+Hajir Khan
+Khan Malik
+Khumar
+Saadi
+Rumi
+Empty
+Ghiyas
+Chishti
+Ghori
+Yildiz
+Qabacha
+Iltutmish
+Jayachandra
+Aimak
+Khilji
+Balban
+Al-Nasir
+Al-Aziz
+Al-Adil
+Yaqut
+Atushi
+Al-Afdal
+Al-Ashraf
+Ibn Abi
+Qifti
+Khalil Khan
+Saladin
+Maimonides
+Al-Jazari
+Al-Kamil
+Ahmad
+Isaac II
+Italo
+Doukas
+Mankaphas
+Alexios III
+Theodore I
+Fauconberg
+Igor Svyatoslavich
+Roman the Great
+Dmitry
+Volodislav
+Yuri II
+Alexander Nevsky
+Michael of Chernigov
+Empty
+Frederick II
+Leopold VI
+Henry VI
+Otto IV
+Frederick
+Azzo VII
+Falta
+Duke of Swabia
+Albert of Buxhoeveden
+Conrad of Mazovia
+Orio Mastropiero
+Enrico Dandolo
+Francesco
+Akhraq
+Ozbeg
+Kotyan Khan
+Mstislav Bold
+Khiva
+Prince of Volhynia
+Idi-qut
+Bilge
+Buzar
+Chaganakh
+Arslan
+Mahmud
+Gurkhan
+Empty
+Veteran Infantry
+Veteran Spearmen
+Veteran Cavalry
+Veteran Archer
+Heavy Catapult
+Royal Carriage
+Treasure Wagon
+Paladin
+Infantry
+Spearman
+Cavalry
+Archer
+Catapult
+Mongol Cavalry
+Repeating Crossbow
+Fire Lancer
+Crusader
+Camel Cavalry
+Cannon Artillery
+War Elephant
+Samurai Warrior
+Bandit
+Bandits
+Bandit Chieftain
+Skeleton Warrior
+Mummy Guard
+Dire Wolf
+Supply Wagon
+Ox
+Sheep
+Steed
+Child
+Villager (Male)
+Villager (Female)
+Fire
+Item Cart
+Castle Gate
+Castle Tower
+Standalone Tower
+Messenger Cart
+Great Rock Wolf
+Belgutei
+Begter
+Guo Jing
+Hoelun
+Yesugei
+Dei Sechen
+Menglik
+Qasar
+Begter
+Enemy Soldier
+Temujin
+Taichar
+Bandit
+Bridal Carriage
+Guard
+Yurt Wagon
+Borokhula
+Jochi
+Chagatai
+Ogedei
+Tolui
+Envoy
+Yeke Cheren
+Meulitu
+Yesugan
+Yesui
+Khulan
+Soldier
+Borte
+Empty
+Cavern Tower
+Ruins Tower
+War Bull
+Battle Standard
+New General
+Zhao Bing
+Li Tingzhi
+Chen Yizhong
+Jia Sidao
+Quan Zicai
+Zhao Kui
+Zhao Fan
+Jiang Hai
+Meng Gong
+Cui Li
+Li Pingzhen
+Zhang Hui
+Fan Ze
+Yang Woyan
+Wanyan Heda
+Emperor Aizong
+Infantry Shrine
+Spearman Shrine
+Cavalry Shrine
+Archer Shrine
+Siege Shrine
+Medical Treatise
+Golden Abacus
+Golden Plow
+Guillotine
+Waterwheel
+Marketplace
+Sacred Icon
+Ballista Tower
+Obedai
+Wanyan Hongsha
+Wanyan Honglie
+Qoahe
+Elchi
+Borijar
+Lu Wenhuan
+Yuan Shu
+Xin Qiji
+Otchigin
+Qorotuni
+Qilinha
+Charakha
+Shirake
+Wulinni
+Zhang Shijie
+Yu Jie
+Jiang Cai
+Hanshici
+Mujikun
+Qatagin
+Hotaqi
+Ordo
+Dogulei
+Jieshu
+Gulkhan
+Qalaci
+Heiqi
+Ulixiao
+Empty
+Fu Daqi
+Bai Renqiao
+Empty
+Li Ansheng
+Li Anyu
+Li Anwen
+Li Anzuo
+Empty
+Batu Khan
+Mongke Khan
+Kublai Khan
+Hulagu Khan
+Ariq Boke
+Kaidu
+Empty
+Imad al-Din
+Nur al-Din
+Latinus
+Baha al-Din
+Al-Afdal
+Muslim Officer
+Empty
+Kepler
+Henrich
+Maestlin
+Tycho Brahe
+Empty
+Weinberg
+Issac
+Cabers
+Norriski
+Hamites
+Branoki
+Empty
+Manzikert
+Maderno
+Belisarius
+Boleslaw
+Konrad
+Oppeln
+Ratibor
+Bela IV
+Ugulik
+Rukn al-Din
+Nasir al-Din
+Light Infantry
+Heavy Infantry
+Spearmen
+Pikemen
+Light Cavalry
+Heavy Cavalry
+Shortbowmen
+Longbowmen
+Strategist
+Grand Strategist
+Cataphract
+Raider Cavalry
+Crossbowmen
+Repeating Crossbow
+Fire Lancer
+Flame Elite
+Crusader
+Iron Crusader
+Camel Cavalry
+Heavy Camel
+Catapult Artillery
+Cannon Artillery
+Paladin
+High Paladin
+Samurai
+Oni Samurai
+Elite Cataphract
+Elite Raider
+Maiden Guard
+Iron Maiden Guard
+Warrior
+Fierce Warrior
+Warrior
+Fierce Warrior
+Warrior
+Fierce Warrior
+Archer
+Marksman
+Warrior
+Fierce Warrior
+Archer
+Marksman
+Elite Cataphract
+Elite Raider
+Strategist
+Grand Strategist
+Iron Cavalry
+Assault Cavalry
+Warrior
+Fierce Warrior
+Warrior
+Fierce Warrior
+Maiden Guard
+Iron Maiden Guard
+Militia Infantry
+Militia Spearmen
+Militia Cavalry
+Militia Archer
+Light Catapult
+Light Cataphract
+Light Crossbow
+Light Fire Lancer
+Young Crusader
+Light Camel
+Light Cannon
+Light War Elephant
+Apprentice Paladin
+Young Samurai
+Sailing Vessel
+Galleon
+Warship
+Grand Warship
+Skiff
+Pirate Ship
+Transport Ship
+Bandit
+Bandits
+Bandit Chieftain
+Skeleton Warrior
+Mummy Guard
+Dire Wolf
+Supply Wagon
+Ox
+Sheep
+Steed
+Child
+Villager (Male)
+Villager (Female)
+Item Cart
+Fire
+Fallen Soldier
+Fallen Steed
+Shipwreck
+Castle Watchtower
+Standalone Tower
+Royal Carriage
+Treasure Cart
+Veteran Infantry
+Veteran Spearmen
+Veteran Cavalry
+Veteran Archer
+Heavy Siege Engine
+Cavern Tower
+Ruins Tower
+Envoy
+War Bull
+Battle Standard
+Swordsman
+Armored Vessel
+Castle Gate
+Citrine Quartz
+Amethyst Crystal
+White Doe Staff
+Blue Wolf Robe
+Diamond Crown
+Ancient Jade
+Green Dragon Blade
+Heaven Reliant Sword
+Muramasa Blade
+Shiranui Blade
+Dragon Slayer Lance
+Excalibur
+Battleaxe
+Scimitar
+Flamberge
+Golden Saber
+Executioner Axe
+Viking Broadsword
+Six Secret Teachings
+Art of War
+Strategikon
+Gallic Wars
+Annals of Hannibal
+Tactical Formations
+Taiping Jing
+Song of Roland
+Shahnameh
+Analects of Confucius
+Han Feizi
+Zhuangzi
+Book of Rites
+Treatise on Astronomy
+Tripitaka
+Travels of Marco Polo
+Greek Philosophy
+Quran
+Holy Bible
+Red Hare Steed
+Ferghana Steed
+Hex Mark Steed
+Camel Steed
+Paladin Armor
+Golden Armor
+Samurai Armor
+Blue Wolf Armor
+Dragon Scale Armor
+Phoenix Armor
+Silver Helm
+Golden Helm
+Iron Helm
+Ninja Garb
+Fire Dragon Scroll
+Thunderstorm Scroll
+Rockslide Scroll
+Inspire Scroll
+Roar Scroll
+Persuade Scroll
+Pearl
+Amethyst Crystal

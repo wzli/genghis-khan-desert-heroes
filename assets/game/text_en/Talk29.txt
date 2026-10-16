@@ -1,0 +1,480 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+When the Jin drove the Song
+south of the Yangtze, Jin ruled
+the vast central plains while
+Western Xia bowed as their
+vassal. In 1206, Western Xia
+Emperor Li Anquan took the
+throne and secretly allied with
+Jin against the Mongols. Feud
+with Jin burned deep, yet to
+strike Jin, Genghis Khan had
+first to subdue Western Xia and
+break the alliance. In 1209,
+citing Li Anquan's refusal of
+tribute, Genghis Khan launched a
+grand campaign against Western
+Xia.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Genghis Khan
+%2All forces, advance
+upon Western Xia!%%
+#
+#
+#
+#003//Gao Yi
+The Mongols attack!
+%3Fort Lijili%% is lost!
+Report to the court at
+once!
+#
+#
+#
+#004//Gao Yi
+Aaargh...!
+#
+#
+#
+#005
+%3Gao Yi%% has fallen in
+battle!
+#
+#
+#
+#006//Narration
+%3Fort Lijili%% on the
+%3Western Xia%% frontier
+has fallen! Forward!
+#
+#
+#
+#007//Narration
+Word reached %3Zhongxing%%
+that Fort Lijili had
+fallen. Tangut King %3Li
+Anquan%% ordered Crown
+Prince %3Li Chengzhen%% to
+march.
+
+Reaching the border
+bastion of %3Wulahai%%, the
+prince rode forth to
+show defiance.
+#
+#
+#
+#008//Li Chengzhen
+(The Mongols charge
+like dragons! My fifty
+thousand men scatter
+like sand. Retreat to
+%3Wulahai%%!)
+#
+#
+#
+#009//Li Chengzhen
+The enemy storms
+%3Wulahai%%! Grand
+Preceptor %3Eda%%, let us
+flee!
+#
+#
+#
+#17
+#
+#
+#
+#010//Eda
+So many soldiers bleed
+and die for the realm;
+I cannot abandon them!
+You are crown
+prince--flee to
+%3Zhongxing%%!
+#
+#
+#
+#011//Muqali
+We captured Grand
+Preceptor %3Eda%% of
+%3Western Xia%%! Cast him
+into chains!
+#
+#
+#
+#012//Eda
+(The Mongols fight with
+unmatched fury. Is the
+destiny of %3Western Xia%%
+spent?)
+#
+#
+#
+#013//Li Chengzhen
+The Mongols breached
+%3Wulahai%% and Grand
+Preceptor %3Eda%% is
+captured!
+#
+#
+#
+#014//Li Zunxiang
+You are the crown
+prince of %3Western Xia%%!
+You fled the field and
+broke morale--answer
+for this shame!
+#
+#
+#
+#015//Li Chengzhen
+You dare...!
+#
+#
+#
+#016//Li Anquan
+This is no time for
+blame! Send envoys to
+the %3Jin Dynasty%% for
+urgent aid!
+
+Commander %3Souming
+Linggong%%, hold %3Keyimen
+Pass%%--our final
+bastion!
+#
+#
+#
+#017//Souming Linggong
+By your command!
+#
+#
+#
+#018//Souming Linggong
+Stand firm and hold
+them back!
+#
+#
+#
+#019//Souming Linggong
+We are broken! Retreat!
+#
+#
+#
+#020//Li Anquan
+%3Keyimen Pass%% is taken
+by the Mongols!
+
+Where are the %3Jin%%
+reinforcements?!
+#
+#
+#
+#021//Li Chengzhen
+The newly crowned Jin
+emperor, %3Wanyan Yongji%%,
+refused us aid! He
+declared: 'When our
+foes fight each other,
+it is our blessing!'
+#
+#
+#
+#022//Li Zunxiang
+Incompetent fool on a
+throne! The doom of the
+Jin Empire is near at
+hand...!
+#
+#
+#
+#023//Li Anquan
+Warriors of Western
+Xia, we shall not
+become Mongol slaves!
+Defend %3Zhongxing%% to the
+last breath!
+#
+#
+#
+#024//Bo'orchu
+Ahead lies %3Zhongxing%%,
+capital of %3Western Xia%%!
+Its walls are high and
+stout; taking it will
+be no easy task...
+#
+#
+#
+#025//Narration
+Mongols stormed
+%3Zhongxing%%. %3Genghis Khan%%
+summoned Grand
+Preceptor %3Eda%% to urge
+the Xia king to yield:
+'The Mongols cannot be
+vanquished, and the Jin
+cannot be trusted. Only
+peace through marriage
+can ensure survival.'
+Western Xia offered a
+princess and sued for
+peace, breaking with
+Jin and securing the
+rear for Genghis Khan's
+conquest of Jin.
+#
+#
+#
+#026//Narration
+The water gates outside
+%3Zhongxing%% were
+breached, and Yellow
+River floods engulfed
+%3Zhongxing%%! Drowning
+city and imperiling
+Mongol siege lines
+alike.
+
+%3Genghis Khan%% sent %3Eda%%
+to demand surrender.
+King %3Li Anquan%% yielded,
+offering a daughter and
+swearing: 'If you
+conquer the Jurchen, I
+shall be your right
+hand; if you march on
+Khwarazm, I shall be
+your left hand!'
+Western Xia severed
+ties with Jin,
+fulfilling Genghis
+Khan's grand strategy.
+#
+#
+#
+#027//Soldier
+Defend %3Zhongxing%%!
+#
+#
+#
+#028
+Disaster! The Mongols
+have broken through to
+the water gates...!
+#
+#
+#
+#029
+Direct assault costs
+too many lives. Is
+there another way?
+#
+#
+#
+#030
+Zhongxing draws Yellow
+River water into a
+moat. If we %2destroy the
+water gates and divert
+the flood%%, victory
+shall be ours!
+#
+#
+#
+#031
+A brilliant stratagem!
+Let it be done!
+#
+#
+#
+#032
+#
+#
+#
+#033
+#
+#
+#
+#034
+#
+#
+#
+#035
+#
+#
+#
+#036
+#
+#
+#
+#037
+#
+#
+#
+#038
+#
+#
+#
+#039
+#
+#
+#
+#040
+#
+#
+#
+#041
+#
+#
+#
+#042
+#
+#
+#
+#043
+#
+#
+#
+#044
+#
+#
+#
+#045
+#
+#
+#
+#046
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Breach the three
+forts and defenders of Lijili
+Defeat: All forces wiped out
+Time Limit: 4 Years (End of
+1212)
+#
+#
+#
+#201
+Objective: Destroy all enemy
+field forces Defeat: All forces
+wiped out Time Limit: 4 Years
+(End of 1212)
+#
+#
+#
+#202
+Objective: Capture
+Wulahai City Defeat:
+All forces wiped out
+Time Limit: 4 Years
+(End of 1212)
+#
+#
+#
+#203
+Objective: Capture
+Keyimen Pass Defeat:
+All forces wiped out
+Time Limit: 4 Years
+(End of 1212)
+#
+#
+#
+#204
+Objective: Force the
+King of Western Xia to
+surrender Defeat: All
+forces wiped out Time
+Limit: 4 Years (End of
+1212)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

@@ -1,0 +1,546 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Temujin vanquished the Taichi'ut
+and Tatars, taking their eastern
+pastures. Ong Khan absorbed
+Jamukha, while the old Kiyad
+nobles Altan and Khuchar also
+deserted to Ong Khan's court.
+Across the vast steppe, only the
+Mongols, Kereits, and Naimans
+remained--a precarious balance
+of three mighty powers. In 1203
+AD, seeking to cement his ties
+with Ong Khan, Temujin proposed
+a double marriage alliance: his
+eldest son Jochi would wed
+Senggum's sister, uniting their
+families as 'Quda' (in-laws).
+Ong Khan welcomed the idea, and
+after long hesitation, Senggum
+nodded his agreement, inviting
+Temujin to the betrothal
+feast...
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Borte
+%3Jochi%%, when you arrive
+at the bride's camp,
+present yourself with
+dignity and honor.
+#
+#
+#
+#003//Jochi
+Mother, I shall heed
+all your instructions.
+#
+#
+#
+#004//Temujin
+%3Chagatai%%, guard this
+perimeter vigilantly
+and remain on high
+alert!
+#
+#
+#
+#005//Chagatai
+Rest easy, Father. My
+fists have rested so
+long they itch for
+battle!
+#
+#
+#
+#006//Temujin
+%3Ogedei%%, %3Borokhula%%, you
+have both reached
+manhood. I entrust the
+safety of our camp and
+kin to you.
+#
+#
+#
+#007//Ogedei
+With %3Borokhula%% beside
+me, nothing can go
+wrong! Right, brother?
+#
+#
+#
+#008//Borokhula
+To be part of this
+Golden Family is my
+greatest blessing.
+Whatever tasks await,
+%3Borokhula%% will charge
+forward without fear!
+#
+#
+#
+#009//Temujin
+The hour has come;
+return to your posts.
+%3Jochi%%, ride with me to
+meet Lord %3Senggum%%.
+#
+#
+#
+#010//Senggum
+Hahaha! %3Temujin%%, you
+have walked right into
+our snare! How gullible
+you are! Seize them!
+#
+#
+#
+#011//Sehan Toduan
+Everything proceeds as
+Lord %3Senggum%% planned!
+Capture father and son
+alive!
+#
+#
+#
+#012//Temujin
+%3Senggum%%! How dare you
+stoop to such
+treacherous deceit...!
+%3Jochi%%, %2break out and
+ride back to camp
+immediately!%%
+#
+#
+#
+#013//Senggum
+Bah! You dare presume
+to marry into my house?
+Without my father's
+prestige, how could you
+have crushed the other
+tribes? Calling my
+father your Khan
+Father--what vile
+schemes were you
+brewing?!
+#
+#
+#
+#014//Chagatai
+Shield my father! Cut
+down these treacherous
+curs!
+#
+#
+#
+#015//Temujin
+This ambush came
+without warning.
+%3Senggum%% is venomous and
+cunning; he will not
+cease until blood is
+spilled.
+#
+#
+#
+#016//Borokhula
+Warning! Enemy
+infiltrators detected!
+#
+#
+#
+#017//Ogedei
+I see them too! Protect
+the family and evacuate
+at once; I shall hold
+them off!
+#
+#
+#
+#018//Borokhula
+Be careful, %3Ogedei%%...!
+#
+#
+#
+#019//Muqali
+Form a ring around the
+Khan!
+#
+#
+#
+#020//Borte
+Alarm in the camp! Ride
+to their aid!
+#
+#
+#
+#021//Temujin
+Summon %3Jochi%%, %3Chagatai%%,
+and %3Ogedei%% to the main
+yurt!
+#
+#
+#
+#022//Temujin
+The enemy scout party
+has been repelled, but
+their main host will
+arrive soon. %2Jochi,
+Chagatai, Ogedei, fall
+back with me to the
+rear camp!%%
+#
+#
+#
+#023//Temujin
+The enemy comes in
+force. Ambushed like
+this, we cannot hold
+our ground. Commanders,
+hear me: if lines
+crumble, break through
+the encirclement and
+retreat independently!
+#
+#
+#
+#024//Jamukha
+Lord %3Ong Khan%%! If we
+capture %3Temujin%% and his
+sons, the entire
+fertile Mongolian
+steppe will belong to
+you alone!
+#
+#
+#
+#025//Temujin
+%3Jamukha%%, why must you
+poison the sacred bond
+between me and my Khan
+Father?!
+#
+#
+#
+#026//Ong Khan
+The chiefs have united
+to bring you down.
+Surrender yourself,
+Temujin!
+#
+#
+#
+#027//Ong Khan
+Fall back! Make haste!
+#
+#
+#
+#028//Commander
+Break through the
+encirclement! Retreat!
+#
+#
+#
+#029//Jamukha
+%3Temujin%%, you stand
+above thousands while I
+must bend my knee to
+another! Heaven is
+unjust, but I will
+never let you have your
+way!
+#
+#
+#
+#030//Ogedei
+Ah... I am struck by an
+arrow! Help me!
+#
+#
+#
+#031//Altan
+%3Temujin%%, where do you
+think you can flee?!
+#
+#
+#
+#032//Temujin
+%3Altan%%, %3Khuchar%%! You
+betrayed me, and now
+you incite %3Senggum%%
+against me! If I give
+ground by one li today,
+tomorrow I shall
+reclaim two!
+#
+#
+#
+#033//Khuchar
+Arrogant upstart! Seize
+him!
+#
+#
+#
+#034//Temujin
+%2My sons, fall back with
+me to the next rear
+camp!%%
+#
+#
+#
+#035//Altan
+%3Temujin%%, you run fast
+indeed! Lord %3Ong Khan%%
+is eager for me to drag
+you back for my reward!
+#
+#
+#
+#036//Temujin
+%2While the green
+mountain stands, there
+will always be firewood
+to burn! Fall back
+again!%%
+#
+#
+#
+#037//Jakha Gambu
+Seize %3Temujin%%! Do not
+let him slip through
+our fingers!
+#
+#
+#
+#038//Temujin
+Treacherous dogs! I,
+%3Temujin%%, shall repay
+this bitter debt! %2All
+forces, fall back to
+the Baljuna River!%%
+#
+#
+#
+#039//Baljuna Covenant
+Battered and exhausted,
+%3Temujin%% and his loyal
+companions retreated
+north toward the shores
+of %3Lake Baikal%%, until
+%3Senggum%% finally broke
+off the pursuit.
+Eggened on by %3Senggum%%
+and %3Jamukha%%, %3Ong Khan%%
+launched this surprise
+attack, shattering
+their 'father and son'
+bond forever. In this
+ruthless age of strife,
+there are no eternal
+friends.
+#
+#
+#
+#040//Ogedei
+Look out! We are
+surrounded!
+#
+#
+#
+#041//Temujin
+%2Emergency! Drive the
+enemies from our camp
+with all haste!%%
+#
+#
+#
+#042//Muqali
+%3Ong Khan's%% main host
+has arrived!
+#
+#
+#
+#043
+#
+#
+#
+#044
+#
+#
+#
+#045
+#
+#
+#
+#046
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Temujin and Jochi
+ride southeast to Senggum's camp
+for betrothal Defeat: Temujin
+and Jochi both defeated Time
+Limit: 4 Years (End of 1206 AD)
+#
+#
+#
+#201
+Objective: Temujin and Jochi
+enter the main tent Defeat:
+Temujin and Jochi both defeated
+Time Limit: 4 Years (End of 1206
+AD)
+#
+#
+#
+#202
+Objective: Defeat the
+ambush forces of
+Senggum and Sehan
+Toduan Defeat: All
+friendly forces
+defeated Time Limit: 4
+Years (End of 1206 AD)
+#
+#
+#
+#203
+Objective: Defeat the
+invaders; Temujin,
+Jochi, Chagatai, and
+Ogedei enter the main
+yurt Defeat: All
+friendly forces
+defeated Time Limit: 4
+Years (End of 1206 AD)
+#
+#
+#
+#204
+Objective: Temujin and
+his three sons retreat
+to the northeast camp
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1206 AD)
+#
+#
+#
+#205
+Objective: Temujin and
+his three sons retreat
+to the northwest camp
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1206 AD)
+#
+#
+#
+#206
+Objective: Temujin and
+his three sons retreat
+to the northeast camp
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1206 AD)
+#
+#
+#
+#207
+Objective: Temujin and
+his three sons retreat
+to the northwest red
+banner Defeat: All
+friendly forces
+defeated Time Limit: 4
+Years (End of 1206 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

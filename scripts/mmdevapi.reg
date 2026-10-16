@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}]
+@="MMDeviceEnumerator class"
+
+[HKEY_CLASSES_ROOT\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocServer32]
+@="C:\\windows\\system32\\mmdevapi.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}]
+@="MMDeviceEnumerator class"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocServer32]
+@="C:\\windows\\syswow64\\mmdevapi.dll"
+"ThreadingModel"="Both"

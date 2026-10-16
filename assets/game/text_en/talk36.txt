@@ -1,0 +1,577 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+After taking Bukhara, Genghis
+Khan marched east upon
+Samarkand, new capital of
+Khwarazm. Shah Muhammad
+stationed 110,000 men with
+battle elephants and dug deep
+moats, levying three years of
+taxes in advance. Yet Khwarazm
+divided its forces among
+scattered fortresses, allowing
+Mongols to defeat them piecemeal
+--Muhammad's fatal error.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Genghis Khan
+Yonder lies %3Samarkand%%!
+What have our scouts
+uncovered?
+#
+#
+#
+#003//Jebe
+Shah %3Muhammad II%%
+deepens trenches,
+preparing a desperate
+defense.
+#
+#
+#
+#004//Subutai
+%3Samarkand%% is populous,
+anchored by a grand
+%3Mosque%%.
+#
+#
+#
+#005//Bo'orchu
+They massed vast levies
+and dozens of massive
+war elephants.
+#
+#
+#
+#006//Chilaun
+Some units wield
+naphtha flame tubes
+with fearsome reach!
+#
+#
+#
+#007//Yelu Chucai
+Losing two cities,
+%3Muhammad II%% trembles
+like a hare, hoarding
+walls and troops in
+fear.
+#
+#
+#
+#008
+True. %3Yelu Chucai%%
+speaks wisely.
+#
+#
+#
+#009//Yelu Chucai
+The Art of War says:
+'Know the enemy and
+know yourself.'
+
+%2Slay the elephant
+commanders, and the
+beasts will turn on
+their masters!%%
+#
+#
+#
+#010//Genghis Khan
+Hear his words! Attack,
+yet hold our camp--let
+no elephant trample our
+lines!
+#
+#
+#
+#011//Tukhai Khan
+Charge! Charge!!
+#
+#
+#
+#012//Muhammad II
+Genghis Khan is
+formidable! Unleash the
+%3War Elephants%% and %3Fire
+Lancers%% to drive them
+back!
+#
+#
+#
+#013
+Our camp is taken!
+Mission Failed!
+#
+#
+#
+#014
+Aaargh...!
+#
+#
+#
+#015
+%3Albar%% has fallen in
+battle!
+#
+#
+#
+#016
+%3Tukhai Khan%% has fallen
+in battle!
+#
+#
+#
+#017
+%3Baris%% has fallen in
+battle!
+#
+#
+#
+#018
+The %3War Elephants%% were
+tamed to our command!
+#
+#
+#
+#019//Villager
+The Mongols entered the
+city! Flee!
+#
+#
+#
+#020//Muhammad II
+The walls are breached!
+Retreat!
+#
+#
+#
+#021
+Father, grant me troops
+to fight the Mongols!
+#
+#
+#
+#022
+You are too young to
+see the peril! Cover
+me; I flee to %3Oslakh%% to
+hide!
+#
+#
+#
+#023
+What of the people in
+the city?!
+#
+#
+#
+#024
+Let them surrender;
+saving our lives comes
+first!
+#
+#
+#
+#025//Genghis Khan
+%2Harm not those who
+yield; keep them
+outside while clearing
+all foes within!%%
+#
+#
+#
+#026
+%3Muhammad II%% has fled!
+#
+#
+#
+#027//Jebe
+Citadel taken, but
+stubborn foes hole up
+in the %3Mosque%%!
+#
+#
+#
+#028//Genghis Khan
+Cut down all who
+resist!
+#
+#
+#
+#029
+Defend our home to the
+death!
+#
+#
+#
+#030
+Allah protect us!
+#
+#
+#
+#031
+%3Ulaq%% has fallen in
+battle!
+#
+#
+#
+#032
+%3Sarsikh%% has fallen in
+battle!
+#
+#
+#
+#033
+I am %3Jalal al-Din%%, son
+of Muhammad! Khwarazm
+is vast; I shall rally
+armies to crush you!
+Pursue me if you dare!
+#
+#
+#
+#034//Genghis Khan
+A wolf pup must not be
+spared! Hunt down %3Jalal
+al-Din%%!
+#
+#
+#
+#035//Jebe
+All villagers were
+slain by our warriors!
+#
+#
+#
+#036//Genghis Khan
+What?! Breaking faith
+ruins our name! Who
+will yield to us now?!
+#
+#
+#
+#037
+Haha! You walked into
+my trap!
+#
+#
+#
+#038
+Beware the raging
+flames!
+#
+#
+#
+#039
+While life remains,
+hope endures! Flee!
+#
+#
+#
+#040//Jochi
+Father, %3Jalal al-Din%%
+escaped!
+#
+#
+#
+#041//Genghis Khan
+%3Jochi%%, ride with
+%3Chagatai%% to hunt %3Jalal
+al-Din%%!
+#
+#
+#
+#042
+%3Jochi%% and %3Chagatai%% rode
+toward %3Urgench%% to hunt
+%3Jalal al-Din%%.
+#
+#
+#
+#043//Genghis Khan
+%3Muhammad II%% fled south;
+maintain pursuit!
+#
+#
+#
+#044
+Father, Genghis Khan
+approaches! Let us
+flee!
+#
+#
+#
+#045
+Why are you so
+faint-hearted compared
+to Jalal al-Din? You
+are heir only because
+your mother doted on
+you! Let us flee to
+%3Qazvin%%; perhaps %3Rukn
+al-Din%% has a plan.
+#
+#
+#
+#046
+Sire, the folk of
+%3Nishapur%% have all fled!
+#
+#
+#
+#047
+Even if we yield they
+slay us--fight!
+#
+#
+#
+#048
+We surrender, please
+spare us!
+#
+#
+#
+#049//Genghis Khan
+I accept your
+submission and spare
+%3Balkh%%.
+#
+#
+#
+#050
+Enter our city; we
+supply all provisions!
+#
+#
+#
+#051
+Track down %3Muhammad II%%!
+#
+#
+#
+#052
+A courier from %3Urgench%%
+arrived.
+#
+#
+#
+#053
+Sire, %3Jochi%% and
+%3Chagatai%% failed to take
+%3Urgench%%.
+#
+#
+#
+#054
+They had ample
+troops--why fail to
+take one city?! %3Ogedei%%,
+lead reinforcements and
+take %3Urgench%%!
+#
+#
+#
+#055
+Yes, Father!
+#
+#
+#
+#056
+Woe! %3Genghis Khan%%
+shatters my realm to
+dust!
+#
+#
+#
+#057
+Father, Mongols stormed
+Urgench; our casualties
+are grievous!
+#
+#
+#
+#058
+O Allah! You who raised
+this realm now crush it
+in dust!
+#
+#
+#
+#059
+I have troops to buy
+time; flee to an isle
+in the %3Caspian Sea%%!
+#
+#
+#
+#060
+Word says %3Muhammad II%%
+fled to the %3Caspian
+Sea%%. %2Jebe, Subutai, you
+have 4 months to find
+him!%%
+#
+#
+#
+#061
+By your command,
+Khagan!
+#
+#
+#
+#062
+Hunted like a beast...
+I am weary unto
+death...
+#
+#
+#
+#063
+A burial mound yonder!
+Dig it open!
+#
+#
+#
+#064
+The %3Diamond Crown%%! This
+is the tomb of %3Muhammad
+II%%! A mighty king
+reduced to this...
+#
+#
+#
+#065
+%2Bring the crown to the
+Khagan!%%
+#
+#
+#
+#066
+Mongols, open your
+eyes! The vanguard of
+%3Khwarazm%% shall
+annihilate you!
+#
+#
+#
+#067
+Four months expired!
+Mission Failed!
+#
+#
+#
+#068
+Hiding upon a lonely
+island in the %3Caspian
+Sea%%, broken by sickness
+and grief, %3Muhammad II%%
+deposed %3Oslakh%% and
+named %3Jalal al-Din%% his
+heir, ordering all sons
+to swear fealty to him.
+
+In 1220, %3Muhammad II%%
+died in squalor upon
+that desolate isle-- a
+grim end for a
+conqueror who once
+ruled vast realms!
+#
+#
+#
+#200
+Objective: Defeat enemy
+vanguard; capture 2 forts before
+Samarkand Defeat: All forces
+wiped out or any friendly camp
+captured Time Limit: 5 Years
+(End of 1224)
+#
+#
+#
+#201
+Objective: Destroy enemy army,
+Samarkand citadel, and Mosque
+Defeat: All forces wiped out or
+any friendly camp captured Time
+Limit: 5 Years (End of 1224)
+#
+#
+#
+#202
+Objective: Pursue Jalal
+al-Din Defeat: All
+forces wiped out Time
+Limit: 5 Years (End of
+1224)
+#
+#
+#
+#203
+Objective: Capture
+Nishapur and Balkh
+Defeat: All forces
+wiped out Time Limit: 5
+Years (End of 1224)
+#
+#
+#
+#204
+Objective: Destroy
+Qazvin city Defeat: All
+forces wiped out Time
+Limit: 5 Years (End of
+1224)
+#
+#
+#
+#205
+Objective: Locate
+Muhammad II within 4
+months Defeat: Muhammad
+II not found in 4
+months or all forces
+wiped out Time Limit: 5
+Years (End of 1224)
+#
+#
+#
+#206
+Objective: Deliver
+Diamond Crown to
+Genghis Khan Defeat:
+Failed in 4 months or
+all forces wiped out
+Time Limit: 5 Years
+(End of 1224)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

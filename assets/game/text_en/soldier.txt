@@ -1,0 +1,112 @@
+Unit_Name	ID	Attack	Defense	Speed	Rng_Min	Rng_Max	Frequency	Sight	Upgrade_To	Attribute	Naval_Type	Projectile	AI_Style	Base	Corpse	Death_Sfx	Attack_Sfx
+Light Infantry	0	6	2	2	1	1	1	1	1	0	68	0	0	0	90	72	27	
+Heavy Infantry	1	7	2	2	1	1	1	2	0	1	69	0	0	0	90	73	27	
+Spearmen	2	6	2	2	1	2	1	1	3	2	68	0	0	0	90	74	29	
+Pikemen	3	7	2	2	1	2	1	2	0	3	69	0	0	0	90	75	29	
+Light Cavalry	4	6	2	4	1	1	1	2	5	4	68	0	0	1	90	73	29	
+Heavy Cavalry	5	7	2	4	1	1	1	3	0	5	69	0	0	1	90	72	29	
+Shortbowmen	6	5	1	2	1	8	4	2	7	6	68	2	0	0	90	74	30	
+Longbowmen	7	6	2	2	1	9	6	3	0	7	69	3	0	0	90	75	30	
+Strategist	8	5	1	2	1	1	1	2	9	8	68	0	0	0	90	75	31	
+Grand Strategist	9	6	2	2	1	1	1	3	0	9	69	0	0	0	90	74	31	
+Cataphract	10	7	2	4	1	2	1	2	11	10	68	0	0	1	90	73	29	
+Raider Cavalry	11	8	2	4	1	2	1	3	0	11	69	0	0	1	90	72	29	
+Crossbowmen	12	5	2	2	1	8	6	2	13	12	68	2	0	0	90	72	30	
+Repeating Crossbow	13	6	2	2	1	9	6	3	0	13	69	3	0	0	90	74	30	
+Fire Lancer	14	6	2	2	1	2	1	1	15	14	68	0	0	0	90	73	32	
+Flame Elite	15	7	2	2	1	2	1	2	0	15	69	0	0	0	90	74	32	
+Crusader	16	5	3	1	1	1	1	1	17	16	68	0	0	0	90	75	28	
+Iron Crusader	17	6	3	1	1	1	1	2	0	17	69	0	0	0	90	74	28	
+Camel Cavalry	18	6	2	3	1	1	1	2	19	18	68	0	0	1	90	73	28	
+Heavy Camel	19	7	2	3	1	1	1	2	0	19	69	0	0	1	90	72	28	
+Catapult Artillery	20	5	2	2	1	6	2	3	21	20	68	7	0	0	90	73	33	
+Cannon Artillery	21	6	2	2	1	7	2	3	0	21	69	7	0	0	90	73	33	
+Paladin	22	6	2	3	1	1	1	2	23	22	68	0	0	1	90	74	29	
+High Paladin	23	7	2	3	1	1	1	2	0	23	69	0	0	1	90	74	29	
+Samurai	24	7	1	3	1	1	1	2	25	24	68	0	0	0	90	75	27	
+Oni Samurai	25	8	2	3	1	1	1	2	0	25	69	0	0	0	90	75	27	
+Elite Cataphract	26	9	3	4	1	4	1	2	27	26	70	3	0	1	90	72	30	
+Elite Raider	27	10	3	4	1	5	1	3	0	27	71	3	0	1	90	72	30	
+Maiden Guard	28	6	2	2	1	2	1	2	29	28	70	0	0	0	90	70	34	
+Iron Maiden Guard	29	7	2	2	1	2	1	2	0	29	71	0	0	0	90	70	34	
+Warrior	30	7	2	2	1	1	1	2	31	30	70	0	0	0	90	72	27	
+Fierce Warrior	31	8	3	2	1	1	1	2	0	31	71	0	0	0	90	72	27	
+Warrior	32	7	2	2	1	1	1	2	33	32	70	0	0	0	90	73	27	
+Fierce Warrior	33	8	3	2	1	1	1	2	0	33	71	0	0	0	90	73	27	
+Warrior	34	7	2	2	1	1	1	2	35	34	70	0	0	0	90	74	27	
+Fierce Warrior	35	8	3	2	1	1	1	2	0	35	71	0	0	0	90	74	27	
+Archer	36	6	2	2	1	8	6	3	37	36	70	3	0	0	90	75	30	
+Marksman	37	7	2	2	1	9	6	3	0	37	71	3	0	0	90	75	30	
+Warrior	38	7	2	2	1	2	1	2	39	38	70	0	0	0	90	73	29	
+Fierce Warrior	39	8	3	2	1	2	1	2	0	39	71	0	0	0	90	73	29	
+Archer	40	6	2	2	1	8	6	3	41	40	70	3	0	0	90	72	30	
+Marksman	41	7	2	2	1	9	6	3	0	41	71	3	0	0	90	72	30	
+Elite Cataphract	42	9	3	4	1	4	1	2	43	42	70	2	0	1	90	74	29	
+Elite Raider	43	10	3	4	1	5	1	2	0	43	71	2	0	1	90	74	29	
+Strategist	44	6	1	2	1	1	1	3	45	44	70	0	0	0	90	75	31	
+Grand Strategist	45	7	2	2	1	1	1	3	0	45	71	0	0	0	90	75	31	
+??	46	7	2	4	1	1	1	2	47	46	70	0	0	1	90	74	27	
+???	47	8	2	4	1	1	1	3	0	47	71	0	0	1	90	74	27	
+Warrior	48	7	2	2	1	1	1	2	49	48	70	0	0	0	90	75	27	
+Fierce Warrior	49	8	3	2	1	1	1	2	0	49	71	0	0	0	90	75	27	
+Warrior	50	7	2	3	1	1	1	2	51	50	70	0	0	0	90	73	27	
+Fierce Warrior	51	8	3	3	1	1	1	2	0	51	71	0	0	0	90	73	27	
+Maiden Guard	52	6	2	2	1	2	1	2	53	52	70	0	0	0	90	70	34	
+Iron Maiden Guard	53	7	2	2	1	2	1	2	0	53	71	0	0	0	90	70	34	
+Militia Infantry	54	4	1	2	1	1	1	1	0	54	72	0	0	0	90	72	27	
+Militia Spearmen	55	4	1	2	1	2	1	1	0	55	72	0	0	0	90	73	29	
+Militia Cavalry	56	4	1	3	1	1	1	1	0	56	72	0	0	0	91	74	29	
+Militia Archer	57	3	1	2	1	7	4	1	0	57	72	1	0	0	90	75	30	
+Light Catapult	58	7	1	0	3	10	12	2	0	58	72	8	0	1	92	71	33	
+Light Cataphract	59	5	2	4	1	2	1	1	0	59	108	0	0	0	91	74	29	
+Light Crossbow	60	4	1	2	1	8	12	1	0	60	108	1	0	0	90	75	30	
+Light Fire Lancer	61	5	2	2	1	2	1	1	0	61	108	0	0	0	90	73	32	
+Young Crusader	62	4	3	1	1	1	1	1	0	62	108	0	0	0	90	74	28	
+Light Camel	63	5	2	3	1	1	1	1	0	63	108	0	0	0	90	72	27	
+Light Cannon	64	5	1	2	1	6	9	2	0	64	108	6	0	0	90	73	33	
+Light War Elephant	65	8	3	0	1	1	1	1	0	65	108	0	0	1	91	75	27	
+Apprentice Paladin	66	5	2	3	1	2	1	1	0	66	108	0	0	0	91	74	29	
+Young Samurai	67	6	1	2	1	1	1	2	0	67	108	0	0	0	90	73	27	
+Sailing Vessel	68	5	1	3	1	5	5	1	0	68	0	3	0	1	92	89	30	
+Galleon	69	6	2	3	1	7	5	2	0	69	0	3	0	1	92	89	30	
+Warship	70	6	2	3	1	7	5	2	0	70	0	8	0	1	92	89	33	
+Grand Warship	71	7	3	3	1	9	5	3	0	71	0	11	0	1	92	89	33	
+Skiff	72	4	1	2	1	5	5	1	0	72	0	1	0	0	92	89	30	
+Pirate Ship	73	5	2	3	1	7	5	3	0	73	0	2	0	0	92	89	30	
+Transport Ship	74	0	0	1	0	0	0	1	0	74	0	0	0	1	92	0	0	
+Bandit	75	5	1	2	1	1	1	1	0	75	73	0	0	0	90	75	27	
+Horse Bandit	76	5	2	3	1	1	1	1	0	76	73	0	0	1	91	74	27	
+Bandit Chieftain	77	6	2	3	1	1	1	1	0	77	73	1	0	1	91	73	27	
+Skeleton Warrior	78	6	2	1	1	1	1	1	0	78	73	0	0	0	90	77	79	
+Mummy Guard	79	5	2	1	1	6	9	1	0	79	73	9	0	0	90	73	38	
+Dire Wolf	80	5	1	3	1	1	1	1	0	80	73	0	0	1	90	78	78	
+Supply Wagon	81	0	0	1	0	0	1	1	0	81	74	0	0	1	92	0	0	
+Ox	82	0	0	0	0	0	0	0	0	82	74	0	0	1	90	0	0	
+Sheep	83	0	0	0	0	0	0	0	0	83	74	0	0	1	90	0	0	
+Steed	84	0	0	1	0	0	0	0	0	84	74	0	0	1	90	0	0	
+Child	85	0	1	1	0	0	0	0	0	85	74	0	0	0	90	72	0	
+Villager (Male)	86	0	1	1	0	0	0	0	0	86	74	0	0	0	90	72	0	
+Villager (Female)	87	0	1	1	0	0	0	0	0	87	74	0	0	0	90	70	0	
+Item Cart	88	0	0	0	0	0	0	1	0	88	74	0	0	1	90	0	0	
+Fire	89	100	10	0	1	1	1	0	0	89	0	0	0	0	90	0	0	
+Fallen Soldier	90	0	0	0	0	0	0	0	0	90	0	0	0	0	90	0	0	
+Fallen Steed	91	0	0	0	0	0	0	0	0	91	0	0	0	0	90	0	0	
+Shipwreck	92	0	0	0	0	0	0	0	0	92	0	0	0	0	90	0	0	
+Castle Watchtower	93	5	1	0	1	7	4	3	0	0	0	6	0	0	90	21	30	
+Standalone Tower	94	10	2	0	1	10	4	3	0	0	0	6	0	0	90	21	30	
+Royal Carriage	95	0	0	0	0	0	0	0	0	95	74	0	0	1	90	0	0	
+Treasure Cart	96	0	0	0	0	0	0	0	0	96	74	0	0	1	90	0	0	
+Veteran Infantry	97	5	2	2	1	1	1	1	0	97	108	0	0	0	90	73	27	
+Veteran Spearmen	98	5	2	2	1	2	1	1	0	98	108	0	0	0	90	74	29	
+Veteran Cavalry	99	5	2	3	1	1	1	1	0	99	108	0	0	0	91	75	29	
+Veteran Archer	100	4	2	2	1	8	9	1	0	100	108	2	0	0	90	72	30	
+Heavy Siege Engine	101	12	2	0	3	12	9	3	0	101	108	11	0	1	92	71	33	
+Cavern Tower	102	4	1	0	1	4	9	2	0	0	0	8	0	0	90	0	33	
+Ruins Tower	103	7	2	0	1	10	9	2	0	0	0	9	0	0	90	0	38	
+Envoy	104	0	0	0	0	0	0	0	0	8	0	0	0	0	90	0	0	
+War Bull	105	5	3	1	1	1	1	1	0	82	73	0	0	1	91	0	0	
+Battle Standard	106	0	0	0	0	0	0	1	0	106	74	0	0	1	90	0	0	
+Swordsman	107	20	5	3	1	1	1	3	0	25	71	0	0	0	90	75	27	
+Armored Vessel	108	5	2	3	1	6	5	2	0	72	0	2	0	1	92	89	30	
+Castle Gate	109	0	0	0	0	0	0	0	0	0	0	0	0	0	90	0	0	
+Armored Vessel	108	6	2	3	1	6	6	2	0	72	0	2	0	1	92	89	30	

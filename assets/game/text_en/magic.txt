@@ -1,0 +1,25 @@
+Skill_Name	HP_Cost	MP_Cost	Buff_Atk	Debuff_Atk	Speed_Mod	Radius	Min_Range	Target	Skill_Type	Single_Cast	Linear	Affiliation	Duration
+Fireball	20	30	0	0	0	3	8	1	1	8	0	0	0	
+Flame Burst	20	30	0	0	0	4	8	1	1	8	0	0	0	
+Fire Dragon	20	30	0	0	0	5	8	1	1	8	0	0	0	
+Falling Rock	15	30	0	0	0	4	10	1	1	8	0	0	0	
+Rockslide	15	30	0	0	0	5	10	1	1	8	0	0	0	
+Meteor Strike	15	30	0	0	0	6	10	1	1	8	0	0	0	
+Lightning	25	30	0	0	0	2	8	1	1	8	0	0	0	
+Wild Lightning	25	30	0	0	0	3	8	1	1	8	0	0	0	
+Thunderstorm	25	30	0	0	0	4	8	1	1	8	0	0	0	
+Swift Strike	15	40	0	0	0	9	6	1	0	8	1	0	0	
+Crescent Slash	20	40	0	0	0	9	7	1	0	8	1	0	0	
+Burst Slash	25	40	0	0	0	9	7	1	0	8	1	0	0	
+Shockwave	15	40	0	0	0	9	6	1	0	8	1	0	0	
+Gale Wave	20	40	0	0	0	9	7	1	0	8	1	0	0	
+Blast Wave	25	40	0	0	0	9	7	1	0	8	1	0	0	
+Heartseeker Arrow	15	40	0	0	0	9	6	1	0	8	1	0	0	
+Arrow Volley	20	40	0	0	0	9	7	1	0	8	1	0	0	
+Rain of Arrows	25	40	0	0	0	9	7	1	0	8	1	0	0	
+Persuade	0	40	0	0	0	4	13	1	3	1	0	0	0	
+Inspire	0	50	1	0	1	5	7	2	2	20	0	0	500	
+Battle Roar	0	50	0	1	0	5	7	1	2	20	0	0	500	
+Confuse	0	40	0	0	0	2	13	1	3	20	0	0	500	
+Berserk Wrath	30	55	0	0	0	5	1	1	0	1	0	0	0	
+Heal	2	0	0	10	0	1	6	2	0	0	0	1	0	

@@ -1,0 +1,464 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Following the death of Yesugei,
+the Mongol people lost their
+mighty and valiant leader. In
+those days, succession was not
+strictly hereditary; instead, a
+Kurultai was held, where the
+clans gathered to elect a Khan
+of renown and stature. Among the
+Mongol clans were the Taichi'ut,
+Jurchin, Kiyad, and others, yet
+none could put forth a leader of
+supreme command. Thus, many
+clansmen resolved to migrate
+elsewhere.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Mother
+Alas, with your father
+gone, I fear the clans
+will abandon us!
+#
+#
+#
+#003//Temujin
+Fear not, Mother! I
+shall protect our folk
+and unite the tribes.
+#
+#
+#
+#004//Mother
+Mother knows your heart
+is brave and worthy of
+great tasks. Yet on
+this boundless steppe,
+men depend on a mighty
+leader to sustain their
+safety and wealth. You
+are still young...
+#
+#
+#
+#005//Temujin
+Let my deeds prove all
+things!
+#
+#
+#
+#006//Jamukha
+%3Temujin%%, news of your
+misfortune reached my
+ears, so I rode swiftly
+to visit you.
+#
+#
+#
+#007//Temujin
+%3Jamukha%%, you are my
+true anda! I am setting
+out to urge our
+clansmen not to desert
+us.
+#
+#
+#
+#008//Jamukha
+This... (He believes
+this task is simple!)
+Since that is your
+wish, I shall ride
+beside you!
+#
+#
+#
+#009//Menglik
+A bitter calamity! %2My
+flock of sheep took
+fright from wolves and
+scattered into the
+wilds!%% Can you help me
+gather them?
+#
+#
+#
+#010//Temujin
+Aye! I shall herd all
+your sheep safely back
+into the pen.
+#
+#
+#
+#011//Menglik
+Your father and I were
+sworn andas. We pledged
+to share life and
+death, never to forsake
+each other. I... I
+shall remain!
+#
+#
+#
+#012//Temujin
+Do you speak truly?
+Mother will rejoice to
+hear this!
+#
+#
+#
+#013//Orbei
+Tracks of grey wolves
+have been seen around
+here of late. I have no
+wish to dwell beside
+beasts!
+#
+#
+#
+#014//Temujin
+%2If we shatter the rocky
+cavern where the pack
+nests, we can drive the
+wolves far away!%%
+%3Jamukha%%, I need your
+aid!
+#
+#
+#
+#015//Jamukha
+Leave it to me!
+#
+#
+#
+#016//Orbei
+We and %3Targhutai%%
+belonged of old to the
+%3Taichi'ut clan%%. We
+submitted to %3Yesugei%% of
+the %3Kiyad%%. Now he is
+dead... There is no
+staying here! Move!
+#
+#
+#
+#017//Temujin
+%3Orbei%%... %3Orbei%%... They
+have departed...
+#
+#
+#
+#018//Targhutai
+You plead for us to
+stay? %2Only if you can
+best the champion of
+our Taichi'ut: Guwen!%%
+#
+#
+#
+#019//Temujin
+(That hulking brute
+%3Guwen%%?!) Very well, I
+accept the contest!
+#
+#
+#
+#020//Targhutai
+Step inside then! (This
+shall be a fine
+spectacle!)
+#
+#
+#
+#021//Guwen
+Hmph... Daring to
+challenge me? I can
+crush a runt like you
+with a single fist!
+#
+#
+#
+#022//Guwen
+Gah...! Curse it! This
+little demon...!
+#
+#
+#
+#023//Temujin
+Haha! I have prevailed!
+#
+#
+#
+#024//Targhutai
+(The whelp truly has
+talent. Once the %3Kiyad
+clan%% falls apart, I
+must return and wipe
+him out for good.) Aye,
+you won. Remarkable!
+Yet you are a mere
+boy--why should
+seasoned men heed a
+child? Let us ride!
+#
+#
+#
+#025//Temujin
+Faithless coward
+without honor!
+#
+#
+#
+#026//Jamukha
+Temujin... A true man
+must hold his head
+high. I must depart
+now. Take care of
+yourself!
+#
+#
+#
+#027//Menglik
+Sister-in-law, I know
+not how to speak...
+I... this...
+#
+#
+#
+#028//Mother
+I know what burdens
+your heart. You have
+your hardships, and I
+will not reproach
+you...
+#
+#
+#
+#029//Menglik
+Curse me! Forgive me,
+sister... I should not
+desert you in such a
+desperate hour...
+#
+#
+#
+#030//Mother
+You did no wrong; no
+one is to blame.
+
+Heaven never bars every
+road. If I can raise
+these boys, Yesugei's
+spirit in Heaven will
+be comforted.
+#
+#
+#
+#031//Menglik
+(Sobbing...)
+Farewell...
+Farewell...!
+#
+#
+#
+#032
+Every soul had
+departed...
+
+Upon the once-lively
+steppe, only a single,
+lonely yurt was left
+standing. Cold winds
+howled across the vast
+plain, as the widowed
+mother and her young
+clung tightly to one
+another. The days to
+come would be colder
+still...
+#
+#
+#
+#033//Temujin
+The sheep have all
+returned.
+#
+#
+#
+#034//Temujin
+The cave collapsed! The
+grey wolves have
+nowhere to lurk now!
+Hahaha!
+#
+#
+#
+#035
+%3Menglik%% comes to meet
+Lady %3Hoelun%%.
+#
+#
+#
+#036
+#
+#
+#
+#037
+#
+#
+#
+#038
+#
+#
+#
+#039
+#
+#
+#
+#040
+#
+#
+#
+#041
+#
+#
+#
+#042
+#
+#
+#
+#043
+#
+#
+#
+#044
+#
+#
+#
+#045
+#
+#
+#
+#046
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Entreat the clansmen
+to remain Defeat: Temujin falls
+in battle Time Limit: 2 Years
+(End of 1176 AD)
+#
+#
+#
+#201
+Objective: Herd 10 sheep into
+pen; defeat Guwen; destroy wolf
+cave; entreat clansmen to stay
+Defeat: Temujin falls in battle
+Time Limit: 2 Years (End of 1176
+AD)
+#
+#
+#
+#202
+Objective: Defeat: Time
+Limit:
+#
+#
+#
+#203
+Objective: Defeat: Time
+Limit:
+#
+#
+#
+#204
+Objective: Defeat: Time
+Limit:
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

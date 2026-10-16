@@ -1,0 +1,711 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+After the Kereits were crushed,
+the western steppe of the
+Naimans alone remained as the
+final obstacle to the
+unification of Mongolia. Tayang
+Khan, harboring Kuchlug,
+Jamukha, Toghtoa Beki, and the
+deserters Altan and Khuchar,
+formed a massive host to
+challenge Temujin. At Mount
+Sa'ari, the armies faced each
+other. Young Tolui, eager to
+prove his martial spirit,
+slipped into the enemy lines...
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Tolui
+Father! Let me ride in
+the vanguard!
+#
+#
+#
+#003//Temujin
+You are still young,
+Tolui. Battle is not a
+child's game; stay by
+my side and observe.
+#
+#
+#
+#004//Tolui
+But my older brothers
+Jochi and Chagatai
+already command
+divisions!
+#
+#
+#
+#005//Jebe
+%3Tolui%%, war is no jest.
+Your father speaks out
+of love. Heed his
+words.
+#
+#
+#
+#006//Tolui
+Very well... (I will
+show them all what I am
+capable of!)
+#
+#
+#
+#007//Temujin
+(The boy burns with
+desire to achieve
+glory...) %3Tolui%%, beyond
+field tactics,
+psychological warfare
+can shatter the enemy's
+will in an instant.
+Rest well tonight, men;
+we march at dawn!
+#
+#
+#
+#008//Nightfall
+Night fell deep over
+the steppe...
+#
+#
+#
+#009//Tolui
+While everyone sleeps,
+I shall %2infiltrate the
+enemy camp and seize
+their battle banner%%!
+That will terrorize
+their ranks! %2I must
+avoid the yurts to stay
+undetected.%%
+#
+#
+#
+#010//Naiman Sentry
+Intruder spotted! Seize
+him!
+#
+#
+#
+#011//Tolui Captured
+(Caught! I must keep my
+wits about me...)
+#
+#
+#
+#012//Tayang Khan
+We captured %3Temujin's%%
+youngest son! Hahaha!
+Keep him as a hostage!
+%3Temujin%%, you will fall
+into my hands sooner or
+later!
+#
+#
+#
+#013//Temujin
+What?! %3Tolui%% snuck into
+the enemy camp and was
+captured?! (I have
+indulged this boy too
+much...) If %3Tolui%% went
+to scout, the enemy
+sentries will do the
+same. If so... Order
+campfires lit across
+the entire hills,
+making them believe we
+have four times our
+true numbers!
+#
+#
+#
+#014//Jebe
+The firewood is packed
+in the carts!
+#
+#
+#
+#015//Temujin
+%2Light campfires at all
+fifteen red banners
+with all speed!%% The
+enemy may attack at any
+moment.
+#
+#
+#
+#016//Campfires Seen
+The %3Naiman%% scouts look
+down from the ridge and
+see a sea of fires like
+stars in the night,
+rushing to report to
+%3Tayang Khan%%.
+#
+#
+#
+#017//Naiman Scout
+Report to the Khagan!
+The enemy fires are as
+numerous as the stars;
+their host is vastly
+larger than
+anticipated!
+#
+#
+#
+#018//Tayang Khan
+Truly? Hmm... Mongols
+are savage and
+unyielding. Clashing
+head-on will bleed us
+white. They are weary
+from their march; let
+us feign retreat to
+draw them deep into the
+mountains, then strike
+when they are
+exhausted. Tell %3Kuchlug%%
+we withdraw!
+#
+#
+#
+#019//Kuchlug Hears
+%3Tayang Khan's%% son,
+Prince %3Kuchlug%%, hears
+the order to retreat...
+#
+#
+#
+#020//Kuchlug's Contempt
+The Khagan has lost his
+nerve again! Where
+could so many Mongols
+have come from?
+%3Jamukha%%, %3Torito%%, %3Altan%%,
+and %3Khuchar%% are all in
+our camp--where could
+%3Temujin%% raise such an
+army? My father grew up
+in gilded palaces; the
+mere whisper of foes
+terrifies him like an
+old woman!
+#
+#
+#
+#021//Ulisube
+My Khan, we fear no
+Mongols! Order the
+advance!
+#
+#
+#
+#022//Tayang Khan
+I do not fear them! We
+withdraw to the
+heights. When the
+Mongols exhaust
+themselves pursuing us,
+we strike! Retreat!
+#
+#
+#
+#023//Temujin
+%3Tayang Khan%% has been
+cowed by our fires;
+their vanguard has
+fallen back! All hosts,
+pursue! (%3Tolui%%, my son,
+stay safe...)
+#
+#
+#
+#024//Tayang Khan
+%3Temujin%%, your doom is
+at hand...!
+#
+#
+#
+#025//Tayang Khan
+Attack!
+#
+#
+#
+#026//Jebe
+We searched the %3Naiman%%
+yurts, but %3Tolui%% was
+not found!
+#
+#
+#
+#027//Temujin
+Press the pursuit!
+#
+#
+#
+#028//Subutai
+Feel the wrath of my
+iron mace! Yaaah!
+#
+#
+#
+#029//Jebe
+The greatest marksman
+of Mongolia is here!
+#
+#
+#
+#030//Qubilai
+Let my blade drink your
+blood and feed on your
+flesh!
+#
+#
+#
+#031//Jelme
+Tearing through them
+like a tiger through a
+flock of sheep!
+#
+#
+#
+#032//Tayang Khan
+The enemy fights like
+demons! Who are those
+four men driving
+through our warriors
+like wolves through
+sheep?!
+#
+#
+#
+#033//Tolui
+(Tayang Khan trembles;
+let me fan his terror!)
+Those are my father's
+Four Fierce
+Hounds--%3Jebe%%, %3Subutai%%,
+%3Qubilai%%, and %3Jelme%%!
+Their iron wills never
+falter; they kill
+without blinking and
+feel no pain. In battle
+they feast on human
+flesh, feared by all as
+the 'Four Hounds'! O
+great %3Tayang Khan%%, do
+you wish to see these
+hunting dogs tear your
+flesh?
+#
+#
+#
+#034//Tayang Khan
+Enough, enough! Steer
+clear of them, lest we
+be torn apart! Retreat!
+#
+#
+#
+#035//Torito
+(Tayang Khan is so
+cowardly; he cannot be
+relied upon...)
+#
+#
+#
+#036//Torito
+Even if we cannot stop
+them, do not let them
+take victory cheaply!
+Dull their edge!
+#
+#
+#
+#037//Qodu
+Father speaks true
+wisdom.
+#
+#
+#
+#038//Jelme
+%3Tayang Khan%% retreats
+again!
+#
+#
+#
+#039//Temujin
+Until %3Tayang Khan%% is
+captured and %3Tolui%% is
+freed, do not slacken!
+Accelerate the charge!
+#
+#
+#
+#040//Tayang Khan
+Who is that warrior
+charging from the rear
+like a starving eagle,
+fearless and terrible?!
+#
+#
+#
+#041//Tolui
+That is my Khan Father,
+%3Temujin%%! His head is of
+bronze, his body of
+forged iron, without a
+single chink in his
+armor! He is the
+supreme leader of
+Mongolia, leaping forth
+to rescue me! Take a
+good look at him!
+#
+#
+#
+#042//Tayang Khan
+Heavens! How
+terrifying! Release
+%3Tolui%% at once! Retreat!
+Retreat!
+#
+#
+#
+#043//Jamukha
+(The only power capable
+of facing the Mongols
+is so pitifully weak...
+Has Heaven truly
+granted the mandate to
+%3Temujin%%...?)
+#
+#
+#
+#044//Tolui Rescued
+Father, forgive me! I
+disobeyed your command;
+punish me as you will!
+#
+#
+#
+#045//Temujin
+Remember the bitter
+lesson of this day, and
+you will grow into a
+true commander.
+#
+#
+#
+#046//Jebe
+My Khan, the %3Naiman%%
+army is fleeing. Shall
+we press the assault?
+#
+#
+#
+#047//Temujin
+%3Tayang Khan%% is a coward
+and poses no threat,
+but his son %3Kuchlug%%
+possesses sharp wit and
+fierce ambition. If he
+inherits the throne, he
+will plague us in the
+future. Seize this
+moment to annihilate
+the %3Naiman clan%%!
+#
+#
+#
+#048//Naiman Sentry
+Hold the riverbanks!
+#
+#
+#
+#049//Tayang Khan
+Oh no! Temujin is
+beneath the walls!
+Flee!
+#
+#
+#
+#050//Kokechu
+Khagan, we have nowhere
+left to flee! Let us
+die defending our
+ancestral lands!
+#
+#
+#
+#051//Tayang Khan
+I do not want to die in
+battle!
+#
+#
+#
+#052//Kuchlug
+Having such a father is
+an utter disgrace!
+#
+#
+#
+#053//Temujin
+%3Jamukha%% Anda, we meet
+again!
+#
+#
+#
+#054//Jamukha
+Hmph! %3Temujin%%, my mind
+is sharper than yours,
+my martial skill no
+less, yet why does
+Heaven shower favor
+upon you alone?! %3Altan%%,
+%3Khuchar%%, you are Mongol
+nobles--why let this
+upstart drive you from
+your homeland?!
+#
+#
+#
+#055//Khuchar
+Slay this man...!
+#
+#
+#
+#056//Altan Wounded
+Aaaaargh...!
+#
+#
+#
+#057//Altan Slain
+%3Altan%% has fallen in
+battle!
+#
+#
+#
+#058//Khuchar Slain
+%3Khuchar%% has fallen in
+battle!
+#
+#
+#
+#059//Jelme
+%3Tayang Khan%% and his
+retinue have fled!
+#
+#
+#
+#060//Temujin
+Do not let them escape!
+Pursue!
+#
+#
+#
+#061//Kuchlug
+The Mongols are upon
+us! No time to care for
+that old fool; run for
+your lives!
+#
+#
+#
+#062//Mongol General
+To think Tayang Khan
+had a son who would
+abandon his own father!
+#
+#
+#
+#063//Tayang Khan
+Ah... ah...
+#
+#
+#
+#064//Kokechu
+Khagan, pull yourself
+together! We must
+escape!
+#
+#
+#
+#065//Silence
+...
+#
+#
+#
+#066//Jokhunan
+Khagan! Your beloved
+consorts await you;
+wake up!
+#
+#
+#
+#067//Naiman Loyalists
+As long as breath
+remains in him, he will
+hear us. To grant his
+soul peace, let us
+fight to the death
+before his eyes!
+#
+#
+#
+#068//Kokechu Slain
+%3Kokechu%% has fallen in
+battle!
+#
+#
+#
+#069//Jokhunan Slain
+%3Jokhunan%% has fallen in
+battle!
+#
+#
+#
+#070//Ulisube Slain
+%3Ulisube%% has fallen in
+battle!
+#
+#
+#
+#071//Tayang Khan Found
+%3Tayang Khan%% has
+breathed his last
+inside his cart.
+#
+#
+#
+#072//Temujin
+%3Tayang Khan%% had such
+unyielding %3Nokod%% to die
+for him; what sorrow
+could he possibly
+harbor in death!
+#
+#
+#
+#073//Rout
+Flee!
+#
+#
+#
+#074//Naiman Subjugated
+The Naiman army was
+wiped out by Temujin's
+relentless forces.
+#
+#
+#
+#075//Historical Summary
+Tayang Khan's cowardice
+hastened Temujin's
+victory. Within days,
+the once mighty Naiman
+empire was reduced to
+ruins.
+#
+#
+#
+#07
+#
+#
+#
+#07
+#
+#
+#
+#07
+#
+#
+#
+#07
+#
+#
+#
+#07
+#
+#
+#
+#200
+Objective: Tolui infiltrates
+enemy lines to seize the battle
+banner Defeat: Frontline camp
+overrun or all friendly forces
+defeated Time Limit: 4 Years
+(End of 1207 AD)
+#
+#
+#
+#201
+Objective: Wagons light fires at
+15 red banners; capture 3 enemy
+camps Defeat: Frontline camp
+overrun or all friendly forces
+defeated Time Limit: 4 Years
+(End of 1207 AD)
+#
+#
+#
+#202
+Objective: Seize enemy
+camps and rescue Tolui
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1207 AD)
+#
+#
+#
+#203
+Objective: Capture the
+Naiman fortress of
+Khovd Defeat: All
+friendly forces
+defeated Time Limit: 4
+Years (End of 1207 AD)
+#
+#
+#
+#204
+Objective: Locate
+Tayang Khan Defeat: All
+friendly forces
+defeated Time Limit: 4
+Years (End of 1207 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

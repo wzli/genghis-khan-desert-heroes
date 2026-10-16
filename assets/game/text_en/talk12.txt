@@ -1,0 +1,321 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Steppe tradition required sons
+to seek brides from other clans.
+The Borjigin clan of Yesugei had
+long maintained marriage
+alliances with the Onggirat. At
+age thirteen, Temujin was strong
+and spirited. Yesugei and Lady
+Hoelun resolved to arrange a
+betrothal for their eldest son.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Yesugei
+Mother of my children,
+I am escorting %3Temujin%%
+to the %3Onggirat clan%%
+for betrothal. Please
+watch over our home and
+camp while we are away.
+#
+#
+#
+#003//Hoelun
+Rest easy. Though
+%3Temujin%% will likely
+remain with the
+%3Onggirat clan%% for some
+time. %3Temujin%%, honor
+your clan and conduct
+yourself with pride.
+#
+#
+#
+#030//Temujin
+Mother, I understand. I
+will not fail you.
+#
+#
+#
+#004//Yesugei
+%3Menglik%% anda, keep a
+watchful eye on clan
+affairs in my absence.
+#
+#
+#
+#005//Menglik
+Lord %3Yesugei%%, you have
+my word. I will do my
+utmost.
+#
+#
+#
+#006//Yesugei
+Good! It is time to
+ride. Farewell!
+#
+#
+#
+#007//Yesugei
+%3Dei Sechen%%, this is my
+eldest son, %3Temujin%%.
+#
+#
+#
+#008//Dei Sechen
+A fine lad! Bright eyes
+and a resolute bearing.
+He is destined for
+greatness.
+#
+#
+#
+#009//Temujin
+(I swear I shall
+achieve great
+things...) Thank you,
+Uncle. I shall work
+hard to live up to your
+expectations.
+#
+#
+#
+#010//Dei Sechen
+A worthy youth indeed!
+%3Borte%%, do not be shy.
+Come greet our guests.
+#
+#
+#
+#011//Borte
+Honored elder, %3Temujin%%,
+%3Borte%% offers her
+greetings.
+#
+#
+#
+#012//Temujin
+(She is so graceful...
+What a beautiful
+maiden...)
+#
+#
+#
+#028//Yesugei
+%3Borte%% is gentle,
+graceful, and
+well-mannered. It would
+be an honor to wed my
+son to her.
+#
+#
+#
+#029//Dei Sechen
+Lord %3Yesugei%%, seeing
+their mutual affection,
+let our betrothal be
+sealed!
+#
+#
+#
+#013//Yesugei
+Haha! Splendid!
+%3Temujin%%, according to
+custom, you shall
+reside with your
+bride's clan until the
+wedding day.
+#
+#
+#
+#014//Temujin
+Father, I understand.
+Ride home safely!
+Farewell!
+#
+#
+#
+#015//Dei Sechen
+%3Temujin%%, %3Borte%%, spend
+time getting to know
+each other. I have clan
+matters to attend to.
+#
+#
+#
+#016//Borte
+%3Temujin%%, %2I lost my
+cherished pearl by the
+southwestern riverbank%%.
+Could you help me find
+it?
+#
+#
+#
+#017//Temujin
+Of course! Wait for me
+here.
+#
+#
+#
+#018//Borte
+My %3pearl%%! I am
+overjoyed! Thank you,
+%3Temujin%%...
+#
+#
+#
+#019
+%3Temujin%% settled in with
+the %3Onggirat clan%%...
+#
+#
+#
+#032
+Days later, %3Menglik%%
+came galloping in with
+desperate haste...
+#
+#
+#
+#020//Menglik
+%3Temujin%%! Lord
+%3Yesugei%%... he was
+poisoned by the %3Tatars%%!
+He has passed away...
+#
+#
+#
+#021//Temujin
+What?! Father... No,
+father! I must return
+home at once!
+#
+#
+#
+#022//Dei Sechen
+%3Temujin%%, make haste
+back to your people!
+#
+#
+#
+#023//Borte
+%3Temujin%%, I will wait
+for you. Ride safely
+and do not fret for
+me...
+#
+#
+#
+#024//Temujin
+%3Menglik%%, let us ride!
+#
+#
+#
+#025//Hoelun
+%3Temujin%%, you have
+returned. Your father's
+dying wish was for you
+to avenge him and crush
+the %3Tatars%%!
+#
+#
+#
+#026//Temujin
+(Temujin kneels...)
+Father... I swear upon
+the Eternal Heaven! I
+shall avenge you!
+#
+#
+#
+#027//Menglik
+Beware! Tatar raiders
+ahead!
+#
+#
+#
+#031//Temujin
+Return the pearl to
+%3Borte%%.
+#
+#
+#
+#033
+The leader of the
+Mongols, %3Yesugei%%, was
+foully poisoned. By
+nomadic custom, a
+traveler passing a
+feast must dismount and
+share a meal. Years
+earlier, Yesugei had
+defeated the Tatars in
+battle. At the feast, a
+Tatar warrior
+recognized him and
+secretly poisoned his
+cup.
+#
+#
+#
+#034
+A %3pearl%%! Pick it up.
+#
+#
+#
+#200
+Objective: Yesugei and Temujin
+meet Dei Sechen and Borte.
+Defeat: Temujin is slain. Time
+limit: 2 years (End of 1176 AD).
+#
+#
+#
+#201
+Objective: Search the southern
+riverbank for the pearl and
+return it to Borte. Defeat:
+Temujin is slain. Time limit: 2
+years (End of 1176 AD).
+#
+#
+#
+#202
+Objective: Temujin and
+Menglik ride northwest
+back to their homeland.
+Defeat: Temujin is
+slain. Time limit: 2
+years (End of 1176 AD).
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+Our forces were wiped out.
+Mission Failed.
+#
+#
+#
+#299
+Time has run out. Mission
+Failed.
+#
+#
+#

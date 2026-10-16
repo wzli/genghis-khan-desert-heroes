@@ -1,0 +1,524 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Nomads who lived by herding on
+the steppe lost all livelihood
+once severed from clan and
+tribe. After the Taichi'ut
+deserted, the nobles and folk of
+the Kiyad abandoned Temujin and
+his mother to join the
+Taichi'ut. Temujin's house fell
+into an abyss of woe. Widowed
+mother and orphaned sons endured
+bitter cold and hunger,
+wandering in exile through
+grueling years.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Mother
+%3Temujin%%, %2lead the
+steeds to graze upon
+thawed meadows%%.
+
+This winter was harsher
+than most; once spring
+returns, our days will
+brighten.
+#
+#
+#
+#003//Temujin
+I feel no cold at all,
+Mother! Fierce blood
+surges within me!
+#
+#
+#
+#004//Qasar
+Mother, I can catch
+fish from the melting
+streams.
+#
+#
+#
+#005//Belgutei
+Mother, I want to fish
+too!
+#
+#
+#
+#006//Qasar
+I won't let you! Every
+time, you snatch what I
+catch! I despise %3Begter%%
+and %3Belgutei%%!
+#
+#
+#
+#007//Mother
+I have told you many
+times: though born of
+different wives, %3Begter%%
+and %3Belgutei%% are my
+children too. You must
+love and bear with one
+another!
+#
+#
+#
+#008//Temujin
+Mother, we understand.
+I am ready; I shall
+take the horses to
+graze now.
+#
+#
+#
+#009//Temujin
+Good steeds, this is
+the tender grass of
+early spring. Feast!
+#
+#
+#
+#010//Qachi'un
+Waaah... waaah...! Big
+Brother... sob...
+%3Begter%% stole my fish
+again! A beautiful
+little goldfish!
+Waaah...!
+#
+#
+#
+#011//Temujin
+%3Begter%% never heeds our
+words. %2This time he
+must be taught a
+lesson!%% Come, let us
+find him!
+#
+#
+#
+#012//Begter
+Just a tiny, dried-up
+fish! So what if its
+scales were bright?
+Nothing special! Take
+it back! Hmph!
+#
+#
+#
+#013
+%3Begter%% slammed the
+goldfish viciously to
+the earth, crushing it
+to pieces.
+#
+#
+#
+#014//Qachi'un
+You... You killed my
+fish! Curse you...
+curse you!
+#
+#
+#
+#015//Temujin
+%3Begter%%, you have gone
+too far!
+#
+#
+#
+#016//Begter
+What? You want to
+brawl? Come! I am not
+afraid of you!
+#
+#
+#
+#017//Temujin
+Very well, let me teach
+you a lesson you will
+never forget!
+#
+#
+#
+#018//Begter
+Mother... Mother...
+Father...
+#
+#
+#
+#019//Qachi'un
+Ah!! Big Brother,
+%3Begter%% is dead! He is
+dead...!
+#
+#
+#
+#020//Temujin
+Ah... gasp... I...
+wheeze... Let us return
+and confess all to
+Mother...
+#
+#
+#
+#021
+%3Temujin%% recounted the
+deed... Lady %3Hoelun%%
+wept bitterly in grief,
+her heart shattered,
+and sorrowfully buried
+the bones of %3Begter%%.
+#
+#
+#
+#022//Mother
+%3Temujin%%, snap this
+single arrow in two.
+#
+#
+#
+#023//Temujin
+? Aye. (With one flex,
+Temujin snaps the shaft
+in two.)
+#
+#
+#
+#024//Mother
+Now try these five
+arrows...
+#
+#
+#
+#025
+This time, no matter
+how hard %3Temujin%%
+strained, he could not
+break the five bound
+arrows.
+#
+#
+#
+#026//Mother
+This is the strength of
+unity! Only united can
+we avoid being
+trampled; only united
+can our family
+flourish! Slaying kin
+only leads to our ruin.
+Remember today's
+lesson: never turn your
+blades against each
+other again!
+#
+#
+#
+#027//Temujin
+Mother, I was rash and
+foolish! I am filled
+with remorse...
+
+Sob... %3Begter%%... sob...
+
+Henceforth we brothers
+shall dwell in harmony,
+and restore the glory
+of the %3Kiyad clan%%!
+#
+#
+#
+#028//Menglik
+Sister, I come to warn
+you! The %3Taichi'ut%% have
+mobilized in force to
+hunt you down! You must
+flee at once!
+#
+#
+#
+#029//Mother
+Thank you for the
+warning! Ride swiftly,
+lest you be caught in
+our misfortune.
+#
+#
+#
+#030//Temujin
+Mother, the horses are
+all back.
+#
+#
+#
+#031//Mother
+We must elude the
+%3Taichi'ut%%! Flee now
+into the hidden valleys
+to take refuge...
+#
+#
+#
+#032//Mother
+Is everyone gathered?
+Wait...
+
+Where is %3Belgutei%%?!
+Disaster! %3Belgutei%% has
+not caught up!!
+#
+#
+#
+#033//Temujin
+I shall retrace our
+steps and search for
+him. Wait for me!
+#
+#
+#
+#034//Temujin
+%3Belgutei%%...!
+%3Belgutei%%...!
+#
+#
+#
+#035//Enemy Soldier
+Glorious! Seize
+%3Temujin%%! Lord %3Targhutai%%
+will reward us
+lavishly!
+#
+#
+#
+#036
+%3Temujin%% tragically fell
+into the clutches of
+the %3Taichi'ut%%...
+#
+#
+#
+#037//Menglik
+Sister, take the young
+ones and flee!
+
+Before the overwhelming
+might of the %3Taichi'ut%%,
+I am powerless. Sister,
+%3Temujin%%... take care!
+Farewell!
+#
+#
+#
+#038//Mother
+Temujin, are the horses
+back? %2Quickly drive
+them into the corral!%%
+#
+#
+#
+#039
+Our yurt was overrun.
+Mission Failed.
+#
+#
+#
+#040
+Spotted %3Temujin%%'s kin!
+Quick, ride back and
+report!
+#
+#
+#
+#041
+We are discovered! %2Slay
+him before he carries
+word!%%
+#
+#
+#
+#042
+The enemy scout
+reported back! The
+%2Taichi'ut%% host
+butchered %3Temujin%%'s
+entire family.
+#
+#
+#
+#043//Enemy Soldier
+Surround them!!
+#
+#
+#
+#044
+Just then, %3Qasar%% rushed
+over in haste.
+#
+#
+#
+#045
+Just then, %3Menglik%%
+arrived in frantic
+haste.
+#
+#
+#
+#046
+%3Temujin%%'s family failed
+to flee in time and
+were all slain.
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Temujin leads horses
+to graze on the meadows Defeat:
+Temujin falls in battle Time
+Limit: 2 Years (End of 1177 AD)
+#
+#
+#
+#201
+Objective: Teach Begter a lesson
+Defeat: Temujin falls in battle
+Time Limit: 2 Years (End of 1177
+AD)
+#
+#
+#
+#202
+Objective: Temujin and
+Qasar return to the
+yurt Defeat: Temujin
+falls in battle Time
+Limit: 2 Years (End of
+1177 AD)
+#
+#
+#
+#203
+Objective: Herd horses
+back to the yurt's
+corral Defeat: Temujin
+falls in battle Time
+Limit: 2 Years (End of
+1177 AD)
+#
+#
+#
+#204
+Objective: Relocate all
+people and horses to
+the mountain red flag
+within two months
+Defeat: Temujin falls
+in battle Time Limit: 2
+Years (End of 1177 AD)
+#
+#
+#
+#205
+Objective: Temujin
+returns to the yurt to
+search for Belgutei
+Defeat: Temujin falls
+in battle Time Limit: 2
+Years (End of 1177 AD)
+#
+#
+#
+#206
+Objective: Eliminate
+the enemy scouts
+Defeat: Temujin falls
+in battle Time Limit: 2
+Years (End of 1177 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

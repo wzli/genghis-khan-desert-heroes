@@ -1,0 +1,368 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+The Mongols struck south without
+warning, taking Shuozhou,
+Changzhou, and Huanzhou in rapid
+succession. The Jin were utterly
+unprepared. Yet the Jin Empire
+was vast and formidable. Jin
+assembled its main host at
+Yehuling to bar the Mongol
+advance. Here, the decisive
+clash between the two empires
+began!
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Muqali
+The %3Jin Empire%% massed
+its entire army at
+%3Yehuling%%. We are
+outnumbered, yet each
+of us wields the valor
+of ten men! Victory
+shall be ours! If any
+unit is overwhelmed,
+withdraw in good order!
+#
+#
+#
+#003//Narration
+The %3Jin Dynasty%%
+gathered three to four
+hundred thousand troops
+at %3Yehuling%% with all
+their top generals, and
+ordered %3Wanyan Husha%% to
+summon another hundred
+thousand as
+reinforcements!
+#
+#
+#
+#004//Jin Soldier
+Fight the Mongols to
+the death!
+#
+#
+#
+#005//Jin Soldier
+Flee for your lives!
+#
+#
+#
+#006
+I am pulling back!
+#
+#
+#
+#007//Jin Soldier
+Charge!
+#
+#
+#
+#008//Jin Soldier
+(If a chance appears,
+slip away!)
+#
+#
+#
+#009//Jin Soldier
+The Mongols are upon
+us!
+#
+#
+#
+#010//Yelu Ahai
+I am the Khitan general
+%3Yelu Ahai%%! I offer my
+allegiance to %3Genghis
+Khan%%!
+#
+#
+#
+#011//Genghis Khan
+We spare all who
+surrender, and shall
+entrust them with high
+rank!
+#
+#
+#
+#012//Jin Soldier
+(Do the Mongols fear no
+death?!)
+#
+#
+#
+#013//Jin Soldier
+(I cannot match
+them--what to do?!)
+#
+#
+#
+#014//Jin Soldier
+Mongols broke through!
+Send help!
+#
+#
+#
+#015//Shi Tianze
+I am %3Shi Tianze%%! I
+surrender!
+#
+#
+#
+#016
+Good! Now strike down
+our foes and earn
+honor!
+#
+#
+#
+#017//Jin Soldier
+(The Mongols crossed
+the river! Terrifying!
+I must flee alone...!)
+#
+#
+#
+#018//Victory
+%3Genghis Khan%% led the
+charge in person,
+routing the Jin host!
+Across a hundred li of
+%3Yehuling%%, corpses
+carpeted the earth and
+blood flowed like
+rivers!
+
+The %3Battle of Yehuling%%
+broke the back of the
+%3Jin Empire%%,
+annihilating their
+elite host in a
+historic turning point!
+#
+#
+#
+#019//Jin Soldier
+Aaargh! I must
+withdraw!
+#
+#
+#
+#020
+#
+#
+#
+#021
+#
+#
+#
+#022
+#
+#
+#
+#023
+#
+#
+#
+#024
+#
+#
+#
+#025
+#
+#
+#
+#026
+#
+#
+#
+#027
+#
+#
+#
+#028
+#
+#
+#
+#029
+#
+#
+#
+#030
+#
+#
+#
+#031
+#
+#
+#
+#032
+#
+#
+#
+#033
+#
+#
+#
+#034
+#
+#
+#
+#035
+#
+#
+#
+#036
+#
+#
+#
+#037
+#
+#
+#
+#038
+#
+#
+#
+#039
+#
+#
+#
+#040
+#
+#
+#
+#041
+#
+#
+#
+#042
+#
+#
+#
+#043
+#
+#
+#
+#044
+#
+#
+#
+#045
+#
+#
+#
+#046
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Annihilate all
+enemies Defeat: All forces wiped
+out Time Limit: 4 Years (End of
+1215)
+#
+#
+#
+#201
+#
+#
+#
+#202
+#
+#
+#
+#203
+#
+#
+#
+#204
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

@@ -1,0 +1,612 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+In 1213, Jin general Hushahu
+staged a coup, murdered Wanyan
+Yongji, and enthroned Wanyan Xun
+as Xuanzong. Later, Zhuhu Gaoqi
+slew Hushahu. Defeated by foes,
+these commanders waged bloody
+turmoil at court. After making
+peace, the terrified court
+resolved to flee to Kaifeng.
+Only Yelu Chucai protested: 'If
+the capital moves south, the
+north cannot be held! Gather
+grain and defend the capital.'
+Yet Xuanzong fled south, leaving
+Prince Wanyan Shouzhong, Wanyan
+Fuxing, Moran Jinzhong, and Yelu
+Chucai to hold Yanjing. When
+Genghis Khan heard the Jin court
+fled south, enraged at their bad
+faith, he launched a second
+southern campaign!
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002
+%3Genghis Khan%% sent
+%3Muqali%% against Dading
+to cut northeastern aid
+to %3Yanjing%%, watching
+the city from beyond
+the Great Wall.
+#
+#
+#
+#003//Chagatai
+Jin gathers militias
+and ships grain to
+relieve %3Yanjing%%. Grant
+me leave to intercept
+their grain wagons!
+#
+#
+#
+#004//Genghis Khan
+You may go, but curb
+your rash temper. Take
+%3Ogedei%% with you; act
+only after consulting
+each other!
+#
+#
+#
+#005//Chagatai
+...Understood.
+#
+#
+#
+#006//Ogedei
+Yes, Father!
+#
+#
+#
+#007
+Spotting wagon tracks
+near %3Yanjing%%, %3Chagatai%%
+charged ahead, leaving
+%3Ogedei%% behind to claim
+the glory!
+#
+#
+#
+#008//Chagatai
+(Seize the grain
+wagons...!)
+#
+#
+#
+#009//Chagatai
+Strange... The wagons
+are empty...!
+#
+#
+#
+#010
+Sudden flames erupted
+on all sides...!
+#
+#
+#
+#011
+Aaargh! Encircled by
+fire! Help!
+#
+#
+#
+#012//Yelu Chucai
+Heh, walked straight
+into the snare!
+#
+#
+#
+#013//Ogedei
+Brother! Trapped! %2Ride
+back swiftly to Father
+and find a way to save
+him!%%
+#
+#
+#
+#014//Genghis Khan
+%3Ogedei%%, why such panic?
+Where is %3Chagatai%%?
+#
+#
+#
+#015
+Father! Brother is
+encircled by fire while
+seizing wagons! Save
+him!!
+#
+#
+#
+#016//Genghis Khan
+%2Find water sources at
+once and extinguish the
+fire to rescue
+Chagatai!%%
+#
+#
+#
+#017
+Water is here! Haul
+water to quench the
+fire!
+#
+#
+#
+#018//Water Carts
+The flames are doused
+with water carts!
+#
+#
+#
+#019//Genghis Khan
+Escort %3Chagatai%% back to
+treat his burns; all
+others stand ready!
+#
+#
+#
+#020//Genghis Khan
+A cunning trap! Who
+devised such a
+scheme...?!
+#
+#
+#
+#021//Muqali
+Dading lies ahead.
+Deliver the letter to
+lure them out to
+reinforce %3Yanjing%%, then
+ambush them on the
+road!
+#
+#
+#
+#022//Yin Qing
+A dispatch from the
+Crown Prince in
+%3Yanjing%%! 'Mongols
+gather beyond the Great
+Wall; send relief to
+%3Yanjing%% at once! Prince
+%3Wanyan Shouzhong%%.'
+March!
+#
+#
+#
+#023//Jebe
+Strike!!
+#
+#
+#
+#024//Yin Qing
+Mongols here?! A trap!!
+#
+#
+#
+#025//Yin Qing
+Aaaargh...!
+#
+#
+#
+#026
+Jin defender of %3Dading%%,
+%3Yin Qing%%, was slain!
+#
+#
+#
+#027//Muqali
+Storm %3Dading%%!
+#
+#
+#
+#028//Wanyan Shouzhong
+%3Dading%% has fallen!
+Strengthen the defenses
+of %3Yanjing%%!
+#
+#
+#
+#029//Yelu Chucai
+Send troops to guard
+the northern grain
+routes from Hebei into
+%3Yanjing%%!
+#
+#
+#
+#030//Wanyan Shouzhong
+%3Li Ying%% escorts the
+supply train; fear not.
+#
+#
+#
+#031//Muqali
+%2Block all roads to
+Yanjing and sever their
+grain supply!%% Bring
+captured grain wagons
+here!
+#
+#
+#
+#032//Li Ying
+%3Yanjing%% is near!
+Protect the supply
+wagons!
+#
+#
+#
+#033//Defeat
+Grain wagons reached
+%3Yanjing%%! Mission
+Failed!
+#
+#
+#
+#034//Wanyan Shouzhong
+Repel the enemy! Defend
+%3Yanjing%%!
+#
+#
+#
+#035//Muqali
+All grain wagons
+intercepted! Await the
+Khagan's orders!
+#
+#
+#
+#036//Zhuhu Gaoqi
+In %3Kaifeng%%...
+#
+#
+#
+#037
+Your Majesty, %3Dading%% is
+lost, %3Yanjing%% besieged.
+The Crown Prince should
+join you here.
+#
+#
+#
+#038
+Recall the Crown Prince
+at once!
+#
+#
+#
+#039
+In %3Yanjing%%...
+#
+#
+#
+#040//Wanyan Fuxing
+The Emperor recalls the
+Crown Prince.
+#
+#
+#
+#065//Yelu Chucai
+If the Crown Prince
+remains in %3Yanjing%%, our
+prestige stands firm
+and the enemy will
+hesitate to assault. In
+the past, when Xuanzong
+of Tang fled to Shu,
+the prince stayed at
+Lingwu to calm the
+realm!
+#
+#
+#
+#041//Moran Jinzhong
+Can you guarantee
+%3Yanjing%% will not fall?
+
+Your Highness, flee
+south at once! I shall
+hold here.
+#
+#
+#
+#042
+Prince %3Wanyan Shouzhong%%
+fled to %3Kaifeng%%. Panic
+erupted; Yanjing's fall
+was inevitable.
+#
+#
+#
+#043//Wanyan Fuxing
+%3Moran Jinzhong%%, you are
+skilled in war; take
+command of all %3Yanjing%%
+forces!
+#
+#
+#
+#044
+Very well! Very well!
+#
+#
+#
+#045
+%3Moran Jinzhong%% feigned
+loyalty but secretly
+deserted. %3Wanyan Fuxing%%
+took poison and died
+for his realm.
+#
+#
+#
+#046//Yelu Chucai
+The stars reveal the
+Mandate of Jin is
+spent... Alas!
+#
+#
+#
+#047
+Starving and bereft of
+hope, %3Yanjing%% is ripe!
+Attack and seize
+%3Yanjing%%!!
+#
+#
+#
+#048//Narration
+Jin forces around
+%3Yanjing%% are wiped out!
+#
+#
+#
+#049//Genghis Khan
+We have taken %3Yanjing%%!
+
+Who devised the fiery
+snare that nearly
+killed my son?!
+#
+#
+#
+#050//Yelu Chucai
+It was I--%3Yelu Chucai%%!
+
+On narrow paths, one
+must tread slowly;
+haste leads into
+snares!
+#
+#
+#
+#051//Genghis Khan
+The %3Jin Empire%%
+possessed a genius like
+you yet cast you aside.
+Serve me, and your
+talent shall shine upon
+the world!
+#
+#
+#
+#052
+Though %3Khitan%% by blood,
+I served the %3Jin%%; I
+have no cause to betray
+my lords.
+#
+#
+#
+#053
+I respect loyalty to
+former masters; such
+men never turn traitor.
+The Jin realm is spent,
+and Heaven transfers
+the realm to Mongols.
+#
+#
+#
+#054
+A righteous host rights
+wrongs and comforts the
+folk. The people and
+wealth belong to
+Heaven. A true
+sovereign cherishes his
+folk rather than
+plundering them!
+#
+#
+#
+#055//Genghis Khan
+Well spoken! A true
+Emperor cares for his
+people. Slay no
+captives, soothe the
+folk, and bring all
+lands north of the
+Yellow River under our
+banner!
+#
+#
+#
+#056//Townsman
+The Mongols are here!
+Spare us!
+#
+#
+#
+#057//Townswoman
+Aaargh... Mongols...
+Stay away!
+#
+#
+#
+#058//Child
+Look! Their warrior
+garments are so
+curious!
+#
+#
+#
+#059
+The villagers have
+surrendered!
+#
+#
+#
+#060//Soldier
+%3Taiyuan%% has fallen!
+Flee!
+#
+#
+#
+#061//Soldier
+The Mongols reach
+%3Daming%%! Flee!
+#
+#
+#
+#062//Soldier
+%3Hejian%% has fallen!
+Retreat south!
+#
+#
+#
+#063
+In one year, Mongols
+took hundreds of towns,
+mastering all lands
+north of the Yellow
+River.
+
+%3Yelu Chucai%% joined
+%3Genghis Khan%%, reforming
+administration, law,
+and astronomy.
+#
+#
+#
+#064
+%3Ogedei%% and %3Chagatai%%
+fallen in battle!
+#
+#
+#
+#066
+Aaargh...!
+#
+#
+#
+#067
+Jin general %3Li Ying%% has
+fallen in battle!
+#
+#
+#
+#200
+Objective: Chagatai seizes grain
+wagons Defeat: Chagatai and
+Ogedei fallen Time Limit: 5
+Years (End of 1218)
+#
+#
+#
+#201
+Objective: Ogedei returns to
+camp (red flag) for help Defeat:
+Ogedei fallen in battle Time
+Limit: 5 Years (End of 1218)
+#
+#
+#
+#202
+Objective: Douse flames
+and rescue Chagatai
+Defeat: Genghis Khan
+and 4 sons fallen in
+battle Time Limit: 5
+Years (End of 1218)
+#
+#
+#
+#203
+Objective: Genghis Khan
+and 4 sons return to
+camp Defeat: Genghis
+Khan and 4 sons fallen
+in battle Time Limit: 5
+Years (End of 1218)
+#
+#
+#
+#204
+Objective: Dispatch
+messenger cart to blue
+flag outside Dading;
+capture Dading Defeat:
+All forces wiped out
+Time Limit: 5 Years
+(End of 1218)
+#
+#
+#
+#205
+Objective: Intercept 10
+grain wagons to Yanjing
+and deliver to 4 flags;
+capture Yanjing and all
+forts Defeat: Any wagon
+reaches Yanjing or all
+forces wiped out Time
+Limit: 5 Years (End of
+1218)
+#
+#
+#
+#206
+Objective: Capture
+cities north of Yellow
+River; accept surrender
+of all village folk
+Defeat: All forces
+wiped out Time Limit: 5
+Years (End of 1218)
+#
+#
+#
+#297
+Genghis Khan has fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

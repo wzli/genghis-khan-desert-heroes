@@ -1,0 +1,598 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Following the defeat of Tayang
+Khan, Kuchlug, Jamukha, and
+Toghtoa Beki all fled to Buyruk
+Khan in the Altai Mountains.
+Buyruk Khan had broken away from
+his cowardly brother to forge
+his own realm amidst the rugged
+peaks. Determined to uproot his
+enemies once and for all,
+Temujin pressed forward in
+relentless pursuit.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Temujin
+The seed of the enemy
+must not take root.
+%2Capture Kuchlug at all
+costs!%%
+#
+#
+#
+#003//Surrender
+We surrender with
+sincere hearts to Khan
+%3Temujin%%!
+#
+#
+#
+#004//Kuchlug
+Well, well! What a
+charming maiden! Would
+you care to ride with a
+prince?
+#
+#
+#
+#005//Khulan
+Oho! The renowned and
+haughty Prince %3Kuchlug%%!
+If you still held your
+splendid golden tent,
+%3Khulan%% might have
+considered it. But a
+wandering fugitive? In
+this life, dream on!
+#
+#
+#
+#006//Kuchlug
+Do not look down on me!
+I shall rule lands
+greater than the
+%3Naimans%%, with palaces
+of shimmering gold! You
+come with me now!
+#
+#
+#
+#007//Khulan
+%3Khulan%% will never
+submit to you!
+#
+#
+#
+#008//Kuchlug
+I have spoken gently
+enough! Nothing I
+desire escapes my
+grasp! Seize her!
+#
+#
+#
+#009//Temujin
+It is %3Kuchlug%%! Subdue
+him at once!
+#
+#
+#
+#010//Khulan
+Ouch! It hurts...!
+#
+#
+#
+#011//Kuchlug
+%3Temujin's%% warriors...!
+#
+#
+#
+#012//Kuchlug
+%3Kuchlug%% has been
+cornered!
+#
+#
+#
+#013//Buyruk Khan
+Release him!
+#
+#
+#
+#014//Kuchlug
+Uncle! Rescue me!
+#
+#
+#
+#015//Buyruk Khan
+%3Buyruk Khan%% breaks
+through and rescues
+%3Kuchlug%%!
+#
+#
+#
+#016//Temujin
+%2Escort this maiden back
+to camp to tend her
+wounds.%%
+#
+#
+#
+#017//Temujin
+Rest easy here and
+recover your strength.
+#
+#
+#
+#018//Khulan
+%3Khulan%% pays homage to
+Khan %3Temujin%%. For the
+kindness and protection
+you showed me along
+your march, %3Khulan%%
+knows not how to repay
+you.
+#
+#
+#
+#019//Temujin
+%3Kuchlug%% was rescued by
+%3Buyruk Khan%%. Before us
+lie the %3Altay
+Mountains%%. The crags
+are precipitous;
+storming them is no
+matter of days, and
+requires deliberate
+planning.
+#
+#
+#
+#020//Khulan
+The Khan speaks truly.
+%3Buyruk Khan's%% fortress
+sits upon the highest
+peaks. If they
+barricade the passes,
+they can idle away the
+days counting clouds
+and stars.
+#
+#
+#
+#021//Temujin
+Even so, confinement
+will dull their martial
+spirit.
+#
+#
+#
+#022//Khulan
+%3Khulan%% has a stratagem
+for the Khan's
+consideration. The
+barren peaks bear not a
+blade of grass.
+Deserters and fugitives
+have all crammed into
+that summit, straining
+their supplies. If we
+sever their supply
+lines below, hunger
+alone will bring them
+to their knees.
+#
+#
+#
+#023//Temujin
+Indeed! Behind your
+radiant countenance
+dwells such sharp
+brilliance. Your
+blockade strategy is
+splendid!
+#
+#
+#
+#024//Jebe
+What is our battle
+deployment for taking
+the mountains?
+#
+#
+#
+#025//Temujin
+%2Seize every redoubt
+along the mountain
+passes and sever all
+supplies ascending the
+peaks!%%
+#
+#
+#
+#026//Qubilai
+All mountain redoubts
+are firmly secured!
+#
+#
+#
+#027//Jamukha
+%3Buyruk Khan%%! %3Temujin's%%
+blockade cuts our
+throat! While our men
+are numerous and high
+in spirit, we must
+charge down the
+mountain now, or
+disaster awaits!
+#
+#
+#
+#028//Buyruk Khan
+No! I will wait for
+them to climb the peaks
+and taste the defensive
+fury of my fortress!
+#
+#
+#
+#029//Jamukha
+(Only a fool would sit
+here waiting to
+starve...)
+#
+#
+#
+#030//Kuchlug
+Uncle, I also urge that
+we break out and strike
+them down!
+#
+#
+#
+#031//Buyruk Khan
+I command here!
+Conserve your
+provisions; we have
+plenty of grain. Hold
+positions!
+#
+#
+#
+#032//One Month Later
+One month passed...
+Inside the mountain
+fortress, starving
+warriors collapsed one
+after another...
+#
+#
+#
+#033//Temujin
+All warriors, hear my
+command! Storm the
+fortress!
+#
+#
+#
+#034//Buyruk Khan
+Come and die! Hurl them
+off the precipice!
+#
+#
+#
+#035//Buyruk Khan
+Aaaaargh...!
+#
+#
+#
+#036//Kuchlug
+My uncle is dead...!
+#
+#
+#
+#037//Jamukha
+Split into four columns
+and charge down the
+mountain! Perhaps we
+can rally allies!
+#
+#
+#
+#038//Torito
+I thought these twenty
+years of wandering had
+ended; now the road of
+exile begins again!
+#
+#
+#
+#039//Kuchlug
+Charge...!
+#
+#
+#
+#040//Enemy Reinforcements
+Enemy relief forces
+assemble at the
+mountain foot!
+#
+#
+#
+#041//Jamukha
+(Run! But where else in
+this world is left for
+me to go...?)
+#
+#
+#
+#042//Kuchlug
+Flee!
+#
+#
+#
+#043//Borte
+Khan, besides %3Kuchlug%%,
+%3Jamukha%% and %3Torito%% have
+also slipped away!
+#
+#
+#
+#044//Temujin
+Continue hunting their
+tracks!
+#
+#
+#
+#045//Bandit
+%3Temujin's%% riders are
+upon us...!
+#
+#
+#
+#046//Jamukha
+Fools! Why did you
+notice only now?
+Run...!
+#
+#
+#
+#047//Horse Bandit
+I am starving; let us
+halt and forage for
+food!
+#
+#
+#
+#048//Jamukha
+Worthless dogs! It is
+because of fools like
+you that I, %3Jamukha%%,
+could never claim the
+world!
+#
+#
+#
+#049//Horse Bandit
+We have had enough! You
+care only for yourself
+and nothing for our
+lives! We obey you no
+longer!
+#
+#
+#
+#050//Jamukha
+How dare you! I will
+teach you respect...!
+#
+#
+#
+#051//Chilaun
+When snipe and clam
+grapple, the fisherman
+takes the prize!
+#
+#
+#
+#052//Jamukha
+Mutinous dogs! Unhand
+me...!
+#
+#
+#
+#053//Bandits Subdued
+Bring %3Jamukha%% before
+the Khan for judgment!
+#
+#
+#
+#054//Temujin
+My Anda! In our youth,
+we rode together,
+hunted together, and
+swore sacred
+brotherhood under
+Heaven. When my father
+was poisoned and our
+clan abandoned us, you
+stretched out your hand
+and guided me through
+those bitter years.
+Does my Anda still
+remember our sacred
+oath? 'Though not born
+on the same day, we vow
+to die on the same day.
+In life, joy we share,
+hardship we bear, never
+to abandon nor betray
+one another!'
+#
+#
+#
+#055//Jamukha
+It was I who betrayed
+my Anda. It was I who
+broke our sacred oath.
+That my Anda holds no
+malice is your noble
+grace. Yet look upon
+the steppe: my Anda has
+united all tribes, and
+a complete nation is
+born. What use could I
+be at your side? If you
+spare me, you will have
+no peace when you sleep
+at night, nor sweet
+taste when you dine by
+day. I am a man cursed
+with restless ambition,
+who caused my Anda much
+grief. Now I ask only
+one mercy: grant me
+death without the
+shedding of blood. When
+I am gone, my people
+will shelter beneath my
+Anda's majestic spirit.
+Pray watch over them
+day and night.
+#
+#
+#
+#056//Temujin
+I know in my heart that
+my Anda never truly
+harbored malice toward
+me. If you refuse to
+live... then I must
+grant your wish: death
+without blood.
+#
+#
+#
+#057//Jamukha
+Grant me swift death,
+my Anda, and bury my
+bones upon the high
+ridge. I shall watch
+over you and your
+children's children for
+all eternity!
+#
+#
+#
+#058//The End of Jamukha
+%3Jamukha%% reached the end
+of his days. %3Temujin's%%
+warriors placed %3Jamukha%%
+inside a heavy woolen
+sack and broke his
+back, granting him a
+death without blood.
+For Mongols believed
+that a man's soul
+dwells within his
+blood; dying without
+shedding blood
+preserved the soul--the
+highest honor bestowed
+upon a fallen brother.
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Pursue Kuchlug
+Defeat: All friendly forces
+defeated Time Limit: 4 Years
+(End of 1209 AD)
+#
+#
+#
+#201
+Objective: Temujin escorts
+Khulan safely back to camp
+Defeat: All friendly forces
+defeated Time Limit: 4 Years
+(End of 1209 AD)
+#
+#
+#
+#202
+Objective: Seize 4
+mountain pass redoubts
+and await the hour;
+capture Altay Fortress
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1209 AD)
+#
+#
+#
+#203
+Objective: Capture
+Altay Fortress and
+defeat all enemy forces
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1209 AD)
+#
+#
+#
+#204
+Objective: Track down
+the fugitives Defeat:
+All friendly forces
+defeated Time Limit: 4
+Years (End of 1209 AD)
+#
+#
+#
+#205
+Objective: Bring
+Jamukha before Temujin
+for judgment Defeat:
+All friendly forces
+defeated Time Limit: 4
+Years (End of 1209 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

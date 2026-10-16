@@ -1,0 +1,469 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Fleeing defeat, Kuchlug reached
+Western Liao, caught the
+princess's eye, and became royal
+son-in-law overnight. Securing
+troops from the Gurkhan, he
+gathered Naiman remnants into a
+formidable army. Conspiring with
+Khwarazm, he staged a coup,
+seized the Gurkhan, and declared
+himself Emperor of Western Liao.
+Kuchlug ruled with bloody
+tyranny: he banned Islam, burned
+crops, and unleashed his troops
+to pillage and torment the folk.
+In 1218, Genghis Khan appointed
+Jebe as commander to crush
+Kuchlug.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Townsfolk
+Word spreads that
+Mongols march against
+%3Kuchlug%%! What shall
+become of us?
+#
+#
+#
+#003//Jebe
+Proclaim to %3Western
+Liao%%: 'We come to
+punish %3Kuchlug%%. We
+shall harm no common
+folk. You may practice
+your faith and laws
+freely!'
+#
+#
+#
+#004//Townsfolk
+Our deliverers have
+arrived! 'O Merciful
+Lord, grant victory to
+the Mongols!'
+#
+#
+#
+#005//Kuchlug
+Ingrates! You seek your
+own destruction! Slay
+them!!
+#
+#
+#
+#006//Kuchlug
+These Mongols fight
+like demons. Frontier
+guards, hold the pass
+or your kin will
+suffer!
+#
+#
+#
+#007//Soldier
+%3Kuchlug%% threatens our
+families while hiding
+behind us! Despicable
+tyrant...!
+#
+#
+#
+#008
+Frontier guards opened
+the gates and
+surrendered to %3Jebe%%!
+#
+#
+#
+#009
+Protect our %3Western
+Liao%% people...!
+#
+#
+#
+#010//Jebe
+I swear by Heaven to
+protect you and your
+families!
+#
+#
+#
+#011//Kuchlug
+Traitors! I despise
+betrayal! Curse you
+all!!
+#
+#
+#
+#012
+Advance upon %3Hotan%%!
+#
+#
+#
+#013//Kuchlug
+%3Jebe%%, you provoked me!
+Behold what you have
+wrought! Slay those
+civilians before their
+eyes!
+#
+#
+#
+#014
+The folk of %3Hotan%% were
+butchered by %3Kuchlug's%%
+soldiers!
+#
+#
+#
+#015//Jebe
+I failed to shield
+them...!
+#
+#
+#
+#016//Narration
+Entering %3Hotan%%, %3Jebe%%
+abolished religious
+bans; the people wept
+for joy!
+#
+#
+#
+#017//Kuchlug
+Hahaha! Saving a few in
+%3Hotan%% means nothing!
+Other folk of %3Western
+Liao%% will pay for your
+insolence!
+#
+#
+#
+#018//Jebe
+Why slaughter innocent
+folk?!
+#
+#
+#
+#019
+Innocent? Did you not
+slaughter my innocent
+Naiman kin?!
+#
+#
+#
+#020
+...
+#
+#
+#
+#021
+Speechless! We are cut
+from the same cloth! If
+you wish to save folk,
+I offer you a trial!
+#
+#
+#
+#022
+Beware his treachery!
+#
+#
+#
+#023//Jebe
+I shall be watchful.
+What trial?
+#
+#
+#
+#024
+I keep ravenous wolves.
+If any can survive
+their den, I spare the
+remaining populace!
+#
+#
+#
+#025
+I accept!
+#
+#
+#
+#026
+Brave! Bring your
+leading generals to
+join the trial!
+#
+#
+#
+#027//Kuchlug
+Welcome to my wolf pit!
+%2Destroy all 7 caverns
+and you survive!%% Good
+luck! Hahaha!
+
+(I can smell your blood
+already!)
+#
+#
+#
+#028//Jebe
+Stand ready and guard
+each other!
+#
+#
+#
+#029//Kuchlug
+My precious wolf pack,
+slaughtered by you...!
+#
+#
+#
+#030//Jebe
+Tend to the wounded at
+once!
+#
+#
+#
+#031//Soldier
+We are volunteers of
+%3Hotan%%; let us fight
+alongside you!
+#
+#
+#
+#032
+Together we shall storm
+%3Balasagun%% and take
+%3Kuchlug%% alive!
+#
+#
+#
+#033//Gurkhan
+My blindness brought
+this doom... My people,
+forgive me...!
+#
+#
+#
+#034
+The aged %3Gurkhan%% passed
+away!
+#
+#
+#
+#035
+%3Kuchlug%% has fled the
+city!
+#
+#
+#
+#036
+The Khagan commands his
+capture! Search every
+pass!
+#
+#
+#
+#037//Kuchlug
+Cursed wilderness!
+Which way leads
+out...?! Let me head
+there!
+#
+#
+#
+#038
+!! Ah !!
+#
+#
+#
+#039
+Awooooo!!
+#
+#
+#
+#040
+Good wolves, back! My
+flesh is bitter...
+Away...!
+#
+#
+#
+#041
+Aaaargh!! The agony!
+Aaargh!!
+#
+#
+#
+#042
+%3Kuchlug%% was torn to
+pieces by wolves--grim
+retribution for his
+deeds!
+
+With his death, all
+%3Western Liao%% submitted
+to the Mongols.
+#
+#
+#
+#043//Kuchlug
+You shall not catch me
+easily!
+#
+#
+#
+#044
+#
+#
+#
+#045
+#
+#
+#
+#046
+#
+#
+#
+#047
+#
+#
+#
+#048
+#
+#
+#
+#049
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Destroy Western Liao
+vanguard forces Defeat: All
+commanders fallen Time Limit: 4
+Years (End of 1221)
+#
+#
+#
+#201
+Objective: Attack Hotan, crush
+Kuchlug, protect folk outside
+city Defeat: Hotan folk wiped
+out or all commanders fallen
+Time Limit: 4 Years (End of
+1221)
+#
+#
+#
+#202
+Objective: Escort 12
+commanders into the 4
+banners Defeat: All
+commanders fallen Time
+Limit: 4 Years (End of
+1221)
+#
+#
+#
+#203
+Objective: Destroy
+caverns and slay all
+wolves Defeat: All
+commanders fallen Time
+Limit: 4 Years (End of
+1221)
+#
+#
+#
+#204
+Objective: Capture
+Balasagun Defeat: All
+commanders fallen Time
+Limit: 4 Years (End of
+1221)
+#
+#
+#
+#205
+Objective: Pursue and
+capture Kuchlug Defeat:
+All commanders fallen
+Time Limit: 4 Years
+(End of 1221)
+#
+#
+#
+#297
+All commanders fallen in
+battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

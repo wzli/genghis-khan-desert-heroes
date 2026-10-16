@@ -1,0 +1,613 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+At the Baljuna waters, Temujin
+and his nineteen faithful
+companions drank the muddy
+water, swearing an oath of
+unbreakable brotherhood to
+Heaven. Temujin reorganized his
+forces, sending out riders to
+rally scattered nomads, while
+probing the rival leaders for
+mutual discord to unravel their
+coalition from within.
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Temujin
+The fertile pastures of
+%3Hulunbuir%% shall be our
+base to rise anew! %2I
+shall ride personally
+to rally scattered
+nomads to our banner.%%
+#
+#
+#
+#003//Jamukha
+Lord %3Ong Khan%%, %3Temujin%%
+is gathering wanderers
+and shows signs of
+rising from the ashes.
+I wish to train an army
+to crush him once and
+for all.
+#
+#
+#
+#004//Ong Khan
+If so, I entrust thirty
+thousand warriors to
+you. Train them well.
+#
+#
+#
+#041//Temujin
+%3Ong Khan%%, %3Senggum%%,
+%3Jamukha%%... Yesterday's
+comrades are today's
+mortal foes. The vast
+lands of the %3Kereits%%
+seem a distant dream...
+#
+#
+#
+#042//Muqali
+My Khan, we stand ready
+on the front lines to
+win the lands of the
+%3Kereits%% for your glory!
+#
+#
+#
+#043//Temujin
+Against such deceitful
+allies, we can sow
+discord through
+political envoys as
+well as force of
+arms... We should
+dispatch a messenger to
+%3Ong Khan%%, %3Jamukha%%, and
+%3Senggum%% to deliver my
+words.
+#
+#
+#
+#005//Muqali
+This messenger will
+faithfully deliver
+every word of the Khan!
+%2Command whether to
+seize Ong Khan's golden
+yurt or send an envoy
+to divide them!%%
+#
+#
+#
+#006//Temujin
+Good. I shall muster
+our warriors here,
+preparing for war to
+avenge their betrayal.
+#
+#
+#
+#007//Messenger
+I am an envoy sent by
+%3Temujin%%!
+#
+#
+#
+#008//Sentry
+An envoy? Pass through!
+#
+#
+#
+#009//Ong Khan
+Envoy of %3Temujin%%, speak
+your message!
+#
+#
+#
+#010//Messenger
+Khan %3Temujin%% says: 'Had
+my late father %3Yesugei%%
+not aided you, could
+you have reclaimed the
+Kereit throne? For that
+very reason you swore
+brotherhood as Anda,
+and I called you Khan
+Father. That was the
+dawn of our friendship,
+and our first great
+virtue toward you.
+Years ago, when your
+younger brother
+borrowed Naiman troops
+to defeat you and drove
+you destitute into the
+wilderness, I gathered
+your scattered people
+and helped you rise
+anew. That was our
+second great virtue
+toward you. When we
+defeated the Merkits
+together and you kept
+all the spoils, I
+uttered no complaint.
+When Buyruk Khan
+attacked you, had I not
+ridden to your rescue,
+your beloved son
+Senggum would have
+perished, and your
+herds would have been
+lost. That was our
+third great virtue
+toward you.'
+#
+#
+#
+#045//Ong Khan
+...
+#
+#
+#
+#011//Messenger
+'We saved your life and
+restored your kingdom.
+Why do you repay
+benevolence with
+malice?'
+#
+#
+#
+#012//Ong Khan
+This...
+#
+#
+#
+#013//Messenger
+'You and I were like
+the two shafts of a
+cart; broken, neither
+can advance. Heed no
+longer the whispers of
+Jamukha! Rejoin our
+sacred alliance!'
+#
+#
+#
+#014//Ong Khan
+Indeed! Why have I
+grown so blind in my
+old age? Tell %3Temujin%%
+that I swear to restore
+our covenant!
+#
+#
+#
+#015//Messenger
+I shall carry your
+words. Farewell! (Now
+to find Jamukha and his
+conspirators...)
+#
+#
+#
+#016//Envoys Reach Jamukha
+The envoy arrives at
+the camp of %3Jamukha%%,
+%3Altan%%, and %3Khuchar%%.
+#
+#
+#
+#017//Messenger
+Khan %3Temujin%% speaks to
+%3Jamukha%%: 'We swore
+oaths as Anda in our
+youth to share joy and
+endure sorrow together.
+Yet you have repeatedly
+broken your vows to
+wage war against me...'
+#
+#
+#
+#018//Jamukha
+Silence! Tell %3Temujin%%
+that one mountain
+cannot shelter two
+tigers! Spare me his
+sanctimonious lectures!
+If he had no ambition,
+how did he seize such
+vast lands? I would
+rather serve under
+another than ever bow
+my neck to him!
+#
+#
+#
+#019//Messenger
+%3Temujin%% bids me tell
+%3Altan%% and %3Khuchar%%: 'At
+the Kurultai years ago,
+you acclaimed me Khan
+and swore eternal
+loyalty. If you have
+now left to serve my
+Khan Father, I hold no
+malice; serve him
+faithfully. Yet my Khan
+Father is
+temperamental. If he
+shelters you this
+winter, will he endure
+you next summer? Our
+ancestral lands lie
+with me; do not let
+strangers overrun
+them!'
+#
+#
+#
+#020//Jamukha
+%3Altan%%, %3Khuchar%%, do not
+fall for %3Temujin's%%
+wedge! The more he
+seeks to divide us, the
+tighter we must stand
+together!
+#
+#
+#
+#021//Messenger
+%3Ong Khan%% and %3Senggum%%
+will stand with
+%3Temujin%%; you will find
+yourselves utterly
+isolated! (Now to meet
+Senggum...)
+#
+#
+#
+#022//Senggum
+Begone! I have no
+desire to gaze upon an
+envoy of %3Temujin%%!
+#
+#
+#
+#023//Jamukha
+%3Altan%%, %3Khuchar%%, %3Ong
+Khan%% wishes to ally
+with %3Temujin%%! If they
+unite, it spells our
+doom. Let us turn the
+troops %3Ong Khan%% gave us
+against him, seize
+power, and rule
+ourselves!
+#
+#
+#
+#024//Altan
+Agreed! We launch an
+ambush against %3Ong
+Khan%%!
+#
+#
+#
+#025//Senggum
+What?! %3Jamukha%% has
+turned traitor?! I knew
+that snake was fickle!
+Send troops to strike
+his rear at once!
+#
+#
+#
+#026//Temujin
+A golden opportunity!
+%2The enemy tears
+themselves apart!
+Strike while they are
+weakened%% and subdue the
+%3Kereit clan%%!
+#
+#
+#
+#027//Ong Khan
+Did %3Temujin%% not speak
+of alliance? How could
+he strike us like
+this...? Waaah! My
+luxurious golden tent,
+my women, my riches...!
+Flee to %3Senggum's%% camp!
+#
+#
+#
+#028//Enemy Rout
+Flee! Run for your
+lives!
+#
+#
+#
+#029//Jamukha
+We cannot remain here!
+%3Altan%%, %3Khuchar%%, follow
+me! We seek shelter
+with %3Tayang Khan%% of the
+Naimans!
+#
+#
+#
+#030//Senggum
+Vile %3Temujin%%! Seducing
+my father, stealing my
+lands! My kingdom, my
+Khanate, all shattered
+by %3Temujin%%! I could
+drink your blood,
+Temujin! Father, we
+must flee!
+#
+#
+#
+#031//Ong Khan
+My son... had we not
+turned against %3Temujin%%,
+he would never have
+done this to us. We
+reap the bitter seeds
+we sowed!
+#
+#
+#
+#032//Temujin
+We have tracked down
+%3Ong Khan%% and %3Senggum%%!
+#
+#
+#
+#033//Senggum
+(%3Temujin%% is on our
+heels! No time to warn
+Father; every man for
+himself!)
+#
+#
+#
+#034//Ong Khan
+%3Temujin%%, for the sake
+of our former bond as
+father and son, spare
+my wretched life!
+#
+#
+#
+#035//Temujin
+Khan Father, please
+remain. I shall care
+for you in your elder
+years.
+#
+#
+#
+#036//Ong Khan
+How can I bear the
+shame of calling you
+son? Grant me a few
+livestock, that I may
+live out my days in
+obscurity...
+#
+#
+#
+#037//Temujin
+Khan Father...
+#
+#
+#
+#038//Ong Khan
+%3Temujin%% attacks! Guard
+the perimeter!
+#
+#
+#
+#039//Jamukha
+Karakorum has fallen to
+%3Temujin%%! Move to
+relieve it!
+#
+#
+#
+#040//Senggum
+What! %3Temujin%% is here?!
+To arms!
+#
+#
+#
+#046//Enemy Fallen
+Aaaaargh...!
+#
+#
+#
+#047
+%3Altun%% has fallen in
+battle!
+#
+#
+#
+#048
+%3Sehan Toduan%% has fallen
+in battle!
+#
+#
+#
+#049//Jakha Gambu
+%3Temujin%%, I surrender!
+In memory of our family
+bonds, I beg your
+mercy!
+#
+#
+#
+#050//Temujin
+Granted. Your life is
+spared.
+#
+#
+#
+#051//Messenger
+Unable to meet %3Senggum%%.
+Let us depart!
+#
+#
+#
+#052
+There is one more
+secret you must know:
+our ancient ancestors
+left behind two sacred
+treasures: the %3Robe of
+the Grey Wolf%% and the
+%3Staff of the White
+Hind%%. The %3Robe of the
+Grey Wolf%% was lost long
+ago, but you must carry
+this %3Staff of the White
+Hind%% with you always.
+Do you understand?
+#
+#
+#
+#053
+Yes, Khan Father. I
+understand. Take good
+care of yourself.
+#
+#
+#
+#054
+%3Temujin%% received the
+%3Staff of the White
+Hind%%, a priceless
+heirloom passed down
+from the ancestors.
+Thus the %3Kereit clan%%
+was extinguished. The
+fall of %3Ong Khan%% and
+his son was %3Temujin's%%
+greatest triumph.
+Henceforth, two-thirds
+of the Mongolian steppe
+knelt beneath his
+dominion.
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Temujin gathers
+scattered warriors from the
+clans Defeat: All friendly
+forces defeated Time Limit: 4
+Years (End of 1206 AD)
+#
+#
+#
+#201
+Objective: Send envoys to Ong
+Khan, Jamukha, and Senggum, or
+directly assault the Kereits
+Defeat: All friendly forces
+defeated Time Limit: 4 Years
+(End of 1206 AD)
+#
+#
+#
+#202
+Objective: Seize
+Karakorum, Saihan Ovoo,
+and Jamukha's fortress
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1206 AD)
+#
+#
+#
+#203
+Objective: Track down
+Ong Khan and Senggum
+Defeat: All friendly
+forces defeated Time
+Limit: 4 Years (End of
+1206 AD)
+#
+#
+#
+#204
+Objective: Temujin
+secures the Staff of
+the White Hind Defeat:
+All friendly forces
+defeated Time Limit: 4
+Years (End of 1206 AD)
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

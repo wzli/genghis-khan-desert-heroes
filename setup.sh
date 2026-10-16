@@ -1,0 +1,85 @@
+#!/bin/bash
+set -e
+
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$DIR"
+
+echo "=================================================================="
+echo " 成吉思汗之大漠英雄傳 (Genghis Khan 1999) - System Setup & Installer"
+echo "=================================================================="
+
+# 1. Detect Wine runtime
+HAS_WINE=false
+HAS_FLATPAK_WINE=false
+
+if command -v wine &>/dev/null; then
+    HAS_WINE=true
+    echo "[OK] System Wine found: $(wine --version 2>&1 | head -n 1)"
+elif command -v flatpak &>/dev/null && flatpak info org.winehq.Wine &>/dev/null; then
+    HAS_FLATPAK_WINE=true
+    echo "[OK] Flatpak Wine runtime found (org.winehq.Wine)"
+fi
+
+if [ "$HAS_WINE" = false ] && [ "$HAS_FLATPAK_WINE" = false ]; then
+    echo "[INFO] No Wine runtime detected. Attempting automatic setup..."
+    if command -v flatpak &>/dev/null; then
+        echo "[INFO] Installing org.winehq.Wine via Flatpak (Flathub)..."
+        flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo || true
+        flatpak install --user -y flathub org.winehq.Wine
+        HAS_FLATPAK_WINE=true
+    elif command -v apt-get &>/dev/null; then
+        echo "[INFO] Debian/Ubuntu detected. To install Wine, run:"
+        echo "  sudo dpkg --add-architecture i386 && sudo apt-get update && sudo apt-get install -y wine32 wine64"
+    elif command -v dnf &>/dev/null; then
+        echo "[INFO] Fedora/RHEL detected. To install Wine, run:"
+        echo "  sudo dnf install -y wine"
+    elif command -v pacman &>/dev/null; then
+        echo "[INFO] Arch Linux detected. To install Wine, run:"
+        echo "  sudo pacman -S --needed wine"
+    fi
+fi
+
+# 2. Check for Timidity MIDI (for BGM music)
+if command -v timidity &>/dev/null; then
+    echo "[OK] TiMidity++ MIDI synthesizer found."
+else
+    echo "[INFO] Note: TiMidity++ is recommended for background MIDI music playback."
+fi
+
+# 3. Generate Desktop Launcher
+DESKTOP_DIR="$HOME/Desktop"
+APP_DIR="$HOME/.local/share/applications"
+mkdir -p "$APP_DIR"
+
+DESKTOP_FILE_CONTENT="[Desktop Entry]
+Version=1.0
+Type=Application
+Name=成吉思汗之大漠英雄傳 (Genghis Khan: Desert Heroes)
+Comment=Turnkey Linux Edition of Genghis Khan with Authentic English & Chinese Modes
+Exec=$DIR/run_native.sh
+Icon=$DIR/assets/icon.png
+Path=$DIR
+Terminal=false
+StartupNotify=true
+Categories=Game;StrategyGame;"
+
+echo "$DESKTOP_FILE_CONTENT" > "$APP_DIR/opencjsh.desktop"
+chmod +x "$APP_DIR/opencjsh.desktop"
+
+if [ -d "$DESKTOP_DIR" ]; then
+    echo "$DESKTOP_FILE_CONTENT" > "$DESKTOP_DIR/成吉思汗之大漠英雄傳.desktop"
+    chmod +x "$DESKTOP_DIR/成吉思汗之大漠英雄傳.desktop"
+    echo "[OK] Desktop shortcut created at: $DESKTOP_DIR/成吉思汗之大漠英雄傳.desktop"
+fi
+
+# 4. Fix permissions on helper scripts
+chmod +x run_native.sh switch_language.sh scripts/*.py Launch_Game_Win.bat Switch_Language_Win.bat 2>/dev/null || true
+ln -sfn run_native.sh run_opencjsh.sh
+
+echo "=================================================================="
+echo " [SUCCESS] Setup complete!"
+echo " Launch the game using:"
+echo "   ./run_native.sh --lang en   # Authentic English"
+echo "   ./run_native.sh --lang zh   # Traditional Chinese (Original)"
+echo " Or double-click the shortcut on your desktop."
+echo "=================================================================="

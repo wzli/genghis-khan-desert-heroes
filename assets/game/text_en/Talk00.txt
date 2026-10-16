@@ -1,0 +1,352 @@
+#000
+#
+#
+#
+#001//Liu Bei
+Greetings to all players of
+SanGuo BaYe! Welcome to our
+game!
+#
+#
+#
+#002//Cao Cao
+Everyone wants to play
+the Conquest Mode! Why
+are we barging in to
+interrupt?!
+#
+#
+#
+#003//Sun Quan
+Because Conquest Mode
+is not available in
+this demo trial, we are
+here together to give a
+brief overview! (I got
+battered in the demo
+stage, so the director
+ought to give me more
+lines!)
+#
+#
+#
+#004//Liu Bei
+Indeed! Story Mode
+stars the three of us
+across mission stages,
+letting you live each
+hero's legendary life!
+#
+#
+#
+#005//Cao Cao
+And what about Conquest
+Mode?
+#
+#
+#
+#006//Sun Quan
+Conquest Mode spans an
+immense world map, vast
+as the true realm of
+the Three Kingdoms!
+#
+#
+#
+#007//Liu Bei
+Across more than 500
+screens, there are 38
+cities, over 200
+generals, countless
+squads, and bustling
+merchants and bandits
+roaming about!
+#
+#
+#
+#008//Cao Cao
+Over two hundred
+generals?! Then let the
+others step up and
+speak their minds!
+#
+#
+#
+#009//Lu Bu
+My martial might is
+peerless under Heaven!
+Greatest hero of the
+Three Kingdoms! Give me
+your full support!
+#
+#
+#
+#010//Kongming
+A worthy lord needs
+wisdom in domestic
+rule, seeking talent
+and expanding armies.
+Only firm foundations
+endure!
+#
+#
+#
+#011//Yuan Shao
+My power is formidable
+in every way, with
+camps full of famed
+heroes! I am your
+finest choice!
+#
+#
+#
+#012//Dong Zhuo
+Bah! With Grand
+Preceptor Dong here,
+you rebels deserve
+death! Go assemble in
+hell together!
+#
+#
+#
+#013//Sima Yi
+Well spoken! Who knows
+who will descend into
+hell first!
+
+(Do you not know the
+realm belongs to my
+Sima clan at last? As
+the saying goes:
+quietly feast on three
+bowls of rice!)
+#
+#
+#
+#014//Diaochan
+Pray allow this humble
+maiden a word. We must
+state the rules
+clearly; after all, we
+shall all meet upon the
+battlefield!
+#
+#
+#
+#015//Liu Bei
+Dispatch generals with
+the 'Persuade' skill to
+scout the wilds for
+wandering talent! Many
+hands make light work!
+#
+#
+#
+#016//Guan Yu
+Whether managing
+affairs within the
+walls or slaying
+enemies in the field,
+you gain experience!
+#
+#
+#
+#017//Zhang Fei
+Grinding and leveling
+up? Ol' Zhang loves
+finding bandit lairs to
+sharpen my blade!
+#
+#
+#
+#018//Zhao Yun
+My lord can lead all
+generals into campaign
+together, feeling the
+grand clash of
+thousands of steeds and
+infantry!
+#
+#
+#
+#019//Cao Cao
+Unshackled by
+turn-based rules! Pure
+real-time gameplay,
+tense and
+electrifying... truly
+'Cao-per' magnificent!
+#
+#
+#
+#020//Zhang Liao
+Unit types counter one
+another. Harmonizing
+officer strengths with
+support troops is the
+highest rule of battle!
+#
+#
+#
+#021//Xun Yu
+With each city seized,
+manage domestic affairs
+with care, and fresh
+recruits will flow
+without end.
+#
+#
+#
+#022//Guo Jia
+Governance and war
+proceed together. Keep
+a sharp mind and adapt
+your tactics to carry
+out your grand
+unification!
+#
+#
+#
+#023//Sun Quan
+Disasters strike any
+stronghold unawares,
+but riots from poor
+public order can be
+averted!
+#
+#
+#
+#024//Lu Xun
+When merchant carts
+arrive, commerce
+thrives. Transport
+wagons haul supplies
+between our
+strongholds.
+#
+#
+#
+#025//Diaochan
+Could you explain the
+combat system in
+greater detail?
+#
+#
+#
+#026//Zhou Yu
+Strategist generals can
+cast special tactics
+from the rear, greatly
+increasing victory!
+#
+#
+#
+#027//Ma Chao
+When health falls below
+half, expend all skill
+power to unleash a
+devastating fury
+strike!
+#
+#
+#
+#028//Diaochan
+If a general's health
+reaches zero, will they
+perish?
+#
+#
+#
+#029//Sun Quan
+No, they are merely
+incapacitated for
+battle, though they can
+still walk. Resting in
+a city restores them
+over time.
+
+A grayed-out general
+has been taken
+prisoner, and will be
+thrown into the dungeon
+of an enemy stronghold.
+
+Unless executed by a
+ruthless foe, they will
+survive!
+#
+#
+#
+#030//Diaochan
+How can we rescue them?
+#
+#
+#
+#031//Sun Quan
+If captive in the
+field, slay their
+escort to free them. If
+held in a dungeon,
+conquer the city to
+liberate them! Alas, I
+was locked away during
+the demo stage...
+#
+#
+#
+#032//Diaochan
+That sounds wonderfully
+fun!
+#
+#
+#
+#033//Cao Cao
+Naturally, it is
+'Cao-per' thrilling!
+Tell your friends and
+classmates to join the
+fray!
+
+(Rumor has it there is
+a secret stage for
+Diaochan... clear it
+for a spicy surprise...
+*wink*)
+#
+#
+#
+#034//Liu Bei
+Real-Time Strategy RPG
+'SanGuo BaYe', priced
+at 599 NT, launching
+late November!
+#
+#
+#
+#035//Diaochan
+To all players who love
+us, be sure to bring us
+home! Farewell!!
+#
+#
+#
+#036
+#
+#
+#
+#037
+#
+#
+#
+#038
+#
+#
+#
+#039
+#
+#
+#
+#040
+#
+#
+#

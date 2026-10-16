@@ -1,0 +1,565 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Ever since Temujin was betrothed
+to Borte at thirteen, his family
+had endured countless trials.
+Now Temujin was eighteen, and
+their fortunes had brightened.
+Seeing hope to revive their
+house, Mother Hoelun urged him
+to ride to the Onggirat and wed
+his bride. Bo'orchu, Jelme, and
+Subutai, brothers met in
+adversity, volunteered to follow
+him as his nokor. The party set
+forth to claim the bride...
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Dei Sechen
+%3Temujin%%, I can escort
+you no further.
+#
+#
+#
+#003//Temujin
+Father-in-law, you did
+not scorn my poverty
+and gave me your
+daughter, sending so
+rich a dowry. I will
+strive to bring %3Borte%%
+greatest happiness!
+#
+#
+#
+#004//Dei Sechen
+I have every faith in
+you. Through years of
+hardship, you have
+become an unyielding
+man. The future of the
+steppe is yours to
+forge!
+#
+#
+#
+#005//Temujin
+I shall remember your
+words and face every
+trial to come!
+#
+#
+#
+#006//Dei Sechen
+%3Borte%%, however harsh
+life becomes, stand
+always by your
+husband's side. Support
+him, raise your
+children, and be his
+unshakeable pillar!
+#
+#
+#
+#007//Borte
+Father, your daughter
+holds your words close.
+I can no longer stay by
+your side; pray take
+good care of your
+health!
+#
+#
+#
+#008//Dei Sechen
+An escort of a thousand
+leagues must end. The
+way home is long; ride
+swiftly! Farewell!
+#
+#
+#
+#009//Toqto'a
+%3Temujin%% takes a bride!
+Heaven has eyes,
+granting us vengeance!
+Seize the bride!
+#
+#
+#
+#010//Toqto'a
+Retreat!
+#
+#
+#
+#011//Temujin
+Stay sharp! Guard the
+bridal cart and the
+dowry cattle!
+#
+#
+#
+#012//Borte
+Ah...! What are you
+doing?!
+#
+#
+#
+#013//Chiledu
+Aha! What a beautiful
+maiden...!
+#
+#
+#
+#014//Temujin
+%3Borte%%! Where is %3Borte%%?!
+%3Borte%%...! %3Borte%%...!
+#
+#
+#
+#015//Qasar
+Brother!
+Sister-in-law... In the
+panic just now, she
+vanished!
+#
+#
+#
+#016//Temujin
+No...! %3Borte%%! Oh, I
+failed to protect
+you...!
+#
+#
+#
+#017//Bo'orchu
+The %3Merkits%% did this!
+To think the vile
+steppe custom of
+bride-stealing struck
+us! %3Temujin%%, let us
+return home first to
+plan!
+#
+#
+#
+#018
+%3Temujin%% recounted the
+raid to his mother.
+#
+#
+#
+#019//Mother
+Alas! What bitter
+karma! This is a feud
+born of long ago...
+
+Back then, I was
+betrothed to %3Chiledu%% of
+the %3Merkits%%. On our
+wedding journey home,
+we met %3Yesugei%% on the
+hunt. %3Yesugei%% carried
+me off to be his bride.
+
+Knowing the steppe ways
+and powerless to
+resist, I had to yield
+to fate... Later, I
+found your father was a
+great hero. We loved
+each other deeply, and
+even now I have never
+forgotten his devotion.
+
+Yet the %3Merkits%% could
+never swallow that
+insult. Now they settle
+that ancient debt...
+Poor %3Borte%%, suffering
+for deeds of the past!
+#
+#
+#
+#020//Temujin
+No! I will tear %3Borte%%
+back from their grasp!
+#
+#
+#
+#021//Mother
+%3Temujin%%, this is a
+bitter pill to swallow.
+Whatever misfortune
+befell %3Borte%%, you must
+cherish and love her.
+She is your wife
+forever!
+#
+#
+#
+#022
+Hearing word, %3Chilaun%%
+and %3Qubilai%% rushed over
+with men. %3Temujin%%
+greeted them, and they
+weighed how to reclaim
+%3Borte%%.
+#
+#
+#
+#023//Qubilai
+The %3Merkits%% are vast in
+number. We alone cannot
+defeat them, unless
+other clans agree to
+ride to war with us!
+#
+#
+#
+#024//Temujin
+Aye... (Lost in
+thought...)
+
+Two men come to mind:
+%3Jamukha%%, my sworn anda,
+now chieftain of the
+%3Jadaran clan%%; and %3Ong
+Khan%% of the %3Kereit%%,
+father's sworn anda.
+Only they can help us!
+First, %2I must find the
+two Amethyst Crystals
+pledged with Jamukha%%,
+and seek his aid!
+#
+#
+#
+#025//Temujin
+I must find both
+%3Amethyst Crystals%%
+before I can face
+%3Jamukha%%.
+#
+#
+#
+#026//Temujin
+All tokens found! I can
+go see %3Jamukha%% now.
+#
+#
+#
+#027//Temujin
+I am %3Temujin%%,
+requesting audience
+with Lord %3Jamukha%%.
+#
+#
+#
+#028//Guard
+Enter.
+#
+#
+#
+#029//Jamukha
+%3Temujin%%, my anda! You
+found both %3Amethyst
+Crystals%%! It reminds me
+of our youth upon the
+steppe! Hahaha...
+glorious days!
+#
+#
+#
+#030
+After greeting each
+other, %3Temujin%% voiced
+his request.
+#
+#
+#
+#031//Jamukha
+I will help you take
+vengeance! When you are
+ready to march, I will
+send ten thousand men!
+#
+#
+#
+#032//Temujin
+Thank you! Now I must
+seek %3Ong Khan%% of the
+%3Kereit%%, to entreat his
+aid as well.
+#
+#
+#
+#033//Jamukha
+The %3Kereit%% are the
+mightiest tribe of the
+south. %3Ong Khan%% is
+hunting north; if he
+marches, all the
+better! And his general
+%3Muqali%%--with him beside
+us, the %3Merkit clan%%
+will be trampled into
+dust!
+#
+#
+#
+#034//Temujin
+I am %3Temujin%%, eldest
+son of %3Yesugei%%, come to
+pay respects.
+#
+#
+#
+#035//Ong Khan
+Your father and I were
+sworn andas; I am as a
+father to you. Your
+grievance is my
+disgrace! And yet... I
+have many mouths to
+feed, and the cattle in
+our pens dwindle. My
+people must eat!
+#
+#
+#
+#036//Temujin
+Father Khan, these
+cattle were %3Borte%%'s
+bridal dowry. As my
+father's anda and my
+elder, pray accept her
+dowry!
+#
+#
+#
+#037//Ong Khan
+Haha! Well said! I
+shall send warriors to
+support you!
+#
+#
+#
+#038//Temujin
+Could General %3Muqali%%
+march with us as well?
+#
+#
+#
+#039//Ong Khan
+%3Muqali%%? He is not so
+mighty as they claim,
+and I had no mind to
+send him. Yet legends
+tell of a staff in the
+%3Namurun Ruins%%. Bring me
+that staff, and perhaps
+I will consider!
+#
+#
+#
+#040//Ong Khan
+Haha! It is indeed the
+%3White Stag Staff%%! Lost
+for so long, and now in
+my hands! Hahaha! I
+shall send warriors to
+avenge your grievance!
+%3Muqali%%, march with the
+army!
+#
+#
+#
+#041//Temujin
+A heavy staff, pale and
+pure. Grasping it,
+strange warmth courses
+into my palm. %2Deliver
+this staff to Father
+Ong Khan.%%
+#
+#
+#
+#042//Muqali
+%3Temujin%%, the %3Namurun
+Ruins%% lie behind us.
+%3Ong Khan%% sent scouts
+before, but none found
+the %3White Stag Staff%%.
+#
+#
+#
+#043//Temujin
+So you are %3Muqali%%! I
+shall find the %3White
+Stag Staff%% without
+fail, so you may march
+with us!
+#
+#
+#
+#044
+%3Temujin%% paid polite
+homage to %3Ong Khan%%,
+praising his deeds,
+which pleased the Khan
+greatly. When %3Temujin%%
+asked for troops, %3Ong
+Khan%% pondered a
+moment...
+#
+#
+#
+#045//Temujin
+Mother, I understand.
+#
+#
+#
+#046//Muqali
+Aye, Khan!
+#
+#
+#
+#047
+Your care for your folk
+is a blessing. %2I offer
+our cattle to Father
+Khan.%% (%3Borte%%, without
+your leave I gave your
+dowry to Father Khan.
+May you forgive my
+choice...)
+#
+#
+#
+#048
+An %3Amethyst Crystal%%!
+Pick it up.
+#
+#
+#
+#049
+Discovered a staff!
+Pick it up.
+#
+#
+#
+#050
+#
+#
+#
+#051
+#
+#
+#
+#052
+#
+#
+#
+#053
+#
+#
+#
+#054
+#
+#
+#
+#055
+#
+#
+#
+#056
+#
+#
+#
+#057
+#
+#
+#
+#058
+#
+#
+#
+#059
+#
+#
+#
+#06
+#
+#
+#
+#200
+Objective: Return home safely
+Defeat: Temujin falls in battle
+Time Limit: 3 Years (End of 1182
+AD)
+#
+#
+#
+#201
+Objective: Temujin brings two
+Amethyst Crystals to Jamukha
+Defeat: Temujin falls in battle
+Time Limit: 3 Years (End of 1182
+AD)
+#
+#
+#
+#202
+Objective: Entreat Ong
+Khan for aid; herd 8
+cattle into pen Defeat:
+Temujin falls in battle
+Time Limit: 3 Years
+(End of 1182 AD)
+#
+#
+#
+#203
+Objective: Clear
+Namurun Ruins; Temujin
+presents White Stag
+Staff to Ong Khan
+Defeat: Temujin falls
+in battle Time Limit: 3
+Years (End of 1182 AD)
+#
+#
+#
+#204
+Objective: Defeat: Time
+Limit:
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#

@@ -1,0 +1,57 @@
+Castles   Switch to Castle Management window
+Combat    Switch to Battlefield Combat window
+Diplomacy Switch to Foreign Affairs window
+System    Switch to System Menu window
+Standard  Left-click field to plant Rally Standard
+Terrain   Toggle terrain satellite layer
+Next City Switch focus to next friendly castle
+Domestic  Manage municipal and domestic affairs
+Military  Manage garrison and defense affairs
+Officers  View detailed roster of castle officers
+Intel     Review national city and general intelligence
+Governor  Appoint an officer as municipal Governor
+Transport Adjust gold and food loaded onto supply wagon
+Trade     Trade grain when merchant carts enter city
+Population Current population / Monthly change forecast
+Gold      Current treasury / Monthly net tax income
+Food      Current food stock / Monthly net grain harvest
+Troops    Officers count / Total enlisted soldier count
+Reserves  Conscripted pool awaiting regiment assignment
+Garrison  Select officers to deploy outside castle gates
+Sort by Force
+Sort by Intellect
+Sort by Command
+Appoint   Assign an officer to domestic ministry duties
+Repair    Click damaged gates or walls with hammer to repair
+Equip     Drag soldier icons to attach troops to officers
+Form Infantry Battalion
+Form Spearman Battalion
+Form Cavalry Squadron
+Form Archer Squadron
+Form Catapult Division
+Form Special Division
+Token     Bestow token upon eligible officer to promote rank
+Medal     Bestow medal upon eligible officer to upgrade unit
+Dungeon   Inspect captured enemy prisoners in dungeon
+Recruit   Attempt persuasion to recruit prisoner as vassal
+Release   Release prisoner peacefully to home fief
+Execute   Execute prisoner permanently
+Selected regiments can be commanded or given tactics below
+Group     Press Group then number key to bind battalion
+Call Group Press number key to call and focus on battalion
+Disband   Disband formed tactical battle group
+Line Formation
+Wedge Formation
+Crescent Formation
+Flank Formation
+Square Formation
+Disband Formation
+Aggressive Wide alert range, relentless pursuit mode
+Defensive  Moderate alert range, returns to station after repelling
+Stand Ground Strict guard duty around designated point
+Light Wound Retreat to city when HP drops to 2/3
+Heavy Wound Retreat to city when HP drops to 1/4
+Fight to Death No retreat under any circumstances
+Patrol    Left click end destination for cyclic patrol
+Assemble  Advance and muster at Battle Standard
+Halt      Halt march immediately and hold current ground

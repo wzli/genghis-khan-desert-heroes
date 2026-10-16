@@ -1,0 +1,632 @@
+#000//Intro
+Listen closely...
+#
+#
+#
+#001//Prologue
+Around Lake Hulun and Lake Buir
+lies the lush Hulunbuir steppe.
+The Nirun tribe dwelling here
+was once part of the Mongols,
+but had split away to live
+independently. To safeguard
+their power, they allied with
+the Tatars--the ancient mortal
+enemies of the Mongols.
+Meanwhile, Buyruk Khan, brother
+to Tayang Khan of the Naimans,
+had broken away from his brother
+and established his own
+stronghold in the Altai
+Mountains, constantly raiding
+the Kereits. On the steppe, when
+rival powers stand equally
+matched, conflict reaches its
+boiling point. To unite all
+Mongols, Temujin set his sights
+on reclaiming the Nirun. Yet
+what consequences would this
+conquest unleash?
+#
+#
+#
+#099//Epilogue
+#
+#
+#
+#002//Temujin
+Send an envoy to
+persuade the %3Nirun clan%%
+to forge an alliance
+with us.
+#
+#
+#
+#003//Envoy
+Departing immediately
+for the %3Nirun clan%%!
+#
+#
+#
+#004//Envoy
+Greetings, %3Muqur Khan%%.
+I am an envoy from
+%3Temujin%%. The %3Nirun%% and
+the %3Kiyad%% share common
+ancestors. Now that
+%3Temujin%% has been
+elected Khan of the
+%3Mongols%%, we hope %3Muqur
+Khan%% will rejoin the
+fold to form a united
+alliance.
+#
+#
+#
+#005//Muqur Khan
+Who does %3Temujin%% think
+he is? I rule the rich
+and fertile %3Hulunbuir
+steppe%%! The
+neighbouring %3Tatars%% and
+%3Jadaran%% have long been
+our allies. Who cares
+for your upstart
+%3Temujin%%? Begone, or
+face my wrath!
+#
+#
+#
+#006//Rejection
+The %3Nirun clan%% rejected
+%3Temujin's%% overture with
+coarse insults, driving
+away his envoy.
+#
+#
+#
+#007//Temujin
+If diplomacy fails, we
+must take the %3Nirun
+clan%% by force of arms!
+#
+#
+#
+#008//Jebe
+The army is assembled
+and ready to march!
+#
+#
+#
+#009//Muqali Arrives
+Just then, %3Muqali%%, a
+valiant commander under
+%3Ong Khan%%, galloped
+urgently to the yurt,
+requesting audience
+with %3Temujin%%.
+#
+#
+#
+#010//Muqali
+Khan %3Temujin%%! Our
+forces have been
+ambushed by %3Buyruk Khan%%
+of the %3Naimans%%! %3Ong
+Khan%% has dispatched me
+to plead for your
+immediate aid!
+#
+#
+#
+#011//Temujin
+%3Ong Khan%% has shown me
+great kindness; we
+share the sacred bond
+of father and son! %2Ride
+out at once to rescue
+Ong Khan!%%
+#
+#
+#
+#012//Muqali
+Disaster! %3Buyruk Khan's%%
+host has already
+overrun our camp!
+#
+#
+#
+#013//Temujin
+Execute swift assault
+tactics!
+#
+#
+#
+#014//Camp Secured
+%3Ong Khan%%, %3Jakha Gambu%%,
+and %3Senggum%% must be
+fighting ahead. Make
+haste to relieve them!
+#
+#
+#
+#015//Senggum
+Cursed %3Naimans%%! Taste
+my blade...!
+#
+#
+#
+#016//Jakha Gambu
+My brother, %3Ong Khan%%,
+is surrounded by %3Buyruk
+Khan%% ahead! Save him!
+#
+#
+#
+#017//Ong Khan
+How dare you seize my
+camp and pillage my
+wealth...!
+#
+#
+#
+#018//Buyruk Khan
+Reduced to this
+wretched state, old
+fool? I shall take your
+life here and now!
+#
+#
+#
+#019//Buyruk Khan
+We were on the verge of
+victory! %3Temujin%%, I
+shall never forget this
+grudge! Fall back!
+#
+#
+#
+#020//Ong Khan
+%3Temujin%%, did you
+recover all of my
+plundered herds and
+treasures?
+#
+#
+#
+#021//Temujin
+All have been restored
+to you, Khan Father.
+%3Buyruk Khan%% is indeed a
+formidable foe, else he
+could not have defied
+%3Tayang Khan%% to carve
+out his own realm in
+the Altai.
+#
+#
+#
+#022//Ong Khan
+The hatred between me
+and the %3Naimans%% is like
+that between your
+%3Mongols%% and the
+%3Tatars%%--an unyielding
+feud through
+generations. I wish to
+return to %3Karakorum%%,
+raise a magnificent
+golden tent, and enjoy
+my twilight years.
+Farewell, %3Temujin%%!
+#
+#
+#
+#023//Temujin
+Good. %2Advance the army
+toward the Nirun clan;
+I shall claim this rich
+pasture!%%
+#
+#
+#
+#024//Muqur Khan
+%3Temujin%%, you greedy
+wolf prowling the
+steppe for prey! You
+will not prevail today!
+#
+#
+#
+#025//Temujin
+%3Muqur Khan%%, we spring
+from the same root and
+should stand united.
+For years the Mongols
+lacked a common leader
+and were torn asunder.
+Now that I am Khan, our
+clans must return
+together!
+#
+#
+#
+#026//Muqur Khan
+Bah! Who cannot see
+through your scheming
+ambitions? Begone from
+my lands!
+#
+#
+#
+#027//Muqur Khan
+Argh! Too powerful!
+Bring reinforcements!
+#
+#
+#
+#028//Tatar Reinforcements
+A detachment of %3Tatar%%
+reinforcements arrives!
+#
+#
+#
+#029//Pastures Seized
+The grass here is lush
+and sweet, the pastures
+of my dreams! Here our
+steeds shall thunder,
+our herds shall
+multiply, and fair
+maidens shall attend
+me! Hahaha...!
+#
+#
+#
+#030//Jebe
+Khan %3Temujin%%...
+#
+#
+#
+#031//Temujin
+Forgive me, I let my
+joy carry me away!
+Hahaha!
+#
+#
+#
+#032//Coalition Gathers
+When %3Temujin%% seized the
+%3Nirun clan%%, it alarmed
+the tribes of the east.
+Common peril forged a
+temporary alliance: the
+%3Tatars%%, %3Jadaran%%,
+%3Merkits%%, %3Naimans%%,
+%3Oirats%%, %3Onggirats%%,
+%3Nirun%%, and others
+gathered together.
+#
+#
+#
+#062
+The chieftains gathered
+in a grand assembly,
+proclaiming %3Jamukha%% of
+the %3Jadaran%% as
+%3Gurkhan%%--universal Khan
+of Khans. They resolved
+to strike together and
+crush %3Temujin%% and %3Ong
+Khan%%.
+#
+#
+#
+#063
+%3Jamukha%% laid out an
+ambush strategy and
+cleaved a horse in two,
+swearing a dire oath to
+terrorize any who might
+dream of breaking the
+covenant.
+#
+#
+#
+#064
+%3Temujin's%%
+father-in-law, %3Dei
+Sechen%% of the %3Onggirat%%,
+attended the assembly
+and secretly dispatched
+a rider to warn
+%3Temujin%%.
+#
+#
+#
+#065
+Upon receiving the
+warning, %3Temujin%% sent
+word to %3Ong Khan%% to
+mount a joint defense
+against the Eastern
+Coalition.
+#
+#
+#
+#033//Temujin
+%2Make haste back to our
+main camp! Do not let
+the enemy overrun our
+stronghold!%% Pray that
+%3Ong Khan's%% host arrives
+in time!
+#
+#
+#
+#034//Ong Khan
+%3Temujin%%, your Khan
+Father rides to your
+side! Deploy our forces
+for war!
+#
+#
+#
+#035//Jamukha
+Hear me, %3Temujin%%! You
+have encroached upon
+your neighbors,
+destroyed the
+%3Taichi'ut%%, and seized
+the %3Nirun%%! In my title
+as %3Gurkhan%% of the
+allied hosts, I swear
+to bring your downfall!
+#
+#
+#
+#036//Muqur Khan
+Give me back my %3Nirun%%
+pastures!
+#
+#
+#
+#037//Buyruk Khan
+Hmph!
+#
+#
+#
+#038//Torito
+%3Temujin%%, for a single
+woman you wrecked my
+camp! Today I take my
+revenge!
+#
+#
+#
+#039//Qodu
+Watch for openings,
+brother! We fight only
+when victory is
+certain!
+#
+#
+#
+#040//Chilaun
+Hehehe!
+#
+#
+#
+#041//Khutukha
+We must stand shoulder
+to shoulder, sharing
+the spoils!
+#
+#
+#
+#042//Tatar Chief
+We of the %3Tatar clan%%
+shall never suffer
+%3Temujin%% to grow mighty!
+#
+#
+#
+#043//Ong Khan
+Fools! Have you
+forgotten the wrath of
+%3Ong Khan%%?!
+#
+#
+#
+#044//Jamukha
+(Why are %3Ong Khan's%%
+warriors here as well?
+Someone betrayed our
+plans! Curse them...)
+All hosts, charge!
+#
+#
+#
+#045//Jamukha
+(%3Temujin%%, we shall
+never share this earth!
+Better to preserve my
+strength and slip away
+while chaos reigns...)
+#
+#
+#
+#046//Ong Khan
+Where do you think you
+are fleeing, %3Jamukha%%?!
+After him!
+#
+#
+#
+#047//Muqur Khan
+No hope of reclaiming
+the %3Nirun%% now! Run!
+#
+#
+#
+#048//Buyruk Khan
+All men, withdraw with
+me!
+#
+#
+#
+#049//Torito
+Make a run for it!
+#
+#
+#
+#050//Qodu
+The tide has turned!
+Scatter!
+#
+#
+#
+#051//Chilaun
+Time to vanish like the
+wind!
+#
+#
+#
+#052//Khutukha
+We struck our blow, now
+retreat!
+#
+#
+#
+#053//Tatar Chief
+Everyone is running? I
+am running too!
+#
+#
+#
+#054//Temujin
+Such an imposing
+coalition, yet nothing
+more than a
+disorganized mob! Had
+they held together, the
+outcome might have been
+dire indeed.
+#
+#
+#
+#055//Koiten Victory
+The %3Battle of Koiten%%
+lasted only a few days
+before %3Jamukha's%% grand
+alliance dissolved like
+smoke on the wind. The
+balance of power across
+the steppe had shifted
+forever.
+#
+#
+#
+#056//Defeat
+The main stronghold has
+fallen!
+#
+#
+#
+#057//Muqali
+The Khan is surrounded!
+Ride to his rescue!
+#
+#
+#
+#058//Ong Khan Slain
+%3Ong Khan%% has fallen!
+The rescue has failed!
+#
+#
+#
+#059//Altan
+Defend our pastures
+with your lives!
+#
+#
+#
+#060//Khuchar
+I will not let these
+savages plunder my
+wealth!
+#
+#
+#
+#061//Temujin
+Show the enemy the
+unstoppable power of
+unity!
+#
+#
+#
+#066
+%3Jochi%%, eldest son of
+%3Temujin%%, has reached
+manhood.
+#
+#
+#
+#200
+Objective: Dispatch an envoy to
+the Nirun clan Defeat: All
+friendly forces defeated Time
+Limit: 3 Years (End of 1202 AD)
+#
+#
+#
+#201
+Objective: Defeat Buyruk Khan's
+forces Defeat: Ong Khan falls in
+battle Time Limit: 3 Years (End
+of 1202 AD)
+#
+#
+#
+#202
+Objective: Seize the
+Nirun camp Defeat: All
+friendly forces
+defeated Time Limit: 3
+Years (End of 1202 AD)
+#
+#
+#
+#203
+Objective: Defend the
+main camp and repel all
+enemy forces Defeat:
+Main camp is overrun
+Time Limit: 3 Years
+(End of 1202 AD)
+#
+#
+#
+#204
+Objective: Defeat: Time
+Limit:
+#
+#
+#
+#297
+Temujin has fallen in battle...
+#
+#
+#
+#298
+All friendly forces defeated.
+Mission Failed.
+#
+#
+#
+#299
+Time limit expired. Mission
+Failed.
+#
+#
+#
