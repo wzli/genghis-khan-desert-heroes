@@ -59,18 +59,19 @@ cd genghis-khan-desert-heroes
 ## Table of Contents
 1. [Download Game (Ready-to-Play Package)](#-download-game-ready-to-play-turnkey-package)
 2. [Quick Start & Language Options](#-quick-start)
-3. [Setup & Execution (Linux & Windows)](#-complete-setup--execution)
+3. [In-Game Screenshots](#-in-game-screenshots)
+4. [Setup & Execution (Linux & Windows)](#-complete-setup--execution)
    - [Automated Setup Script (Linux)](#1-automated-setup-script-recommended)
    - [Flatpak Wine (Linux & Steam Deck)](#2-flatpak-wine-universal-linux--steam-deck)
    - [Native System Wine (Linux)](#3-native-system-wine)
    - [Running on Windows 10 / 11 / 7](#4-running-on-windows-windows-10--11--7)
    - [Container / Docker Deployment](#5-container--docker-deployment)
-4. [Key Improvements Over the Original Release](#-key-improvements-over-the-original-release)
-5. [Controls, Hotkeys & Button Mappings](#-controls-hotkeys--button-mappings)
-6. [Language Switching (English & Chinese)](#-language-switching)
-7. [Directory Structure](#-directory-structure)
-8. [Disclaimer & Notice-and-Takedown](#-disclaimer--notice-and-takedown)
-9. [Troubleshooting & FAQs](#-troubleshooting--faqs)
+5. [Key Improvements Over the Original Release](#-key-improvements-over-the-original-release)
+6. [Controls, Hotkeys & Button Mappings](#-controls-hotkeys--button-mappings)
+7. [Language Switching (English & Chinese)](#-language-switching)
+8. [Directory Structure](#-directory-structure)
+9. [Disclaimer & Notice-and-Takedown](#-disclaimer--notice-and-takedown)
+10. [Troubleshooting & FAQs](#-troubleshooting--faqs)
 
 ---
 
@@ -94,6 +95,30 @@ You can also double-click the desktop icon:
 成吉思汗之大漠英雄傳 (Genghis Khan 1999)
 ```
 *(Automatically placed on `~/Desktop` and in your Linux application menu).*
+
+---
+
+## 📸 In-Game Screenshots
+
+| English Main Menu | Campaign Mode & Historical Battles |
+| :---: | :---: |
+| ![English Main Menu](docs/screenshots/01_main_menu.png) | ![Campaign Mode](docs/screenshots/02_campaign_mode.png) |
+
+| Historical Stage Selection | Strategic World Map & Scenarios |
+| :---: | :---: |
+| ![Stage Selection](docs/screenshots/03_stage_selection.png) | ![Strategic Map](docs/screenshots/04_strategic_map.png) |
+
+| In-Game Story Dialogue (12px Font) | Real-Time Tactical Battlefield & HUD |
+| :---: | :---: |
+| ![Story Dialogue](docs/screenshots/05_story_dialogue.png) | ![Tactical Combat](docs/screenshots/06_tactical_battlefield.png) |
+
+| Hero Attributes & Inventory (INT Tab) | Multiplayer LAN & Lobby Setup |
+| :---: | :---: |
+| ![General Stats](docs/screenshots/07_general_stats.png) | ![Multiplayer Lobby](docs/screenshots/08_multiplayer_lobby.png) |
+
+| Original 1999 Traditional Chinese Mode |
+| :---: |
+| ![Original Chinese Mode](docs/screenshots/09_traditional_chinese.png) |
 
 ---
 
