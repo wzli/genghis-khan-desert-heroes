@@ -49,5 +49,8 @@ https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghi
 国内加速镜像（免翻墙直接下载）：
 https://ghfast.top/https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z
 
+Internet Archive 官方数字图书馆归档（支持 HTTP 直链与磁力种子）：
+https://archive.org/details/genghis-khan-desert-heroes-1999-native
+
 【免责声明】
 本项目为经典老游戏非商业性怀旧研究与系统兼容性修复，所有版权归原研发及发行公司所有。如有任何版权问题请联系 wzli.dev@gmail.com。

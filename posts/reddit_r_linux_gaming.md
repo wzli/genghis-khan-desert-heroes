@@ -36,3 +36,9 @@ cd genghis-khan-desert-heroes
 
 GitHub Repo with complete disassembly write-up:
 https://github.com/wzli/genghis-khan-desert-heroes
+
+GitHub Release v1.0:
+https://github.com/wzli/genghis-khan-desert-heroes/releases/tag/v1.0
+
+Internet Archive Preservation Mirror:
+https://archive.org/details/genghis-khan-desert-heroes-1999-native
