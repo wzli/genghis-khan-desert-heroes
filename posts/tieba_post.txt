@@ -1,0 +1,24 @@
+【分享】成吉思汗之大漠英雄传(1999) 原生4K运行版+免Win98虚拟机+防崩溃+全双语切换
+
+各位成吉思汗吧和经典老游戏吧的吧友们好！
+当年很多玩过《成吉思汗：大漠英雄传》（诠积资讯出品，又名大漠英雄传）的玩家，在现代电脑 Win10/Win11 下一直很难完美运行，之前大多只能用 8GB 的 DOSBox Win98 虚拟机凑合玩，不仅笨重，还经常遇到鼠标飘移、暂停崩溃、滚屏太快飞掉的问题。
+
+最近花时间对游戏的 Hero.exe 进行了逆向工程修复和优化，制作了完全脱离虚拟机的原生绿色完整版（解压即玩）：
+
+主要特点：
+1. 彻底免虚拟机：Win10/Win11 直接双击运行，支持 4K 任意分辨率窗口化与无边框全屏（Alt+Enter 随时切换），告别黑屏和拉伸变形。
+2. 修复原版顽疾崩溃：修复了原版在现代电脑下点击战术地图或暂停时报 0x420bd5 内存错误的恶性 Bug，加了边界防护代码洞，再也不会闪退。
+3. 调整边缘滚屏速度：原版在现代屏幕上一碰边缘就飞出十万八千里，现在调整为舒适平稳的 RTS 移屏速度。
+4. 剧情对话不限时：取消原版倒计时强制跳过对话的设定，可以慢慢看剧情。
+5. 全中文+全英文双语切换：首创英文 12px 正常字距排版，内含一键切换脚本。
+6. 完整 14 首 CD 原声背景音乐和开场高画质动画。
+
+GitHub 开源项目与汇编逆向文档：
+https://github.com/wzli/genghis-khan-desert-heroes
+
+网盘与 GitHub Release 下载（约 284 MB）：
+https://github.com/wzli/genghis-khan-desert-heroes/releases/tag/v1.0
+国内加速下载链接：
+https://ghfast.top/https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z
+
+纯技术交流与老游戏怀旧分享，无任何商业用途！如有版权疑问请联系 wzli.dev@gmail.com。

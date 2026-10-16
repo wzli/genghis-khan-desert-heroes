@@ -1,0 +1,53 @@
+【原创首发】成吉思汗之大漠英雄传(1999/2001) 原生4K运行版+全双语切换+彻底脱离Win98虚拟机+防崩溃补丁
+
+【游戏简介】
+《成吉思汗之大漠英雄传》（英文：Genghis Khan: Desert Heroes）是由台湾诠积资讯（GrandTech）开发、智冠科技/光谱资讯发行的经典历史题材即时战略+RPG游戏。
+之前论坛大佬“谭宽宇0429”曾分享过集成了DOSBox Win98虚拟机的镜像版（原帖：https://www.52pojie.cn/thread-1402492-1-1.html），非常感谢原帖作者的珍贵分享！
+但由于原版依赖 8GB 的 Win98 虚拟机磁盘镜像，且在现代系统下存在鼠标延迟、暂停崩溃、滚屏过快等痛点。经过逆向工程与深度修补，现将全套游戏“解救”为开箱即用的原生运行完整版！
+
+【主要修复与逆向工程成果】
+1. 彻底脱离虚拟机，全平台原生运行：
+   - Windows 10 / 11：直接双击 Launch_Game_Win.bat（或 Hero.exe）即玩。
+   - Linux / Steam Deck：直接运行 ./run_native.sh（内置 Flatpak/Wine 自动检测与 Big5 区域编码适配）。
+   - 体积从原版 8GB 压缩精简至 284 MB 独立完整版（内含全部 14 首 CD 音轨、原版动画与语音）。
+
+2. 现代 4K DirectDraw 渲染与窗口化：
+   - 整合开源渲染器 cnc-ddraw，完美支持 4K 等任意分辨率，4:3 等比例保真缩放，彻底解决黑边与画面撕裂。
+   - 支持全屏/窗口自由切换：游戏内随时按下 Alt + Enter 即可在有边框窗口与无边框全屏之间丝滑切换。
+   - 彻底解决鼠标移动延迟（1:1 硬件鼠标穿透）。
+
+3. 关键崩溃 Bug 修复（代码洞 Bounds Guard）：
+   - 原版在现代系统下，当游戏处于暂停状态或鼠标点击战术地图边缘/黑边时，会触发 0x00420bd5 (testb $1, 0xf(%edx)) 内存非法读取导致崩溃（Page Fault）。
+   - 通过在 0x420bcc 安装 19 字节 Detour 钩子，跳转至 0x47f480 代码洞注入越界检查与空指针保护，彻底杜绝了暂停崩溃。
+
+4. 边缘滚屏速度校准：
+   - 原版在现代高刷新率显示器下，鼠标移至屏幕边缘时地图会以极快速度飞移。
+   - 逆向分析主循环多媒体计时器（VA 0x42f6da），将滚屏计数除数从 3 调整为 50（减缓约 16.7 倍），边缘触发延时从 3 调为 10，恢复如丝般顺滑的 RTS 战术移动视角。内置 scripts/set_scroll_speed.py 可自由调节。
+
+5. 取消对话强制自动倒计时推进：
+   - 原版对话会在计时器归零后强制翻页消失。通过 NOP 掉 0x46cbb4 与 0x46cdac 计时器分支，现在所有剧情对话均无限等待玩家按 Space / Enter 或鼠标点击确认。
+
+6. 快捷键与游戏速度控制：
+   - 支持主键盘顶部数字键“+” / “-”及小键盘键即时切换游戏慢速/正常/快速。
+   - 战术指令面板快捷键：A(攻击)、D(防御)、F(坚守)、Q(返回战术面板) 等。
+
+7. 完整中英双语即时切换：
+   - 保留 100% 原始繁体中文版（Big-5 原始字库与界面）。
+   - 原创完整英文化：通过逆向 0x46ce0f 将双字节 24px 字体步进改为 12px ASCII 可变宽排版，不仅菜单、兵种、396 位历史武将全部英文化，且支持 1 键双向即时切换！
+
+8. 存档预解锁：
+   - 内置第 11～19 关战役通关存档，解压即可直接选关游玩。
+
+【开源仓库与逆向分析文档】
+GitHub 仓库地址（包含全部逆向汇编分析文档 REVERSE_ENGINEERING.md 与补丁源码）：
+https://github.com/wzli/genghis-khan-desert-heroes
+
+【下载地址】
+GitHub Release 官方下载（全球高速）：
+https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z
+
+国内加速镜像（免翻墙直接下载）：
+https://ghfast.top/https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z
+
+【免责声明】
+本项目为经典老游戏非商业性怀旧研究与系统兼容性修复，所有版权归原研发及发行公司所有。如有任何版权问题请联系 wzli.dev@gmail.com。
