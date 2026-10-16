@@ -13,20 +13,64 @@ Pre-configured to run out-of-the-box natively on **Windows 10/11** and **Linux /
 
 ---
 
+## 📥 Download Game (Ready-to-Play Turnkey Package)
+
+> [!IMPORTANT]
+> **Because original CD audio, cinematics, and game media total 284 MB, the full playable game package is distributed via high-speed release mirrors rather than bloated directly into the git source repository.**
+> Download the pre-packaged, zero-setup 284 MB archive from any mirror below:
+
+| Mirror | Direct Download Link | Format / Speed |
+| :--- | :--- | :--- |
+| **GitHub Releases (v1.0)** | [📥 **Download Game Release (284 MB)**](https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z) | `.7z` / Global High-Speed CDN |
+| **Internet Archive (archive.org)** | [📥 **Download from Archive.org**](https://archive.org/download/genghis-khan-desert-heroes-1999-native/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z) | `.7z` / Permanent Digital Preservation & [Torrent](https://archive.org/download/genghis-khan-desert-heroes-1999-native/genghis-khan-desert-heroes-1999-native_archive.torrent) |
+| **China Fast Mirror (国内直链)** | [📥 **国内免翻墙极速下载 (284 MB)**](https://ghfast.top/https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z) | `.7z` / Direct Mirror for Mainland China |
+
+---
+
+### ⚡ 30-Second Quick Start
+
+#### 🪟 On Windows 10 / 11 / 7
+1. **Download** `Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z` from the table above.
+2. **Extract** the 7z archive anywhere on your PC (using [7-Zip](https://www.7-zip.org/) or WinRAR).
+3. **Double-click `Launch_Game_Win.bat`** to play!
+   - *To toggle between English and Traditional Chinese, double-click `Switch_Language_Win.bat`.*
+   - *Press `Alt + Enter` anytime for borderless 4K fullscreen.*
+
+#### 🐧 On Linux / Steam Deck
+1. **Download** `Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z` from the table above.
+2. **Extract** the archive and open a terminal inside the folder:
+   ```bash
+   ./setup.sh
+   ./run_native.sh
+   ```
+   *(On Steam Deck, run `./setup.sh` in Desktop Mode once, then add `run_native.sh` as a Non-Steam Game to launch in Gaming Mode).*
+
+#### 🛠 Or Clone via Git (Zero-Config Auto-Downloader)
+If you clone this repository directly via Git, `./setup.sh` will automatically detect missing binaries, download the 284 MB package for you, and extract everything into place:
+```bash
+git clone https://github.com/wzli/genghis-khan-desert-heroes.git
+cd genghis-khan-desert-heroes
+./setup.sh
+./run_native.sh
+```
+
+---
+
 ## Table of Contents
-1. [Quick Start](#-quick-start)
-2. [Setup & Execution (Linux & Windows)](#-complete-setup--execution)
+1. [Download Game (Ready-to-Play Package)](#-download-game-ready-to-play-turnkey-package)
+2. [Quick Start & Language Options](#-quick-start)
+3. [Setup & Execution (Linux & Windows)](#-complete-setup--execution)
    - [Automated Setup Script (Linux)](#1-automated-setup-script-recommended)
    - [Flatpak Wine (Linux & Steam Deck)](#2-flatpak-wine-universal-linux--steam-deck)
    - [Native System Wine (Linux)](#3-native-system-wine)
    - [Running on Windows 10 / 11 / 7](#4-running-on-windows-windows-10--11--7)
    - [Container / Docker Deployment](#5-container--docker-deployment)
-3. [Key Improvements Over the Original Release](#-key-improvements-over-the-original-release)
-4. [Controls, Hotkeys & Button Mappings](#-controls-hotkeys--button-mappings)
-5. [Language Switching (English & Chinese)](#-language-switching)
-6. [Directory Structure](#-directory-structure)
-7. [Disclaimer & Notice-and-Takedown](#-disclaimer--notice-and-takedown)
-8. [Troubleshooting & FAQs](#-troubleshooting--faqs)
+4. [Key Improvements Over the Original Release](#-key-improvements-over-the-original-release)
+5. [Controls, Hotkeys & Button Mappings](#-controls-hotkeys--button-mappings)
+6. [Language Switching (English & Chinese)](#-language-switching)
+7. [Directory Structure](#-directory-structure)
+8. [Disclaimer & Notice-and-Takedown](#-disclaimer--notice-and-takedown)
+9. [Troubleshooting & FAQs](#-troubleshooting--faqs)
 
 ---
 

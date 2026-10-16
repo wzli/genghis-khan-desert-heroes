@@ -44,6 +44,12 @@ pkill -9 -x "Hero.exe" 2>/dev/null || true
 pkill -9 -f "org.winehq.Wine" 2>/dev/null || true
 sleep 0.5
 
+# Ensure game assets exist, or run setup.sh automatically
+if [ ! -f "$GAME_DIR/Hero.exe" ] && [ ! -f "$GAME_DIR/Hero.exe.en" ]; then
+    echo "[INFO] Game assets not found. Launching setup.sh to download..."
+    "$DIR/setup.sh"
+fi
+
 # If language specified, apply it; otherwise default to English on first run
 if [ -n "$SELECTED_LANG" ]; then
     "$DIR/switch_language.sh" "$SELECTED_LANG"

@@ -8,6 +8,56 @@ echo "=================================================================="
 echo " 成吉思汗之大漠英雄傳 (Genghis Khan 1999) - System Setup & Installer"
 echo "=================================================================="
 
+# 0. Check for game assets (if cloned via git without heavy binaries)
+if [ ! -f "$DIR/assets/game/Hero.exe" ] && [ ! -f "$DIR/assets/game/Hero.exe.en" ]; then
+    echo "=================================================================="
+    echo " [INFO] Game binary and media assets not found in assets/game/."
+    echo " [INFO] Downloading pre-packaged game release (284 MB)..."
+    echo "=================================================================="
+    
+    DL_URL="https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z"
+    DL_BACKUP="https://archive.org/download/genghis-khan-desert-heroes-1999-native/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z"
+    DL_CHINA="https://ghfast.top/https://github.com/wzli/genghis-khan-desert-heroes/releases/download/v1.0/Genghis_Khan_Desert_Heroes_v1.0_Bilingual.7z"
+    
+    TMP_7Z="/tmp/Genghis_Khan_Release.7z"
+    TMP_DIR="/tmp/Genghis_Khan_Extract_$$"
+    
+    if ! command -v 7z &>/dev/null && ! command -v 7za &>/dev/null; then
+        echo "[INFO] 7z is required to extract game assets. Installing p7zip..."
+        if command -v apt-get &>/dev/null; then
+            sudo apt-get update && sudo apt-get install -y p7zip-full || true
+        elif command -v dnf &>/dev/null; then
+            sudo dnf install -y p7zip p7zip-plugins || true
+        elif command -v pacman &>/dev/null; then
+            sudo pacman -S --needed p7zip || true
+        fi
+    fi
+    
+    echo "[INFO] Fetching archive..."
+    if command -v curl &>/dev/null; then
+        curl -L --fail --progress-bar -o "$TMP_7Z" "$DL_URL" || \
+        curl -L --fail --progress-bar -o "$TMP_7Z" "$DL_CHINA" || \
+        curl -L --fail --progress-bar -o "$TMP_7Z" "$DL_BACKUP"
+    elif command -v wget &>/dev/null; then
+        wget -O "$TMP_7Z" "$DL_URL" || \
+        wget -O "$TMP_7Z" "$DL_CHINA" || \
+        wget -O "$TMP_7Z" "$DL_BACKUP"
+    else
+        echo "[ERROR] Neither curl nor wget found. Please download $DL_URL manually."
+        exit 1
+    fi
+    
+    echo "[INFO] Extracting assets..."
+    SEVENZIP_CMD="7z"
+    command -v 7z &>/dev/null || SEVENZIP_CMD="7za"
+    "$SEVENZIP_CMD" x "$TMP_7Z" -o"$TMP_DIR" -y > /dev/null
+    
+    mkdir -p "$DIR/assets"
+    cp -rn "$TMP_DIR"/Genghis_Khan_Desert_Heroes/assets/* "$DIR/assets/" 2>/dev/null || true
+    rm -rf "$TMP_DIR" "$TMP_7Z"
+    echo "[OK] Game assets successfully installed!"
+fi
+
 # 1. Detect Wine runtime
 HAS_WINE=false
 HAS_FLATPAK_WINE=false
